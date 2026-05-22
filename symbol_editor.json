@@ -73,7 +73,19 @@
     "origin_y": 0.0
   },
   "lib_field_editor": {
-    "field_widths": {},
+    "field_widths": {
+      "${EXCLUDE_FROM_BOARD}": 100,
+      "${EXCLUDE_FROM_BOM}": 100,
+      "${EXCLUDE_FROM_SIM}": 100,
+      "Datasheet": 100,
+      "Footprint": 100,
+      "Keywords": 110,
+      "LocalPower": 100,
+      "Power": 100,
+      "Reference": 60,
+      "Symbol Name": 113,
+      "Value": 100
+    },
     "sash_pos": 400,
     "sidebar_collapsed": false
   },
@@ -88,15 +100,7 @@
       "Description"
     ],
     "open_libs": [
-      "ks-crystals-oscillators",
-      "ks-diode",
-      "ks-opamp",
-      "ks-opto",
-      "ks-power",
-      "ks-regulator",
-      "ks-sigflow",
-      "ks-smps",
-      "ks-switchmux"
+      "ks-power"
     ]
   },
   "library": {
@@ -172,7 +176,7 @@
       "axes_enabled": true,
       "fast_grid_1": 1,
       "fast_grid_2": 2,
-      "last_size": 0,
+      "last_size": 3,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "override_connected": true,
