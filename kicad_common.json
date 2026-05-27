@@ -28,18 +28,18 @@
     "controls": {
       "*Footprint Properties": {
         "__geometry": {
-          "h": 695,
+          "h": 700,
           "w": 852,
           "x": 2459,
           "y": 211
         },
         "wxNotebook_0": "General",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 7",
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": true,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_0": 0,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxComboBox_0": "180",
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_0": "Bourns_CC453232",
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_1": "Inductor SMD 1812-size class, https://www.bourns.com/docs/Product-Datasheets/CC453232.pdf",
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxComboBox_0": "0",
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_0": 53840000,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_1": 9340000,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_2": "inductor",
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_1": false,
@@ -67,12 +67,12 @@
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_0wxTextCtrl_0": "1.0000",
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_0wxTextCtrl_1": "1.0000",
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_0wxTextCtrl_2": "1.0000",
-        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_1wxTextCtrl_0": "90.00°",
+        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_1wxTextCtrl_0": "0.00°",
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_1wxTextCtrl_1": "0.00°",
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_1wxTextCtrl_2": "0.00°",
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_0": "0.000000 mm",
-        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_1": "0.300000 mm",
-        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_2": "25.500000 mm",
+        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_1": "0.000000 mm",
+        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_2": "0.000000 mm",
         "wxNotebook_0wxPanel_3wxStaticBox_0wxChoice_0": 0,
         "wxNotebook_0wxPanel_3wxStaticBox_1wxGrid_0": "0",
         "wxNotebook_0wxPanel_3wxStaticBox_2wxCheckBox_0": false,
@@ -92,7 +92,7 @@
         "wxNotebook_0wxPanel_5wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_0": "0.000000 mm",
         "wxNotebook_0wxPanel_5wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_1": "0.000000 mm",
         "wxNotebook_0wxPanel_5wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_2": "0.000000 mm",
-        "wxTextCtrl_0": "ks-connector-audio:Jack_6.35mm_Neutrik_NSJ12HF-1_Horizontal"
+        "wxTextCtrl_0": "Capacitor_SMD:C_0603_1608Metric"
       },
       "*Library Symbol Properties": {
         "__geometry": {
@@ -1004,13 +1004,13 @@
           "x": 2106,
           "y": 202
         },
-        "wxNotebook_0": "Repository (109)",
+        "wxNotebook_0": "Installed (2)",
         "wxNotebook_0wxPanel_0wxChoice_0": 0,
         "wxNotebook_0wxPanel_0wxNotebook_0": "Plugins (66)",
         "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0": 380,
         "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_0wxScrolledWindow_0": 0,
         "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_0wxSearchCtrl_0": "via",
-        "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_1wxScrolledWindow_0": 9,
+        "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_1wxScrolledWindow_0": 0,
         "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_1wxScrolledWindow_0wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_1wxScrolledWindow_0wxGrid_0": "0 1 2 3 4",
         "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_1wxScrolledWindow_0wxHtmlWindow_0": 0,
@@ -1490,6 +1490,6 @@
     "pdf_viewer_name": "",
     "text_editor": "xed",
     "use_system_pdf_viewer": true,
-    "working_dir": "/home/ksl"
+    "working_dir": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120109_C25_EhcMidi_2a"
   }
 }
