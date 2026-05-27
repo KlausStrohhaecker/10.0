@@ -258,8 +258,9 @@
       "Description"
     ],
     "open_libs": [
-      "-- Recently Used --",
-      "ks-power"
+      "-- Already Placed --",
+      "ks-RCL",
+      "ks-regulator"
     ]
   },
   "lib_view": {
@@ -538,6 +539,7 @@
   },
   "system": {
     "file_history": [
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120109_C25_EhcMidi_2a/120109_C25_EhcMidi_2a.kicad_sch",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/erp-control/120106_C25_ErpControl_3a/120106_C25_ErpControl_3a.kicad_sch",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120107_C25_EhcMidi_1a/120107_C25_EhcMidi_1a.kicad_sch",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/erp-control/initial/erp_aktor_board_v2a.kicad_sch",
@@ -545,8 +547,7 @@
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/keybed-scanner-classic/120105_C25_KeybedScannerClassic_2a/120105_C25_KeybedScannerClassic_2a.kicad_sch",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/erp-control/120106_C25_ErpControl_2a/120106_C25_ErpControl_2a.kicad_sch",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/erp-control(abandoned)/120106_C25_ErpControl_2a/120106_C25_ErpControl_2a.kicad_sch",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/erp-actor/initial/erp_aktor_board_v2a.kicad_sch",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/keybed-scanner-classic/initial/keybed_scanner.kicad_sch"
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/erp-actor/initial/erp_aktor_board_v2a.kicad_sch"
     ],
     "first_run_shown": false,
     "last_imperial_units": 5,

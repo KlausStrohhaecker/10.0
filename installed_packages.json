@@ -1,0 +1,134 @@
+{
+    "packages": [
+        {
+            "current_version": "5.2.0",
+            "install_timestamp": 1779889158,
+            "package": {
+                "author": {
+                    "contact": {
+                        "github": "https://github.com/bennymeg"
+                    },
+                    "name": "Benny Megidish"
+                },
+                "description": "JLC PCB fabrication toolkit\nAutomate PCB fabrication process in conjunction with JLC PCB",
+                "description_full": "Toolkit for automating PCB fabrication process with KiCad and JLC PCB. \n\n Features: \n• Generates gerber files in correct format for production. \n• Generates BOM file in correct format for production. \n• Generates Pick and Place file in correct format for assembly. \n• Automatic and manual component translations. \n• Many more unique additional features. \n♥ https://github.com/sponsors/bennymeg",
+                "identifier": "com.github.bennymeg.JLC-Plugin-for-KiCad",
+                "license": "Apache-2.0",
+                "maintainer": {
+                    "contact": {
+                        "github": "https://github.com/bennymeg"
+                    },
+                    "name": "Benny Megidish"
+                },
+                "name": "Fabrication Toolkit",
+                "resources": {
+                    "Sponsor": "https://github.com/sponsors/bennymeg",
+                    "homepage": "https://github.com/bennymeg/JLC-Plugin-for-KiCad"
+                },
+                "tags": [
+                    "jlc",
+                    "production",
+                    "fabrication",
+                    "toolkit"
+                ],
+                "type": "plugin",
+                "versions": [
+                    {
+                        "download_sha256": "4561b8feeeb37446caabeb815bc56b6e863760604bd1342781bccc91c767077a",
+                        "download_size": 21235,
+                        "download_url": "https://github.com/bennymeg/JLC-Plugin-for-KiCad/releases/download/5.2.0/JLC-Plugin-for-KiCad-5.2.0.zip",
+                        "install_size": 58037,
+                        "kicad_version": "6.00",
+                        "status": "stable",
+                        "version": "5.2.0"
+                    },
+                    {
+                        "download_sha256": "2285113715d24d6e581ee1bee4c8e2fd92ad92bc72737e1dd05f7c05210e0e67",
+                        "download_size": 17732,
+                        "download_url": "https://github.com/bennymeg/JLC-Plugin-for-KiCad/releases/download/4.5.0/JLC-Plugin-for-KiCad-4.5.0.zip",
+                        "install_size": 44106,
+                        "kicad_version": "6.00",
+                        "status": "stable",
+                        "version": "4.5.0"
+                    }
+                ]
+            },
+            "pinned": false,
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        },
+        {
+            "current_version": "3.0.0",
+            "install_timestamp": 1779889159,
+            "package": {
+                "author": {
+                    "contact": {
+                        "github": "https://github.com/sagarHackeD"
+                    },
+                    "name": "Sagar Naik"
+                },
+                "description": "Snap all selected footprints to the nearest grid point",
+                "description_full": "Snap all selected footprints to the nearest grid point. This is useful for quickly aligning multiple footprints to a grid.",
+                "identifier": "com.github.sagarHackeD.SnapToGridKiCAD",
+                "license": "GPL-3.0",
+                "maintainer": {
+                    "contact": {
+                        "github": "https://github.com/sagarHackeD"
+                    },
+                    "name": "Sagar Naik"
+                },
+                "name": "Snap To Grid",
+                "resources": {
+                    "homepage": "https://github.com/sagarHackeD/Snap_To_Grid_KiCAD"
+                },
+                "tags": [
+                    "snap",
+                    "footprint",
+                    "grid"
+                ],
+                "type": "plugin",
+                "versions": [
+                    {
+                        "download_sha256": "9a4d8e66c24bc390a22310e23652f7dbc4e0968fc6674ded3ca722f44a68b7f3",
+                        "download_size": 10188,
+                        "download_url": "https://github.com/sagarHackeD/Snap_To_Grid_KiCAD/releases/download/v3.0.0/kicad-package.zip",
+                        "install_size": 12576,
+                        "kicad_version": "6.0",
+                        "status": "stable",
+                        "version": "3.0.0"
+                    },
+                    {
+                        "download_sha256": "ec9fd4af6a906d0d5c0aafd98d6440715eefbd907a7965811a27a991b0128206",
+                        "download_size": 9212,
+                        "download_url": "https://github.com/sagarHackeD/Snap_To_Grid_KiCAD/releases/download/v2.0.0/kicad-package.zip",
+                        "install_size": 10028,
+                        "kicad_version": "6.0",
+                        "status": "stable",
+                        "version": "2.0.0"
+                    },
+                    {
+                        "download_sha256": "236bbeaaab77988f716dd7d467bffe30ea00eb3c5f3ad7374795fa2191e19087",
+                        "download_size": 9592,
+                        "download_url": "https://github.com/sagarHackeD/Snap_To_Grid_KiCAD/releases/download/v1.0.1/kicad-package.zip",
+                        "install_size": 11223,
+                        "kicad_version": "6.0",
+                        "status": "stable",
+                        "version": "1.0.1"
+                    },
+                    {
+                        "download_sha256": "fdb60cdda0c448c43811bc34354a7e7b0d0fe36c3f92af974e4ebe2dd353f783",
+                        "download_size": 8897,
+                        "download_url": "https://github.com/sagarHackeD/Snap_To_Grid_KiCAD/releases/download/v1.0.0/kicad-package.zip",
+                        "install_size": 10130,
+                        "kicad_version": "6.0",
+                        "status": "stable",
+                        "version": "1.0.0"
+                    }
+                ]
+            },
+            "pinned": false,
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        }
+    ]
+}

@@ -100,7 +100,7 @@
       "Description"
     ],
     "open_libs": [
-      "ks-power"
+      "ks-RCL"
     ]
   },
   "library": {
