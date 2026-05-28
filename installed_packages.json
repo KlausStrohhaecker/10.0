@@ -34,6 +34,15 @@
                 "type": "plugin",
                 "versions": [
                     {
+                        "download_sha256": "70fe1ecc4858c5c44a3aedb6eafff80515e7837e48921c983c6fb2d8b19d9938",
+                        "download_size": 21723,
+                        "download_url": "https://github.com/bennymeg/Fabrication-Toolkit/releases/download/v5.3.0/Fabrication-Toolkit-5.3.0.zip",
+                        "install_size": 59132,
+                        "kicad_version": "6.00",
+                        "status": "stable",
+                        "version": "5.3.0"
+                    },
+                    {
                         "download_sha256": "4561b8feeeb37446caabeb815bc56b6e863760604bd1342781bccc91c767077a",
                         "download_size": 21235,
                         "download_url": "https://github.com/bennymeg/JLC-Plugin-for-KiCad/releases/download/5.2.0/JLC-Plugin-for-KiCad-5.2.0.zip",
@@ -59,7 +68,7 @@
         },
         {
             "current_version": "3.0.0",
-            "install_timestamp": 1779889159,
+            "install_timestamp": 1779985872,
             "package": {
                 "author": {
                     "contact": {
