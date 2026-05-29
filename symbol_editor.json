@@ -92,7 +92,7 @@
   "lib_table_width": 250,
   "lib_tree": {
     "column_widths": {
-      "Description": 406,
+      "Description": 405,
       "Item": 359
     },
     "columns": [
@@ -100,8 +100,20 @@
       "Description"
     ],
     "open_libs": [
+      "Comparator",
+      "ks-connector",
+      "ks-crystals-oscillators",
+      "ks-diode",
+      "ks-mcu-stm32",
+      "ks-opamp",
+      "ks-opto",
+      "ks-power",
       "ks-RCL",
-      "ks-regulator"
+      "ks-regulator",
+      "ks-sigflow",
+      "ks-smps",
+      "ks-switchmux",
+      "ks-transistor"
     ]
   },
   "library": {

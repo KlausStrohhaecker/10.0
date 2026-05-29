@@ -12,7 +12,7 @@
   "aui": {
     "appearance_expand_layer_display": true,
     "appearance_expand_net_display": false,
-    "appearance_panel_tab": 1,
+    "appearance_panel_tab": 0,
     "design_blocks_panel_docked_width": 880,
     "design_blocks_panel_float_height": -1,
     "design_blocks_panel_float_width": -1,
@@ -639,8 +639,8 @@
   },
   "system": {
     "file_history": [
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120107_C25_EhcMidi_1a/120107_C25_EhcMidi_1a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120109_C25_EhcMidi_2a/120109_C25_EhcMidi_2a.kicad_pcb",
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120107_C25_EhcMidi_1a/120107_C25_EhcMidi_1a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/erp-control/120106_C25_ErpControl_3a/120106_C25_ErpControl_3a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/erp-control/initial/erp_aktor_board_v2a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/keybed-scanner-classic/120105_C25_KeybedScannerClassic_2a/120105_C25_KeybedScannerClassic_2a.kicad_pcb",
