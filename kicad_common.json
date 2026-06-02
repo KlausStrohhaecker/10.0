@@ -122,18 +122,18 @@
       },
       "*Library Symbol Properties": {
         "__geometry": {
-          "h": 432,
+          "h": 581,
           "w": 1184,
-          "x": 2293,
-          "y": 343
+          "x": 2136,
+          "y": 220
         },
         "wxNotebook_0": "General",
-        "wxNotebook_0wxPanel_0wxComboBox_0": "template_MLCC",
+        "wxNotebook_0wxPanel_0wxComboBox_0": "",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "https://www.ti.com/lit/ds/symlink/drv5056.pdf",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "https://www.ti.com/lit/ds/symlink/drv5056.pdf",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "UniqueSpecification",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "Generic multilayer SMTcapacitor",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "LCSC Part #",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "STM32G431VBTx",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_0": true,
@@ -144,8 +144,8 @@
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_2": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_3": false,
-        "wxNotebook_0wxPanel_0wxTextCtrl_0": "_C_1u_25V_20%_X5R_0402",
-        "wxNotebook_0wxPanel_0wxTextCtrl_1": "cap capacitor",
+        "wxNotebook_0wxPanel_0wxTextCtrl_0": "STM32G431VBTx",
+        "wxNotebook_0wxPanel_0wxTextCtrl_1": "Arm Cortex-M4 STM32G4 STM32G4x1",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxCheckBox_0": true,
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0": "0 1",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxSpinCtrl_0": 1,
@@ -611,9 +611,9 @@
         "wxStaticBox_1wxCheckBox_7": true,
         "wxStaticBox_1wxCheckBox_8": true,
         "wxStaticBox_1wxCheckBox_9": true,
-        "wxTextCtrl_0": "J10",
-        "wxTextCtrl_1": "DIN-5-90-PolUp",
-        "wxTextCtrl_2": "nll-connector:DIN-5_180_PolUp",
+        "wxTextCtrl_0": "U6",
+        "wxTextCtrl_1": "STM32G431VBTx",
+        "wxTextCtrl_2": "nll-mcu-stm32:STM32G431VBTx",
         "wxTextCtrl_3": "nll-opto:LED_GREEN_2mA_0603"
       },
       "Choose Power Symbol": {
@@ -703,6 +703,26 @@
         "wxCheckBox_4": true,
         "wxCheckBox_5": false
       },
+      "Edit Datasheet Field": {
+        "__geometry": {
+          "h": 293,
+          "w": 670,
+          "x": 630,
+          "y": 400
+        },
+        "wxCheckBox_0": false,
+        "wxCheckBox_1": false,
+        "wxCheckBox_2": true,
+        "wxCheckBox_3": false,
+        "wxCheckBox_4": false,
+        "wxChoice_0": -1,
+        "wxOwnerDrawnComboBox_0": 0,
+        "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Default Font",
+        "wxTextCtrl_0": "https://www.st.com/resource/en/datasheet/stm32g431vb.pdf",
+        "wxTextCtrl_1": 12700,
+        "wxTextCtrl_2": 0,
+        "wxTextCtrl_3": 0
+      },
       "Edit Description Field": {
         "__geometry": {
           "h": 305,
@@ -738,10 +758,10 @@
         "wxChoice_0": -1,
         "wxOwnerDrawnComboBox_0": 0,
         "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Default Font",
-        "wxTextCtrl_0": "U",
-        "wxTextCtrl_1": 12700,
-        "wxTextCtrl_2": 25400,
-        "wxTextCtrl_3": -127000
+        "wxTextCtrl_0": "U6",
+        "wxTextCtrl_1": 25400,
+        "wxTextCtrl_2": 3238500,
+        "wxTextCtrl_3": 3517900
       },
       "Edit Value Field": {
         "__geometry": {
@@ -759,9 +779,9 @@
         "wxOwnerDrawnComboBox_0": 0,
         "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Default Font",
         "wxTextCtrl_0": "",
-        "wxTextCtrl_1": 12700,
-        "wxTextCtrl_2": 88900,
-        "wxTextCtrl_3": -101600
+        "wxTextCtrl_1": 25400,
+        "wxTextCtrl_2": 3454400,
+        "wxTextCtrl_3": 3556000
       },
       "Electrical Rules Checker": {
         "__geometry": {
@@ -954,11 +974,11 @@
         "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxCheckBox_1": true,
         "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxSearchCtrl_0": "",
         "wxNotebook_0": "General",
-        "wxNotebook_0wxPanel_0wxComboBox_0": "LP5907MFX-x.x",
+        "wxNotebook_0wxPanel_0wxComboBox_0": "Crystal_ABM8G-4Pin_3.2x2.5mm",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "DRV5055Z2xDBZx",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "Manufacturer",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_0": true,
@@ -969,8 +989,8 @@
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_2": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_3": false,
-        "wxNotebook_0wxPanel_0wxTextCtrl_0": "LP5907MFX-3.3",
-        "wxNotebook_0wxPanel_0wxTextCtrl_1": "Single Output LDO Low-Noise",
+        "wxNotebook_0wxPanel_0wxTextCtrl_0": "Crystal_8MHz_ABM8G-4Pin_3.2x2.5mm",
+        "wxNotebook_0wxPanel_0wxTextCtrl_1": "quartz ceramic resonator oscillator",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxCheckBox_0": true,
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0": "0 1",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxSpinCtrl_0": 1,
@@ -1438,23 +1458,23 @@
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "ks-RCL:L_Wuerth_WE-PD-Typ-LS",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "ks-RCL:L_Wuerth_WE-PD-Typ-LS",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "R33",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "#sig85",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "C1333253",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": true,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_0": -1,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_1": -1,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_2": 1,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_2": 0,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_3": 1,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_0": false,
-        "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_1": false,
-        "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_2": false,
+        "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_1": true,
+        "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_2": true,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_3": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_4": false,
         "wxNotebook_0wxPanel_1wxGrid_0": "0 1 2 3 4",
         "wxNotebook_0wxPanel_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_2wxGrid_0": "0 1",
-        "wxTextCtrl_0": "ks-RCL:Rthickf_1R_1%_0603"
+        "wxTextCtrl_0": "nll-sigflow:sig-in"
       },
       "Text Properties": {
         "__geometry": {
@@ -1667,7 +1687,7 @@
         "wxRadioButton_2": false,
         "wxRadioButton_3": false,
         "wxRadioButton_4": false,
-        "wxStaticBox_1wxCheckBox_0": true,
+        "wxStaticBox_1wxCheckBox_0": false,
         "wxStaticBox_1wxCheckBox_1": false,
         "wxStaticBox_1wxCheckBox_10": true,
         "wxStaticBox_1wxCheckBox_11": true,
@@ -1679,9 +1699,9 @@
         "wxStaticBox_1wxCheckBox_7": true,
         "wxStaticBox_1wxCheckBox_8": true,
         "wxStaticBox_1wxCheckBox_9": true,
-        "wxTextCtrl_0": "D1",
-        "wxTextCtrl_1": "0.5A/40V",
-        "wxTextCtrl_2": "ks-diode:CUS05S40",
+        "wxTextCtrl_0": "U6",
+        "wxTextCtrl_1": "STM32G431VBTx",
+        "wxTextCtrl_2": "nll-mcu-stm32:STM32G431VBTx",
         "wxTextCtrl_3": ""
       },
       "View Preset Switcher": {
