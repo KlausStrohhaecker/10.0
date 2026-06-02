@@ -191,7 +191,7 @@
       "cross_hair_mode": 0,
       "fullscreen_cursor": false
     },
-    "display": 0,
+    "display": 1,
     "footprint_text_shown_columns": "0 1 2 3 4 5 7",
     "grid": {
       "axes_enabled": true,

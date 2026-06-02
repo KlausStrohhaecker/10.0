@@ -30,15 +30,27 @@
         "__geometry": {
           "h": 584,
           "w": 1211,
-          "x": 709,
+          "x": 2148,
           "y": 171
         },
         "wxStaticBox_0wxGrid_0": "0 1",
-        "wxStaticBox_0wxGrid_0wxWindow_2wxTextCtrl_0": "KICAD9_SYMBOL_DIR",
-        "wxStaticBox_0wxGrid_0wxWindow_2wxTextCtrl_1": "USER_SYMBOL_DIR",
-        "wxStaticBox_0wxGrid_0wxWindow_2wxTextCtrl_2": "",
-        "wxStaticBox_0wxGrid_0wxWindow_2wxTextCtrl_3": "KICAD9_FOOTPRINT_DIR",
-        "wxStaticBox_0wxGrid_0wxWindow_2wxTextCtrl_4": ""
+        "wxStaticBox_0wxGrid_0wxWindow_2wxComboCtrl_0": "/home/ksl/DevLocal/kicad-libs/FP/3D",
+        "wxStaticBox_0wxGrid_0wxWindow_2wxComboCtrl_0wxTextCtrl_0": "/home/ksl/DevLocal/kicad-libs/FP/3D"
+      },
+      "*Footprint Libraries": {
+        "__geometry": {
+          "h": 673,
+          "w": 1020,
+          "x": 2228,
+          "y": 405
+        },
+        "wxPanel_0wxAuiNotebook_0": "Global Libraries *",
+        "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0": "0 1 3 4 5 6 7",
+        "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0wxWindow_3wxComboCtrl_0": "${USER_FOOTPRINT_DIR}",
+        "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "${USER_FOOTPRINT_DIR}",
+        "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_0": "ks-connector-audio",
+        "wxPanel_0wxAuiNotebook_0wxPanel_1wxGrid_0": "0 1 3 4 5 6 7",
+        "wxPanel_0wxGrid_0": "0 1"
       },
       "*Footprint Properties": {
         "__geometry": {
@@ -112,15 +124,15 @@
         "__geometry": {
           "h": 432,
           "w": 1184,
-          "x": 2293,
-          "y": 343
+          "x": 2340,
+          "y": 249
         },
         "wxNotebook_0": "General",
-        "wxNotebook_0wxPanel_0wxComboBox_0": "template_L_SMT",
+        "wxNotebook_0wxPanel_0wxComboBox_0": "3-pin-hall-sensor",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "ks-RCL:Bourns_CC453232",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "ks-RCL:Bourns_CC453232",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "CC453232-120KL",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "https://www.ti.com/lit/ds/symlink/drv5056.pdf",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "https://www.ti.com/lit/ds/symlink/drv5056.pdf",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "DRV5055Z2xDBZx",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
@@ -132,8 +144,8 @@
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_2": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_3": false,
-        "wxNotebook_0wxPanel_0wxTextCtrl_0": "Bourns_CC453232-120",
-        "wxNotebook_0wxPanel_0wxTextCtrl_1": "inductor choke coil reactor magnetic",
+        "wxNotebook_0wxPanel_0wxTextCtrl_0": "DRV5055Z2",
+        "wxNotebook_0wxPanel_0wxTextCtrl_1": "Biploar Ratiometric Linear Hall Effect Sensor",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxCheckBox_0": true,
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0": "0 1",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxSpinCtrl_0": 1,
@@ -244,6 +256,21 @@
         "wxSplitterWindow_0wxPanel_1wxChoice_0": 0,
         "wxSplitterWindow_0wxPanel_1wxGrid_0": "0 1 2 3 4 6 7 8 9 10 11",
         "wxSplitterWindow_0wxPanel_1wxSearchCtrl_0": ""
+      },
+      "*Symbol Libraries": {
+        "__geometry": {
+          "h": 673,
+          "w": 1020,
+          "x": 2259,
+          "y": 225
+        },
+        "wxPanel_0wxAuiNotebook_0": "Global Libraries *",
+        "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0": "0 1 2 3 4 5 6 7",
+        "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0wxWindow_3wxComboCtrl_0": "${USER_SYMBOL_DIR}",
+        "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "${USER_SYMBOL_DIR}",
+        "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_0": "",
+        "wxPanel_0wxAuiNotebook_0wxPanel_1wxGrid_0": "0 1 2 3 4 5 6 7",
+        "wxPanel_0wxGrid_0": "0 1"
       },
       "Annotate Schematic": {
         "__geometry": {
@@ -579,7 +606,7 @@
         "wxCheckBox_1": true,
         "wxPanel_0wxSplitterWindow_0": 981,
         "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxHtmlWindow_0": 0,
-        "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxSearchCtrl_0": "ks-r",
+        "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxSearchCtrl_0": "",
         "wxPanel_0wxSplitterWindow_0wxPanel_1wxPanel_1wxOwnerDrawnComboBox_0": 0
       },
       "Configure Paths": {
@@ -676,10 +703,10 @@
         "wxChoice_0": -1,
         "wxOwnerDrawnComboBox_0": 0,
         "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Default Font",
-        "wxTextCtrl_0": "L1",
+        "wxTextCtrl_0": "U",
         "wxTextCtrl_1": 12700,
-        "wxTextCtrl_2": 1803400,
-        "wxTextCtrl_3": 1778000
+        "wxTextCtrl_2": 25400,
+        "wxTextCtrl_3": -127000
       },
       "Edit Value Field": {
         "__geometry": {
@@ -694,12 +721,12 @@
         "wxCheckBox_3": false,
         "wxCheckBox_4": false,
         "wxChoice_0": -1,
-        "wxOwnerDrawnComboBox_0": 16,
-        "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Consolas",
+        "wxOwnerDrawnComboBox_0": 0,
+        "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Default Font",
         "wxTextCtrl_0": "",
         "wxTextCtrl_1": 12700,
-        "wxTextCtrl_2": 1092200,
-        "wxTextCtrl_3": 431800
+        "wxTextCtrl_2": 88900,
+        "wxTextCtrl_3": -101600
       },
       "Electrical Rules Checker": {
         "__geometry": {
@@ -737,12 +764,15 @@
       "Footprint Libraries": {
         "__geometry": {
           "h": 673,
-          "w": 1020,
+          "w": 1216,
           "x": 2228,
           "y": 405
         },
-        "wxPanel_0wxAuiNotebook_0": "Global Libraries *",
+        "wxPanel_0wxAuiNotebook_0": "Global Libraries",
         "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0": "0 1 3 4 5 6 7",
+        "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0wxWindow_3wxComboCtrl_0": "/usr/share/kicad/template/fp-lib-table",
+        "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "/usr/share/kicad/template/fp-lib-table",
+        "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_0": "FP",
         "wxPanel_0wxAuiNotebook_0wxPanel_1wxGrid_0": "0 1 3 4 5 6 7",
         "wxPanel_0wxGrid_0": "0 1"
       },
@@ -866,10 +896,10 @@
       },
       "Library Symbol Properties": {
         "__geometry": {
-          "h": 438,
-          "w": 1186,
-          "x": 411,
-          "y": 348
+          "h": 432,
+          "w": 1184,
+          "x": 2340,
+          "y": 249
         },
         "wxFrame_0wxPanel_1wxCheckBox_0": false,
         "wxFrame_0wxPanel_2wxSplitterWindow_0": 370,
@@ -879,11 +909,11 @@
         "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxCheckBox_1": true,
         "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxSearchCtrl_0": "",
         "wxNotebook_0": "General",
-        "wxNotebook_0wxPanel_0wxComboBox_0": "AudioJack3_Dual_Ground_Switch",
+        "wxNotebook_0wxPanel_0wxComboBox_0": "3-pin-hall-sensor",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "UniqueSpecification",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "DRV5055Z2xDBZx",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_0": true,
@@ -894,11 +924,11 @@
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_2": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_3": false,
-        "wxNotebook_0wxPanel_0wxTextCtrl_0": "NSJ12HF-1",
-        "wxNotebook_0wxPanel_0wxTextCtrl_1": "audio jack dual receptacle stereo headphones phones TRS connector neutrik",
+        "wxNotebook_0wxPanel_0wxTextCtrl_0": "DRV5056Z4",
+        "wxNotebook_0wxPanel_0wxTextCtrl_1": "Unipolar Ratiometric Linear Hall Effect Sensor",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxCheckBox_0": true,
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0": "0 1",
-        "wxNotebook_0wxPanel_1wxStaticBox_0wxSpinCtrl_0": 2,
+        "wxNotebook_0wxPanel_1wxStaticBox_0wxSpinCtrl_0": 1,
         "wxNotebook_0wxPanel_1wxStaticBox_1wxGrid_0": "0",
         "wxNotebook_0wxPanel_1wxStaticBox_1wxRadioButton_0": true,
         "wxNotebook_0wxPanel_1wxStaticBox_1wxRadioButton_1": false,
@@ -919,12 +949,12 @@
       },
       "Messages": {
         "__geometry": {
-          "h": 406,
+          "h": 448,
           "w": 1196,
           "x": 654,
           "y": 334
         },
-        "wxHtmlWindow_0": 6
+        "wxHtmlWindow_0": 0
       },
       "Move Item|pcb_editor": {
         "__geometry": {
@@ -953,15 +983,15 @@
         "wxCheckBox_2": false,
         "wxCheckBox_3": false,
         "wxCheckBox_4": false,
-        "wxCheckBox_5": false,
-        "wxCheckBox_6": false,
+        "wxCheckBox_5": true,
+        "wxCheckBox_6": true,
         "wxCheckBox_7": false,
         "wxCheckBox_8": false,
         "wxCheckBox_9": true,
-        "wxComboCtrl_0": "template_L_SMT",
+        "wxComboCtrl_0": "3-pin-sensor",
         "wxComboCtrl_0wxPopupTransientWindow_0wxPanel_0wxTextCtrl_0": "",
         "wxSpinCtrl_0": 1,
-        "wxTextCtrl_0": "Bourns_CC453232-120",
+        "wxTextCtrl_0": "3-pin-sensor_1",
         "wxTextCtrl_1": "U",
         "wxTextCtrl_2": 5080
       },
@@ -1057,18 +1087,18 @@
           "x": 2561,
           "y": 311
         },
-        "wxBitmapComboBox_0": "Power output",
+        "wxBitmapComboBox_0": "Passive",
         "wxBitmapComboBox_1": "Line",
-        "wxBitmapComboBox_2": "Up",
+        "wxBitmapComboBox_2": "Left",
         "wxCheckBox_0": false,
-        "wxCheckBox_1": true,
+        "wxCheckBox_1": false,
         "wxCheckBox_2": true,
         "wxCollapsiblePane_0wxPanel_0wxGrid_0": "0 1 2",
-        "wxTextCtrl_0": "",
-        "wxTextCtrl_1": "1",
-        "wxTextCtrl_2": 0,
+        "wxTextCtrl_0": "OUT",
+        "wxTextCtrl_1": "2",
+        "wxTextCtrl_2": 76200,
         "wxTextCtrl_3": 0,
-        "wxTextCtrl_4": 0,
+        "wxTextCtrl_4": 25400,
         "wxTextCtrl_5": 12700,
         "wxTextCtrl_6": 12700
       },
@@ -1232,6 +1262,17 @@
         },
         "wxTextCtrl_1": ""
       },
+      "Save Symbol As": {
+        "__geometry": {
+          "h": 408,
+          "w": 632,
+          "x": 2564,
+          "y": 336
+        },
+        "wxCheckBox_0": false,
+        "wxTextCtrl_0": "DRV5055A2xDBZxQ1",
+        "wxTextCtrl_1": ""
+      },
       "Set Teardrops": {
         "__geometry": {
           "h": 679,
@@ -1266,14 +1307,26 @@
         "wxStaticBox_2wxTextCtrl_3": "-- leave unchanged --",
         "wxStaticBox_2wxTextCtrl_4": 0
       },
+      "Symbol Fields Table": {
+        "__geometry": {
+          "h": 600,
+          "w": 1744,
+          "x": 1968,
+          "y": 236
+        },
+        "wxSplitterWindow_0": 400,
+        "wxSplitterWindow_0wxPanel_0wxSplitterWindow_0": 491,
+        "wxSplitterWindow_0wxPanel_0wxSplitterWindow_0wxPanel_0wxChoice_0": 5,
+        "wxSplitterWindow_0wxPanel_0wxSplitterWindow_0wxPanel_0wxGrid_0": "0 1 2 3"
+      },
       "Symbol Libraries": {
         "__geometry": {
           "h": 673,
           "w": 1020,
-          "x": 722,
-          "y": 163
+          "x": 2219,
+          "y": 217
         },
-        "wxPanel_0wxAuiNotebook_0": "Global Libraries",
+        "wxPanel_0wxAuiNotebook_0": "Global Libraries *",
         "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_0": "",
         "wxPanel_0wxAuiNotebook_0wxPanel_1wxGrid_0": "0 1 2 3 4 5 6 7",
@@ -1290,10 +1343,10 @@
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "ks-RCL:L_Wuerth_WE-PD-Typ-LS",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "ks-RCL:L_Wuerth_WE-PD-Typ-LS",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "J10",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "C1538",
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": true,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": true,
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "L1",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "C1333253",
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_0": -1,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_1": -1,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_2": 0,
@@ -1306,7 +1359,7 @@
         "wxNotebook_0wxPanel_1wxGrid_0": "0 1 2 3 4",
         "wxNotebook_0wxPanel_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_2wxGrid_0": "0 1",
-        "wxTextCtrl_0": "ks-connector:DIN-5_180_PolUp"
+        "wxTextCtrl_0": "ks-RCL:Bourns_CC453232-120"
       },
       "Text Properties": {
         "__geometry": {
@@ -1492,13 +1545,13 @@
         "wxPanel_0wxStaticBox_0wxCheckBox_2": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_3": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_4": true,
-        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 1111,
+        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 250,
         "wxStaticBox_0wxCheckBox_0": false,
         "wxStaticBox_0wxCheckBox_1": false,
         "wxStaticBox_1wxCheckBox_0": false,
         "wxStaticBox_1wxCheckBox_1": true,
         "wxStaticBox_1wxCheckBox_2": false,
-        "wxStaticBox_2wxCheckBox_0": false,
+        "wxStaticBox_2wxCheckBox_0": true,
         "wxStaticBox_2wxCheckBox_1": false
       },
       "Update Symbols from Library": {
@@ -1592,12 +1645,9 @@
   },
   "environment": {
     "vars": {
-      "KICAD9_3DMODEL_DIR": "/usr/share/kicad/3dmodels/",
-      "KICAD9_FOOTPRINT_DIR": "/usr/share/kicad/footprints/",
-      "KICAD9_SYMBOL_DIR": "/usr/share/kicad/symbols/",
-      "USER_3DMODEL_DIR": "/home/ksl/Documents/KiCad/ks-kicad-libraries/FP/3D",
-      "USER_FOOTPRINT_DIR": "/home/ksl/Documents/KiCad/ks-kicad-libraries/FP",
-      "USER_SYMBOL_DIR": "/home/ksl/Documents/KiCad/ks-kicad-libraries"
+      "USER_3DMODEL_DIR": "/home/ksl/DevLocal/kicad-libs/FP/3D",
+      "USER_FOOTPRINT_DIR": "/home/ksl/DevLocal/kicad-libs/FP",
+      "USER_SYMBOL_DIR": "/home/ksl/DevLocal/kicad-libs/"
     }
   },
   "git": {
