@@ -583,10 +583,10 @@
       },
       "Change Symbols": {
         "__geometry": {
-          "h": 717,
-          "w": 870,
-          "x": 2746,
-          "y": 170
+          "h": 741,
+          "w": 981,
+          "x": 624,
+          "y": 121
         },
         "wxPanel_2wxStaticBox_0wxCheckBox_0": true,
         "wxPanel_2wxStaticBox_0wxCheckBox_1": true,
@@ -611,9 +611,9 @@
         "wxStaticBox_1wxCheckBox_7": true,
         "wxStaticBox_1wxCheckBox_8": true,
         "wxStaticBox_1wxCheckBox_9": true,
-        "wxTextCtrl_0": "U6",
-        "wxTextCtrl_1": "STM32G431VBTx",
-        "wxTextCtrl_2": "nll-mcu-stm32:STM32G431VBTx",
+        "wxTextCtrl_0": "Q5",
+        "wxTextCtrl_1": "${UniqueSpecification}",
+        "wxTextCtrl_2": "nll-transistor:BCP51",
         "wxTextCtrl_3": "nll-opto:LED_GREEN_2mA_0603"
       },
       "Choose Power Symbol": {
@@ -634,14 +634,14 @@
         "__geometry": {
           "h": 936,
           "w": 1562,
-          "x": 2104,
-          "y": 91
+          "x": 230,
+          "y": 56
         },
         "wxCheckBox_0": false,
         "wxCheckBox_1": true,
         "wxPanel_0wxSplitterWindow_0": 981,
         "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxHtmlWindow_0": 0,
-        "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxSearchCtrl_0": "",
+        "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxSearchCtrl_0": "nll-",
         "wxPanel_0wxSplitterWindow_0wxPanel_1wxPanel_1wxOwnerDrawnComboBox_0": 0
       },
       "Configure Paths": {
