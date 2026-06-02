@@ -768,12 +768,13 @@
           "x": 2228,
           "y": 405
         },
-        "wxPanel_0wxAuiNotebook_0": "Global Libraries",
+        "wxPanel_0wxAuiNotebook_0": "Project Specific Libraries *",
         "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0": "0 1 3 4 5 6 7",
         "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0wxWindow_3wxComboCtrl_0": "/usr/share/kicad/template/fp-lib-table",
         "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "/usr/share/kicad/template/fp-lib-table",
         "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_0": "FP",
         "wxPanel_0wxAuiNotebook_0wxPanel_1wxGrid_0": "0 1 3 4 5 6 7",
+        "wxPanel_0wxAuiNotebook_0wxPanel_1wxGrid_0wxWindow_3wxTextCtrl_0": "s-DFN-QFN",
         "wxPanel_0wxGrid_0": "0 1"
       },
       "Footprint Properties": {
@@ -1128,12 +1129,12 @@
           "x": 492,
           "y": 217
         },
-        "wxNotebook_0": "Repository (109)",
+        "wxNotebook_0": "Installed (3)",
         "wxNotebook_0wxPanel_0wxChoice_0": 0,
-        "wxNotebook_0wxPanel_0wxNotebook_0": "Plugins (66)",
+        "wxNotebook_0wxPanel_0wxNotebook_0": "Plugins (67)",
         "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0": 380,
         "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_0wxScrolledWindow_0": 0,
-        "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_0wxSearchCtrl_0": "sna",
+        "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_0wxSearchCtrl_0": "",
         "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_1wxScrolledWindow_0": 0,
         "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_1wxScrolledWindow_0wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_1wxScrolledWindow_0wxGrid_0": "0 1 2 3 4",
@@ -1326,7 +1327,7 @@
           "x": 2219,
           "y": 217
         },
-        "wxPanel_0wxAuiNotebook_0": "Global Libraries *",
+        "wxPanel_0wxAuiNotebook_0": "Project Specific Libraries",
         "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxPanel_0wxAuiNotebook_0wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_0": "",
         "wxPanel_0wxAuiNotebook_0wxPanel_1wxGrid_0": "0 1 2 3 4 5 6 7",

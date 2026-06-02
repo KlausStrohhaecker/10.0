@@ -62,7 +62,7 @@
                     }
                 ]
             },
-            "pinned": false,
+            "pinned": true,
             "repository_id": "46f88614eade3439",
             "repository_name": "KiCad official repository"
         },
@@ -135,9 +135,36 @@
                     }
                 ]
             },
-            "pinned": false,
+            "pinned": true,
             "repository_id": "46f88614eade3439",
             "repository_name": "KiCad official repository"
+        },
+        {
+            "current_version": "0.0",
+            "install_timestamp": 1780042602,
+            "package": {
+                "author": {
+                    "contact": {},
+                    "name": ""
+                },
+                "description": "",
+                "description_full": "",
+                "identifier": "via.stitching.plugin",
+                "license": "",
+                "name": "via_stitching_plugin",
+                "resources": {},
+                "type": "invalid",
+                "versions": [
+                    {
+                        "kicad_version": "10.0",
+                        "status": "stable",
+                        "version": "0.0"
+                    }
+                ]
+            },
+            "pinned": false,
+            "repository_id": "",
+            "repository_name": "<unknown>"
         }
     ]
 }
