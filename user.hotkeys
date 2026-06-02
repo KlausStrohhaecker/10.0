@@ -341,7 +341,7 @@ eeschema.InteractiveEdit.assignNetclass
 eeschema.InteractiveEdit.autoplaceFields	O	
 eeschema.InteractiveEdit.breakWire		
 eeschema.InteractiveEdit.changeSymbol		
-eeschema.InteractiveEdit.changeSymbols		
+eeschema.InteractiveEdit.changeSymbols	Ctrl+Alt+C	
 eeschema.InteractiveEdit.cleanupSheetPins		
 eeschema.InteractiveEdit.convertStackedPins		
 eeschema.InteractiveEdit.editFootprint	F	
