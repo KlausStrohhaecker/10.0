@@ -167,7 +167,7 @@
     "use_theme": false
   },
   "render": {
-    "clip_silk_on_via_annulus": false,
+    "clip_silk_on_via_annulus": true,
     "engine": 0,
     "grid_type": 0,
     "material_mode": 0,
@@ -238,7 +238,7 @@
     "show_comments": false,
     "show_copper_bottom": true,
     "show_copper_top": true,
-    "show_drawings": false,
+    "show_drawings": true,
     "show_eco1": false,
     "show_eco2": false,
     "show_footprints_dnp": false,
@@ -302,7 +302,7 @@
     "show_user8": false,
     "show_user9": false,
     "show_zones": true,
-    "subtract_mask_from_silk": false,
+    "subtract_mask_from_silk": true,
     "use_board_editor_copper_colors": false
   },
   "search_pane": {
