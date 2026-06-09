@@ -541,7 +541,7 @@
       "Description"
     ],
     "open_libs": [
-      "ks-RCL"
+      "nll-connector-mains"
     ]
   },
   "meta": {

@@ -5,4 +5,5 @@
 	(lib (name "nll-DFN-QFN") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-DFN-QFN.pretty") (options "") (descr ""))
 	(lib (name "nll-RCL") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-RCL.pretty") (options "") (descr ""))
 	(lib (name "nll-rotary") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-rotary.pretty") (options "") (descr ""))
+	(lib (name "nll-connector-mains") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-connector-mains.pretty") (options "") (descr ""))
 )
