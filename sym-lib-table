@@ -15,4 +15,5 @@
 	(lib (name "nll-switchmux") (type "KiCad") (uri "${USER_SYMBOL_DIR}/nll-switchmux.kicad_sym") (options "") (descr ""))
 	(lib (name "nll-transistor") (type "KiCad") (uri "${USER_SYMBOL_DIR}/nll-transistor.kicad_sym") (options "") (descr ""))
 	(lib (name "nll-sensor") (type "KiCad") (uri "${USER_SYMBOL_DIR}/nll-sensor.kicad_sym") (options "") (descr ""))
+	(lib (name "nll-misc-ic") (type "KiCad") (uri "${USER_SYMBOL_DIR}/nll-misc-ic.kicad_sym") (options "") (descr ""))
 )
