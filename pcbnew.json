@@ -141,12 +141,12 @@
     "search_and_replace": false
   },
   "footprint_chooser": {
-    "filter_on_pin_count": false,
+    "filter_on_pin_count": true,
     "height": 787,
     "sash_h": 1075,
     "sash_v": 369,
     "sort_mode": 0,
-    "use_fp_filters": true,
+    "use_fp_filters": false,
     "width": 1674
   },
   "footprint_viewer": {
@@ -541,7 +541,8 @@
       "Description"
     ],
     "open_libs": [
-      "Capacitor_SMD"
+      "nll-diode",
+      "nll-RCL"
     ]
   },
   "meta": {
