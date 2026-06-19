@@ -144,7 +144,7 @@
     "filter_on_pin_count": true,
     "height": 787,
     "sash_h": 1075,
-    "sash_v": 369,
+    "sash_v": 357,
     "sort_mode": 0,
     "use_fp_filters": false,
     "width": 1674
@@ -299,8 +299,8 @@
     "maximized": false,
     "mru_path": "/home/ksl/.local/share/kicad/10.0/projects",
     "perspective": "layout2|",
-    "pos_x": 2891,
-    "pos_y": 910,
+    "pos_x": 2874,
+    "pos_y": 1358,
     "size_x": 1674,
     "size_y": 787,
     "zoom": 7.0580801177621755,
@@ -541,8 +541,7 @@
       "Description"
     ],
     "open_libs": [
-      "nll-diode",
-      "nll-RCL"
+      "nll-switch"
     ]
   },
   "meta": {
