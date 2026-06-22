@@ -92,7 +92,7 @@
   "lib_table_width": 723,
   "lib_tree": {
     "column_widths": {
-      "Description": 445,
+      "Description": 444,
       "Item": 341
     },
     "columns": [
@@ -100,22 +100,7 @@
       "Description"
     ],
     "open_libs": [
-      "nll-connector",
-      "nll-crystals-oscillators",
-      "nll-diode",
-      "nll-mcu-stm32",
-      "nll-misc-ic",
-      "nll-opamp",
-      "nll-opto",
-      "nll-power",
-      "nll-RCL",
-      "nll-regulator",
-      "nll-sensor",
-      "nll-sigflow",
-      "nll-smps",
-      "nll-switch",
-      "nll-switchmux",
-      "nll-transistor"
+      "nll-RCL"
     ]
   },
   "library": {

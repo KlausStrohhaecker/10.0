@@ -123,20 +123,20 @@
       },
       "*Library Symbol Properties": {
         "__geometry": {
-          "h": 435,
-          "w": 1080,
+          "h": 765,
+          "w": 1184,
           "x": 2760,
           "y": 886
         },
         "wxNotebook_0": "General",
-        "wxNotebook_0wxPanel_0wxComboBox_0": "Conn_02x05_Odd_Even",
+        "wxNotebook_0wxPanel_0wxComboBox_0": "template_R_SMT_THICKF",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_1": "",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_1wxTextCtrl_0": "",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "Field13",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "C109410",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "R",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "C12447",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_0": true,
@@ -147,8 +147,8 @@
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_2": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_3": false,
-        "wxNotebook_0wxPanel_0wxTextCtrl_0": "shrouded_pinheader_2x5",
-        "wxNotebook_0wxPanel_0wxTextCtrl_1": "connector",
+        "wxNotebook_0wxPanel_0wxTextCtrl_0": "Rthickf_40.2k_1%_0603",
+        "wxNotebook_0wxPanel_0wxTextCtrl_1": "R res resistor",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxCheckBox_0": true,
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0": "0 1",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxSpinCtrl_0": 1,
@@ -315,21 +315,21 @@
       },
       "*Symbol Properties": {
         "__geometry": {
-          "h": 546,
+          "h": 785,
           "w": 1023,
           "x": 1668,
           "y": 404
         },
         "wxNotebook_0": "General",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "U3",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "D1",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "ID",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_2": "eFuse",
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": true,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": true,
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_2": "5V",
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_0": -1,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_1": -1,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_2": 0,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_2": 1,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_3": 0,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_1": false,
@@ -339,7 +339,7 @@
         "wxNotebook_0wxPanel_1wxGrid_0": "0 1 2 3 4",
         "wxNotebook_0wxPanel_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_2wxGrid_0": "0 1",
-        "wxTextCtrl_0": "nll-misc-ic:TPS259814L"
+        "wxTextCtrl_0": "nll-opto:LED_GREEN_2mA_0603"
       },
       "3D Export": {
         "__geometry": {
@@ -733,17 +733,17 @@
         "wxStaticBox_1wxCheckBox_10": true,
         "wxStaticBox_1wxCheckBox_11": true,
         "wxStaticBox_1wxCheckBox_2": true,
-        "wxStaticBox_1wxCheckBox_3": true,
-        "wxStaticBox_1wxCheckBox_4": true,
+        "wxStaticBox_1wxCheckBox_3": false,
+        "wxStaticBox_1wxCheckBox_4": false,
         "wxStaticBox_1wxCheckBox_5": false,
         "wxStaticBox_1wxCheckBox_6": true,
         "wxStaticBox_1wxCheckBox_7": true,
         "wxStaticBox_1wxCheckBox_8": true,
         "wxStaticBox_1wxCheckBox_9": true,
-        "wxTextCtrl_0": "C6",
-        "wxTextCtrl_1": "1u",
-        "wxTextCtrl_2": "nll-RCL:C_1u_25V_20%_X5R_0402",
-        "wxTextCtrl_3": "nll-RCL:C_100n_50V_20%_X7R_0603"
+        "wxTextCtrl_0": "R15",
+        "wxTextCtrl_1": "1k",
+        "wxTextCtrl_2": "nll-RCL:Rthickf_1k_1%_0603",
+        "wxTextCtrl_3": "nll-RCL:Rthickf_10k_1%_0603"
       },
       "Choose Power Symbol": {
         "__geometry": {
@@ -900,8 +900,8 @@
         "wxCheckBox_3": false,
         "wxCheckBox_4": false,
         "wxChoice_0": -1,
-        "wxOwnerDrawnComboBox_0": 0,
-        "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Default Font",
+        "wxOwnerDrawnComboBox_0": 16,
+        "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Consolas",
         "wxTextCtrl_0": "",
         "wxTextCtrl_1": 12700,
         "wxTextCtrl_2": 0,
@@ -929,8 +929,8 @@
       },
       "Edit Description Field": {
         "__geometry": {
-          "h": 305,
-          "w": 670,
+          "h": 310,
+          "w": 678,
           "x": 2550,
           "y": 406
         },
@@ -940,12 +940,12 @@
         "wxCheckBox_3": false,
         "wxCheckBox_4": false,
         "wxChoice_0": -1,
-        "wxOwnerDrawnComboBox_0": 16,
-        "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Consolas",
+        "wxOwnerDrawnComboBox_0": 0,
+        "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Default Font",
         "wxTextCtrl_0": "",
         "wxTextCtrl_1": 12700,
-        "wxTextCtrl_2": 0,
-        "wxTextCtrl_3": 0
+        "wxTextCtrl_2": -12700,
+        "wxTextCtrl_3": -33020
       },
       "Edit Footprint Field": {
         "__geometry": {
@@ -982,10 +982,10 @@
         "wxChoice_0": -1,
         "wxOwnerDrawnComboBox_0": 16,
         "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Consolas",
-        "wxTextCtrl_0": "BC2",
+        "wxTextCtrl_0": "R1",
         "wxTextCtrl_1": 12700,
-        "wxTextCtrl_2": 1117600,
-        "wxTextCtrl_3": 386715
+        "wxTextCtrl_2": 1295400,
+        "wxTextCtrl_3": 393700
       },
       "Edit Value Field": {
         "__geometry": {
@@ -1398,10 +1398,10 @@
       },
       "Library Symbol Properties": {
         "__geometry": {
-          "h": 589,
-          "w": 1184,
-          "x": 2567,
-          "y": 1180
+          "h": 765,
+          "w": 1080,
+          "x": 2760,
+          "y": 886
         },
         "wxFrame_0wxPanel_1wxCheckBox_0": false,
         "wxFrame_0wxPanel_2wxSplitterWindow_0": 370,
@@ -1411,7 +1411,7 @@
         "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxCheckBox_1": true,
         "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxSearchCtrl_0": "",
         "wxNotebook_0": "General",
-        "wxNotebook_0wxPanel_0wxComboBox_0": "",
+        "wxNotebook_0wxPanel_0wxComboBox_0": "LED",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "",
@@ -1420,15 +1420,15 @@
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_0": true,
-        "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_1": false,
+        "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_1": true,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_2": true,
-        "wxNotebook_0wxPanel_0wxStaticBox_2wxTextCtrl_0": 10160,
+        "wxNotebook_0wxPanel_0wxStaticBox_2wxTextCtrl_0": 5080,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_2": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_3": false,
-        "wxNotebook_0wxPanel_0wxTextCtrl_0": "Screw_Terminal_1x2_5mm_AWG14",
-        "wxNotebook_0wxPanel_0wxTextCtrl_1": "screw terminal",
+        "wxNotebook_0wxPanel_0wxTextCtrl_0": "LED_OR_YL_30mA_1206_Side",
+        "wxNotebook_0wxPanel_0wxTextCtrl_1": "LED diode",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxCheckBox_0": true,
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0": "0 1",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxSpinCtrl_0": 1,
@@ -2251,7 +2251,7 @@
       },
       "Symbol Properties": {
         "__geometry": {
-          "h": 546,
+          "h": 785,
           "w": 1023,
           "x": 1668,
           "y": 404
@@ -2260,14 +2260,14 @@
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "ks-RCL:L_Wuerth_WE-PD-Typ-LS",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "ks-RCL:L_Wuerth_WE-PD-Typ-LS",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "J7",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "C14663",
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": true,
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "C5",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "TAJA106K016RNJ",
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_0": -1,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_1": -1,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_2": 0,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_3": 2,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_3": 0,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_2": false,
@@ -2276,7 +2276,7 @@
         "wxNotebook_0wxPanel_1wxGrid_0": "0 1 2 3 4",
         "wxNotebook_0wxPanel_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_2wxGrid_0": "0 1",
-        "wxTextCtrl_0": "nll-connector:shrouded_pinheader_2x5"
+        "wxTextCtrl_0": "nll-RCL:Ctant_10u_16V_20%_3R_1.6uA_3216-18"
       },
       "Synchronize sheet pins and hierarchical labels": {
         "__geometry": {
@@ -2662,6 +2662,6 @@
     "pdf_viewer_name": "",
     "text_editor": "/usr/bin/xed",
     "use_system_pdf_viewer": true,
-    "working_dir": "/home/ksl/DevLocal/kicad-libs/FP"
+    "working_dir": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a"
   }
 }
