@@ -127,7 +127,7 @@
   },
   "lib_tree": {
     "column_widths": {
-      "Description": 572,
+      "Description": 570,
       "Item": 571
     },
     "columns": [
@@ -135,7 +135,9 @@
       "Description"
     ],
     "open_libs": [
-      "Connector_IDC"
+      "nll-connector",
+      "nll-connector-audio",
+      "nll-connector-mains"
     ]
   },
   "library": {
@@ -199,7 +201,7 @@
       "axes_enabled": true,
       "fast_grid_1": 15,
       "fast_grid_2": 16,
-      "last_size": 18,
+      "last_size": 14,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "override_connected": false,

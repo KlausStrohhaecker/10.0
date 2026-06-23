@@ -92,7 +92,7 @@
   "lib_table_width": 723,
   "lib_tree": {
     "column_widths": {
-      "Description": 444,
+      "Description": 627,
       "Item": 341
     },
     "columns": [
@@ -100,7 +100,7 @@
       "Description"
     ],
     "open_libs": [
-      "nll-RCL"
+      "nll-mouting"
     ]
   },
   "library": {
@@ -140,15 +140,15 @@
     "selection_zoom": 1
   },
   "selection_filter": {
-    "graphics": false,
-    "images": false,
-    "labels": false,
+    "graphics": true,
+    "images": true,
+    "labels": true,
     "lockedItems": false,
-    "otherItems": false,
-    "pins": false,
-    "symbols": false,
+    "otherItems": true,
+    "pins": true,
+    "symbols": true,
     "text": true,
-    "wires": false
+    "wires": true
   },
   "show_hidden_lib_fields": true,
   "show_hidden_lib_pins": true,
