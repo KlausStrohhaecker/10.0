@@ -318,10 +318,12 @@ class ViaStitchingPlugin(pcbnew.ActionPlugin):
 
             pcbnew.Refresh()
 
-        except Exception as e:
+        except Exception:
 
+            import traceback
+            
             wx.MessageBox(
-                str(e),
+                traceback.format_exc(),
                 "Via Stitching Error",
                 wx.OK | wx.ICON_ERROR
             )
@@ -363,16 +365,15 @@ class ViaStitchingPlugin(pcbnew.ActionPlugin):
                 "Pad size must be larger than hole size"
             )
 
-        netcode = board.GetNetcodeFromNetname(
-            params["net"]
-        )
+        nets = board.GetNetsByName()
 
-        if netcode < 0:
+        if params["net"] not in nets:
 
             raise RuntimeError(
-                f"Net '{params['net']}' does not exist"
+                f"\n\nNet '{params['net']}' does not exist\n"
             )
 
+        netcode = nets[params["net"]].GetNetCode()
 
     #
     # --------------------------------------------------------
