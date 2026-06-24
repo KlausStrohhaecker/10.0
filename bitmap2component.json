@@ -1,15 +1,13 @@
 {
   "appearance": {
     "color_theme": "_builtin_default",
-    "custom_toolbars": false,
-    "left_frame_width": 339
+    "custom_toolbars": false
   },
-  "aui": {
-    "show_history_panel": false
-  },
+  "bitmap_file_name": "/home/ksl/Pictures/tmp.png",
   "color_picker": {
     "default_tab": 0
   },
+  "converted_file_name": "/home/ksl/DevLocal/kicad-libs/graphics/sk2_funktionserdung.kicad_mod",
   "cross_probing": {
     "auto_highlight": true,
     "center_on_items": true,
@@ -41,34 +39,20 @@
     "search_and_replace": false
   },
   "graphics": {
-    "canvas_type": 1,
     "highlight_factor": 0.5,
     "select_factor": 0.75
   },
+  "last_format": 2,
+  "last_mod_layer": 1,
   "lib_tree": {
     "column_widths": null,
     "columns": [],
     "open_libs": []
   },
-  "libraries": {
-    "overrides": {}
-  },
   "meta": {
-    "version": 0
+    "version": 1
   },
-  "pcm": {
-    "check_for_updates": true,
-    "last_download_dir": "",
-    "lib_auto_add": true,
-    "lib_auto_remove": true,
-    "lib_prefix": "PCM_",
-    "repositories": [
-      {
-        "name": "KiCad official repository",
-        "url": "https://repository.kicad.org/repository.json"
-      }
-    ]
-  },
+  "negative": true,
   "plugins": {
     "actions": []
   },
@@ -92,48 +76,24 @@
     "selection_zoom": 1
   },
   "system": {
-    "check_for_kicad_updates": true,
     "file_history": [
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/120122_C25_MainBoardXL_1a.kicad_pro",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120109_C25_EhcMidi_2a/120109_C25_EhcMidi_2a.kicad_pro",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/edit-panel/120110_C25_EditPanel_3a/120110_C25_EditPanel_3a.kicad_pro",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/erp-control/120106_C25_ErpControl_3a/120106_C25_ErpControl_3a.kicad_pro",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120107_C25_EhcMidi_1a/120107_C25_EhcMidi_1a.kicad_pro"
+      "/home/ksl/Pictures/tmp.png",
+      "/tmp/laptop-construction-symbols-1492770696.png"
     ],
     "first_run_shown": false,
-    "last_design_block_lib_dir": "/home/ksl/.local/share/kicad/9.0/blocks",
     "last_imperial_units": 5,
     "last_metric_units": 1,
-    "last_received_update": "",
-    "last_update_check_time": "2026-06-24T14:46:50",
     "max_undo_items": 0,
-    "open_projects": [
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/120122_C25_MainBoardXL_1a.kicad_pro"
-    ],
     "show_import_issues": true,
     "units": 1
   },
-  "template": {
-    "filter": 0,
-    "last_used": "",
-    "recent_templates": [],
-    "window": {
-      "pos": {
-        "x": -1,
-        "y": -1
-      },
-      "size": {
-        "height": -1,
-        "width": -1
-      }
-    }
-  },
+  "threshold": 50,
+  "units": 0,
   "window": {
     "aui_state": null,
     "cursor": {
       "always_show_cursor": true,
-      "cross_hair_mode": 0,
-      "fullscreen_cursor": false
+      "cross_hair_mode": 0
     },
     "display": 0,
     "grid": {
@@ -273,12 +233,12 @@
       "user_grid_y": ""
     },
     "maximized": false,
-    "mru_path": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/",
-    "perspective": "layout2|name=TopMainToolbar;caption=;state=139596;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=243;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ProjectTree;caption=Project Files;state=1340;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=339;besth=20;minw=250;minh=80;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LocalHistory;caption=Local History;state=2098494;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Editors;caption=Editors;state=508;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=700;besth=590;minw=700;minh=590;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,2,0)=34|dock_size(4,1,0)=339|dock_size(5,0,0)=700|",
-    "pos_x": 2318,
-    "pos_y": 529,
-    "size_x": 1187,
-    "size_y": 509,
+    "mru_path": "/home/ksl/DevLocal/kicad-libs/graphics",
+    "perspective": "layout2|",
+    "pos_x": 3231,
+    "pos_y": 981,
+    "size_x": 1280,
+    "size_y": 884,
     "zoom_factors": [
       0.13,
       0.22,

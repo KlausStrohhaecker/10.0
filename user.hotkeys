@@ -601,7 +601,7 @@ pcbnew.Convert.convertToPoly
 pcbnew.Convert.convertToTracks		
 pcbnew.Convert.convertToZone		
 pcbnew.Convert.outsetItems		
-pcbnew.DRCTool.runDRC		
+pcbnew.DRCTool.runDRC	Shift+D	
 pcbnew.DRETool.drcRuleEditor		
 pcbnew.EditorControl.EditFpInFpEditor	Ctrl+E	
 pcbnew.EditorControl.EditLibFpInFpEditor	Ctrl+Shift+E	
