@@ -30,12 +30,14 @@
         "__geometry": {
           "h": 584,
           "w": 1211,
-          "x": 2148,
+          "x": 709,
           "y": 171
         },
         "wxStaticBox_0wxGrid_0": "0 1",
-        "wxStaticBox_0wxGrid_0wxWindow_2wxComboCtrl_0": "/home/ksl/DevLocal/kicad-libs/FP/3D",
-        "wxStaticBox_0wxGrid_0wxWindow_2wxComboCtrl_0wxTextCtrl_0": "/home/ksl/DevLocal/kicad-libs/FP/3D"
+        "wxStaticBox_0wxGrid_0wxWindow_2wxComboCtrl_0": "/home/ksl/DevLocal/mech-libs/freecad/output",
+        "wxStaticBox_0wxGrid_0wxWindow_2wxComboCtrl_0wxTextCtrl_0": "/home/ksl/DevLocal/mech-libs/freecad/output",
+        "wxStaticBox_0wxGrid_0wxWindow_2wxTextCtrl_0": "USER_3DMODEL_DIR2",
+        "wxStaticBox_0wxGrid_0wxWindow_2wxTextCtrl_1": "USER_3DMODEL_DIR"
       },
       "*Footprint Libraries": {
         "__geometry": {
@@ -2840,6 +2842,7 @@
   "environment": {
     "vars": {
       "USER_3DMODEL_DIR": "/home/ksl/DevLocal/kicad-libs/FP/3D",
+      "USER_3DMODEL_DIR2": "/home/ksl/DevLocal/mech-libs/freecad/output",
       "USER_FOOTPRINT_DIR": "/home/ksl/DevLocal/kicad-libs/FP",
       "USER_SYMBOL_DIR": "/home/ksl/DevLocal/kicad-libs/"
     }

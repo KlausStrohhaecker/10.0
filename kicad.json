@@ -105,7 +105,7 @@
     "last_imperial_units": 5,
     "last_metric_units": 1,
     "last_received_update": "",
-    "last_update_check_time": "2026-06-24T14:46:50",
+    "last_update_check_time": "2026-06-24T20:49:37",
     "max_undo_items": 0,
     "open_projects": [
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/120122_C25_MainBoardXL_1a.kicad_pro"
@@ -274,11 +274,11 @@
     },
     "maximized": false,
     "mru_path": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/",
-    "perspective": "layout2|name=TopMainToolbar;caption=;state=139596;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=243;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ProjectTree;caption=Project Files;state=1340;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=339;besth=20;minw=250;minh=80;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LocalHistory;caption=Local History;state=2098494;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Editors;caption=Editors;state=508;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=700;besth=590;minw=700;minh=590;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,2,0)=34|dock_size(4,1,0)=339|dock_size(5,0,0)=700|",
-    "pos_x": 2318,
-    "pos_y": 529,
-    "size_x": 1187,
-    "size_y": 509,
+    "perspective": "layout2|name=ProjectTree;caption=Project Files;state=1340;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=339;besth=20;minw=250;minh=80;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LocalHistory;caption=Local History;state=2098494;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Editors;caption=Editors;state=508;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=700;besth=590;minw=700;minh=590;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=TopMainToolbar;caption=;state=139596;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=243;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,2,0)=34|dock_size(4,1,0)=339|dock_size(5,0,0)=700|",
+    "pos_x": 366,
+    "pos_y": 272,
+    "size_x": 1177,
+    "size_y": 485,
     "zoom_factors": [
       0.13,
       0.22,
