@@ -89,18 +89,20 @@
   },
   "system": {
     "drill_file_history": [
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/production/120122_C25_MainBoardXL_1a-PTH.drl",
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/production/120122_C25_MainBoardXL_1a-NPTH.drl",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120109_C25_EhcMidi_2a/production/tmp/120109_C25_EhcMidi_2a-PTH.drl"
     ],
     "file_history": [
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120109_C25_EhcMidi_2a/production/tmp/120109_C25_EhcMidi_2a-TOP_Cu.gtl",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120109_C25_EhcMidi_2a/production/tmp/120109_C25_EhcMidi_2a-PTH-drl_map.gbr",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120109_C25_EhcMidi_2a/production/tmp/120109_C25_EhcMidi_2a-NPTH-drl_map.gbr",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120109_C25_EhcMidi_2a/production/tmp/120109_C25_EhcMidi_2a-In4_GND_Cu.g4",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120109_C25_EhcMidi_2a/production/tmp/120109_C25_EhcMidi_2a-In3-SIG_Cu.g3",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120109_C25_EhcMidi_2a/production/tmp/120109_C25_EhcMidi_2a-In2-SUPPLY_Cu.g2",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120109_C25_EhcMidi_2a/production/tmp/120109_C25_EhcMidi_2a-In1-GND_Cu.g1",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120109_C25_EhcMidi_2a/production/tmp/120109_C25_EhcMidi_2a-F_Silkscreen.gto",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120109_C25_EhcMidi_2a/production/tmp/120109_C25_EhcMidi_2a-F_Paste.gtp"
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/production/120122_C25_MainBoardXL_1a-PTH-drl_map.gbr",
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/production/120122_C25_MainBoardXL_1a-NPTH-drl_map.gbr",
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/production/120122_C25_MainBoardXL_1a-In2_Cu.g2",
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/production/120122_C25_MainBoardXL_1a-In1_Cu.g1",
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/production/120122_C25_MainBoardXL_1a-F_Silkscreen.gto",
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/production/120122_C25_MainBoardXL_1a-F_Paste.gtp",
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/production/120122_C25_MainBoardXL_1a-F_Mask.gts",
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/production/120122_C25_MainBoardXL_1a-F_Cu.gtl",
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/production/120122_C25_MainBoardXL_1a-Edge_Cuts.gm1"
     ],
     "first_run_shown": false,
     "job_file_history": [],
@@ -118,7 +120,7 @@
       "cross_hair_mode": 0,
       "fullscreen_cursor": false
     },
-    "display": 1,
+    "display": 0,
     "grid": {
       "axes_enabled": true,
       "fast_grid_1": 15,
@@ -255,13 +257,13 @@
       "user_grid_x": "",
       "user_grid_y": ""
     },
-    "maximized": true,
-    "mru_path": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120109_C25_EhcMidi_2a/production/tmp",
-    "perspective": "layout2|name=TopMainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=628;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=TopAuxToolbar;caption=;state=139632;dir=1;layer=4;row=0;pos=0;prop=100000;bestw=1051;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=400;besth=32;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LeftToolbar;caption=;state=139596;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=572;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayersManager;caption=Layers Manager;state=1532;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=438;besth=32;minw=438;minh=32;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=438;floath=32|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=197;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=34|dock_size(1,4,0)=34|dock_size(3,6,0)=32|dock_size(4,3,0)=34|dock_size(2,3,0)=438|dock_size(5,0,0)=387|",
-    "pos_x": 1920,
-    "pos_y": 0,
-    "size_x": 1290,
-    "size_y": 744,
+    "maximized": false,
+    "mru_path": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/production",
+    "perspective": "layout2|name=TopMainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=628;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=TopAuxToolbar;caption=;state=139632;dir=1;layer=4;row=0;pos=0;prop=100000;bestw=1076;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=400;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LeftToolbar;caption=;state=139596;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=572;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayersManager;caption=Layers Manager;state=1532;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=483;besth=32;minw=483;minh=32;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=483;floath=32|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=194;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=34|dock_size(1,4,0)=34|dock_size(3,6,0)=34|dock_size(4,3,0)=34|dock_size(2,3,0)=483|dock_size(5,0,0)=324|",
+    "pos_x": 2062,
+    "pos_y": 430,
+    "size_x": 1915,
+    "size_y": 1314,
     "zoom_factors": [
       0.022,
       0.035,
