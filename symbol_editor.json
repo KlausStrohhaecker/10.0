@@ -100,8 +100,7 @@
       "Description"
     ],
     "open_libs": [
-      "Converter_ACDC",
-      "nll-smps"
+      "nll-RCL"
     ]
   },
   "library": {

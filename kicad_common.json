@@ -364,6 +364,15 @@
         "wxHtmlWindow_0": 0,
         "wxTextCtrl_0": "/120122_PowerSupply/mains_PE"
       },
+      "Add New Destination": {
+        "__geometry": {
+          "h": 302,
+          "w": 292,
+          "x": 3059,
+          "y": 720
+        },
+        "wxTextCtrl_0": ""
+      },
       "Add New Job": {
         "__geometry": {
           "h": 469,
@@ -430,6 +439,17 @@
         "wxTextCtrl_0": 0,
         "wxTextCtrl_1": 100000,
         "wxTextCtrl_2": 0
+      },
+      "Archive Destination": {
+        "__geometry": {
+          "h": 386,
+          "w": 518,
+          "x": 2660,
+          "y": 670
+        },
+        "wxChoice_0": 0,
+        "wxTextCtrl_0": "3D step board export",
+        "wxTextCtrl_1": "./doc-output/${PROJECTNAME}_3D"
       },
       "Board Setup": {
         "__geometry": {
@@ -827,7 +847,7 @@
         "wxCheckBox_1": true,
         "wxPanel_0wxSplitterWindow_0": 981,
         "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxHtmlWindow_0": 0,
-        "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxSearchCtrl_0": "nll-mo",
+        "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxSearchCtrl_0": "nll-di",
         "wxPanel_0wxSplitterWindow_0wxPanel_1wxPanel_1wxOwnerDrawnComboBox_0": 0
       },
       "Circle Properties": {
@@ -1238,6 +1258,18 @@
         "wxCheckBox_2": true,
         "wxCheckBox_3": false
       },
+      "Execute Command Job Settings": {
+        "__geometry": {
+          "h": 383,
+          "w": 885,
+          "x": 2716,
+          "y": 686
+        },
+        "wxCheckBox_0": true,
+        "wxCheckBox_1": false,
+        "wxGrid_0": "0 1",
+        "wxTextCtrl_0": ""
+      },
       "Export 3D Model": {
         "__geometry": {
           "h": 637,
@@ -1280,6 +1312,47 @@
         "wxStaticBox_4wxChoice_0": 0,
         "wxTextCtrl_0": ".stp"
       },
+      "Export 3D Model Job Settings": {
+        "__geometry": {
+          "h": 656,
+          "w": 840,
+          "x": 2541,
+          "y": 961
+        },
+        "wxChoice_0": 0,
+        "wxChoice_1": 0,
+        "wxStaticBox_0wxCheckBox_0": false,
+        "wxStaticBox_0wxCheckBox_1": true,
+        "wxStaticBox_0wxCheckBox_2": false,
+        "wxStaticBox_0wxCheckBox_3": false,
+        "wxStaticBox_0wxCheckBox_4": false,
+        "wxStaticBox_0wxCheckBox_5": false,
+        "wxStaticBox_0wxCheckBox_6": true,
+        "wxStaticBox_0wxRadioButton_0": true,
+        "wxStaticBox_0wxRadioButton_1": false,
+        "wxStaticBox_0wxRadioButton_2": false,
+        "wxStaticBox_0wxTextCtrl_0": "",
+        "wxStaticBox_1wxCheckBox_0": false,
+        "wxStaticBox_1wxCheckBox_1": false,
+        "wxStaticBox_1wxCheckBox_2": false,
+        "wxStaticBox_1wxCheckBox_3": false,
+        "wxStaticBox_1wxCheckBox_4": false,
+        "wxStaticBox_1wxCheckBox_5": false,
+        "wxStaticBox_1wxTextCtrl_0": "",
+        "wxStaticBox_2wxRadioButton_0": false,
+        "wxStaticBox_2wxRadioButton_1": true,
+        "wxStaticBox_2wxRadioButton_2": false,
+        "wxStaticBox_2wxRadioButton_3": false,
+        "wxStaticBox_3wxTextCtrl_0": 0,
+        "wxStaticBox_3wxTextCtrl_1": 0,
+        "wxStaticBox_4wxCheckBox_0": true,
+        "wxStaticBox_4wxCheckBox_1": false,
+        "wxStaticBox_4wxCheckBox_2": true,
+        "wxStaticBox_4wxCheckBox_3": false,
+        "wxStaticBox_4wxCheckBox_4": true,
+        "wxStaticBox_4wxChoice_0": 1,
+        "wxTextCtrl_0": "${PROJECTNAME}_3D.stp"
+      },
       "Export 3D View": {
         "__geometry": {
           "h": 338,
@@ -1289,6 +1362,34 @@
         },
         "wxChoice_0": 0,
         "wxChoice_1": 0
+      },
+      "Export PDF Job Settings": {
+        "__geometry": {
+          "h": 353,
+          "w": 726,
+          "x": 2565,
+          "y": 1105
+        },
+        "wxChoice_0": 0,
+        "wxPanel_1wxStaticBox_0wxCheckBox_0": true,
+        "wxPanel_1wxStaticBox_0wxCheckBox_1": true,
+        "wxPanel_1wxStaticBox_0wxCheckBox_2": true,
+        "wxPanel_1wxStaticBox_0wxCheckBox_3": true,
+        "wxPanel_1wxStaticBox_0wxCheckBox_4": true,
+        "wxPanel_1wxStaticBox_0wxHtmlWindow_0": 0,
+        "wxRadioBox_0": 1,
+        "wxStaticBox_0wxCheckBox_0": true,
+        "wxStaticBox_0wxCheckBox_1": false,
+        "wxStaticBox_0wxChoice_0": 0,
+        "wxStaticBox_0wxChoice_1": 0,
+        "wxStaticBox_0wxChoice_2": 0,
+        "wxStaticBox_0wxTextCtrl_0": 847,
+        "wxStaticBox_1wxCheckBox_0": true,
+        "wxStaticBox_1wxCheckBox_1": true,
+        "wxStaticBox_1wxCheckBox_2": false,
+        "wxStaticBox_2wxChoice_0": 0,
+        "wxStaticBox_3wxCheckBox_0": false,
+        "wxTextCtrl_0": "${PROJECTNAME}_schematic.pdf"
       },
       "Filter Selected Items": {
         "__geometry": {
@@ -1327,6 +1428,17 @@
         "wxCheckBox_9": true,
         "wxRadioButton_0": true,
         "wxRadioButton_1": false
+      },
+      "Folder Destination": {
+        "__geometry": {
+          "h": 351,
+          "w": 518,
+          "x": 2660,
+          "y": 670
+        },
+        "wxChoice_0": 0,
+        "wxTextCtrl_0": "Schematic",
+        "wxTextCtrl_1": "./doc-output/"
       },
       "Footprint Field Properties": {
         "__geometry": {
@@ -1617,6 +1729,15 @@
         "wxStaticBox_1wxCheckBox_5": true,
         "wxStaticBox_1wxCheckBox_6": true
       },
+      "Junction Properties": {
+        "__geometry": {
+          "h": 206,
+          "w": 342,
+          "x": 2678,
+          "y": 812
+        },
+        "wxTextCtrl_0": 254
+      },
       "Label Properties": {
         "__geometry": {
           "h": 410,
@@ -1625,9 +1746,9 @@
           "y": 966
         },
         "wxCheckBox_0": false,
-        "wxComboCtrl_0": "IMON",
+        "wxComboCtrl_0": "PWR_LED",
         "wxComboCtrl_0wxPopupTransientWindow_0wxPanel_0wxTextCtrl_0": "",
-        "wxComboCtrl_0wxTextCtrl_0": "IMON",
+        "wxComboCtrl_0wxTextCtrl_0": "PWR_LED",
         "wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxStaticBox_1wxRadioButton_0": true,
         "wxStaticBox_1wxRadioButton_1": false,
@@ -2391,7 +2512,7 @@
           "y": 942
         },
         "wxPanel_0wxTreebook_0wxPanel_10wxPanel_0wxBookCtrlBase_0wxPanel_0wxGrid_0": "0",
-        "wxPanel_0wxTreebook_0wxPanel_10wxPanel_0wxBookCtrlBase_0wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_0": "IMON",
+        "wxPanel_0wxTreebook_0wxPanel_10wxPanel_0wxBookCtrlBase_0wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_0": "PWR_LED",
         "wxPanel_0wxTreebook_0wxPanel_10wxPanel_0wxGrid_0": "0",
         "wxPanel_0wxTreebook_0wxPanel_10wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_0": "PSU_CTRL",
         "wxPanel_0wxTreebook_0wxPanel_1wxPanel_0wxStaticBox_0wxTextCtrl_0": 12700,
@@ -2587,8 +2708,8 @@
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "ks-RCL:L_Wuerth_WE-PD-Typ-LS",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "ks-RCL:L_Wuerth_WE-PD-Typ-LS",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "J7",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "KPT-1608LVZGCK",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "J9",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "C2939344",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": true,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": true,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_0": -1,
@@ -2603,7 +2724,7 @@
         "wxNotebook_0wxPanel_1wxGrid_0": "0 1 2 3 4",
         "wxNotebook_0wxPanel_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_2wxGrid_0": "0 1",
-        "wxTextCtrl_0": "nll-connector:IEC60320-C14-PCB-90-ISO"
+        "wxTextCtrl_0": "nll-connector:DIN-5_180_PolUp"
       },
       "Synchronize sheet pins and hierarchical labels": {
         "__geometry": {
@@ -2623,17 +2744,17 @@
         },
         "wxBitmapComboBox_0": "F.Silkscreen",
         "wxCheckBox_0": false,
-        "wxCheckBox_1": true,
+        "wxCheckBox_1": false,
         "wxCheckBox_2": false,
         "wxCheckBox_3": false,
         "wxComboBox_0": "0",
         "wxOwnerDrawnComboBox_0": 15,
         "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Consolas",
         "wxTextCtrl_0": "",
-        "wxTextCtrl_1": 3000000,
-        "wxTextCtrl_2": 3000000,
-        "wxTextCtrl_3": -92200000,
-        "wxTextCtrl_4": 95300000,
+        "wxTextCtrl_1": 2000000,
+        "wxTextCtrl_2": 2000000,
+        "wxTextCtrl_3": -70500000,
+        "wxTextCtrl_4": 105150000,
         "wxTextCtrl_5": 200000
       },
       "Text PropertiesLibeditFrame": {
@@ -2687,44 +2808,44 @@
           "x": 1995,
           "y": 475
         },
-        "wxStaticBox_0wxCheckBox_0": true,
+        "wxStaticBox_0wxCheckBox_0": false,
         "wxStaticBox_0wxCheckBox_1": false,
-        "wxStaticBox_0wxComboCtrl_0": "/120122_PowerSupply/mains_N",
+        "wxStaticBox_0wxComboCtrl_0": "Net-(C38-Pad1)",
         "wxStaticBox_0wxComboCtrl_0wxPopupTransientWindow_0wxPanel_0wxTextCtrl_0": "gnd",
-        "wxStaticBox_1wxBitmapComboBox_0": "F.Cu",
+        "wxStaticBox_1wxBitmapComboBox_0": "TOP.Cu",
         "wxStaticBox_1wxCheckBox_0": false,
-        "wxStaticBox_1wxChoice_0": -1,
-        "wxStaticBox_1wxTextCtrl_0": -117000000,
-        "wxStaticBox_1wxTextCtrl_1": 23750000,
-        "wxStaticBox_1wxTextCtrl_2": -109750000,
-        "wxStaticBox_1wxTextCtrl_3": 31000000,
-        "wxStaticBox_1wxTextCtrl_4": 3500000,
+        "wxStaticBox_1wxChoice_0": 3,
+        "wxStaticBox_1wxTextCtrl_0": 0,
+        "wxStaticBox_1wxTextCtrl_1": 9300000,
+        "wxStaticBox_1wxTextCtrl_2": 0,
+        "wxStaticBox_1wxTextCtrl_3": 0,
+        "wxStaticBox_1wxTextCtrl_4": 1000000,
         "wxStaticBox_1wxTextCtrl_5": 0,
-        "wxStaticBox_2wxBitmapComboBox_0": "F.Cu",
-        "wxStaticBox_2wxBitmapComboBox_1": "B.Cu",
+        "wxStaticBox_2wxBitmapComboBox_0": "TOP.Cu",
+        "wxStaticBox_2wxBitmapComboBox_1": "BOT.Cu",
         "wxStaticBox_2wxBitmapComboBox_2": "None",
         "wxStaticBox_2wxBitmapComboBox_3": "None",
-        "wxStaticBox_2wxCheckBox_0": false,
+        "wxStaticBox_2wxCheckBox_0": true,
         "wxStaticBox_2wxCheckBox_1": true,
         "wxStaticBox_2wxCheckBox_2": false,
         "wxStaticBox_2wxChoice_0": -1,
         "wxStaticBox_2wxChoice_1": 0,
         "wxStaticBox_2wxChoice_2": -1,
         "wxStaticBox_2wxChoice_3": 0,
-        "wxStaticBox_2wxChoice_4": 0,
+        "wxStaticBox_2wxChoice_4": 1,
         "wxStaticBox_2wxChoice_5": 0,
         "wxStaticBox_2wxChoice_6": 0,
         "wxStaticBox_2wxChoice_7": 0,
         "wxStaticBox_2wxChoice_8": 0,
-        "wxStaticBox_2wxTextCtrl_0": -166400000,
-        "wxStaticBox_2wxTextCtrl_1": 39800000,
+        "wxStaticBox_2wxTextCtrl_0": 20950000,
+        "wxStaticBox_2wxTextCtrl_1": 17950000,
         "wxStaticBox_2wxTextCtrl_10": "90",
         "wxStaticBox_2wxTextCtrl_11": "50",
         "wxStaticBox_2wxTextCtrl_12": 1000000,
         "wxStaticBox_2wxTextCtrl_13": "100",
         "wxStaticBox_2wxTextCtrl_14": 2000000,
         "wxStaticBox_2wxTextCtrl_2": 600000,
-        "wxStaticBox_2wxTextCtrl_3": 300000,
+        "wxStaticBox_2wxTextCtrl_3": 301000,
         "wxStaticBox_2wxTextCtrl_4": 0,
         "wxStaticBox_2wxTextCtrl_5": 0,
         "wxStaticBox_2wxTextCtrl_6": 0,
@@ -2739,8 +2860,8 @@
           "x": 2756,
           "y": 438
         },
-        "wxTextCtrl_0": 3500000,
-        "wxTextCtrl_1": 500000,
+        "wxTextCtrl_0": 500000,
+        "wxTextCtrl_1": 600000,
         "wxTextCtrl_2": 300000
       },
       "Unused Pads": {
@@ -2798,12 +2919,12 @@
         "wxPanel_0wxStaticBox_0wxCheckBox_2": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_3": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_4": true,
-        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 65,
+        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 266,
         "wxStaticBox_0wxCheckBox_0": true,
         "wxStaticBox_0wxCheckBox_1": false,
         "wxStaticBox_0wxCheckBox_2": false,
         "wxStaticBox_1wxCheckBox_0": false,
-        "wxStaticBox_1wxCheckBox_1": false,
+        "wxStaticBox_1wxCheckBox_1": true,
         "wxStaticBox_1wxCheckBox_2": false,
         "wxStaticBox_2wxCheckBox_0": true,
         "wxStaticBox_2wxCheckBox_1": false
@@ -2847,8 +2968,8 @@
         "__geometry": {
           "h": 151,
           "w": 186,
-          "x": 3126,
-          "y": 1149
+          "x": 2921,
+          "y": 1213
         }
       },
       "Wire & Bus Properties": {

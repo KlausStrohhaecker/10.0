@@ -158,7 +158,7 @@ class ProcessThread(Thread):
         else:
             baseName = "{} {}".format(title or filename, revision or '')
 
-        gerberArchiveName = ProcessManager.normalize_filename("_".join((baseName.strip() + '.zip').split()))
+        gerberArchiveName = ProcessManager.normalize_filename("_".join((baseName.strip() + '_gerber.zip').split()))
         os.rename(temp_file, os.path.join(temp_dir, gerberArchiveName))
 
         if self.options[ARCHIVE_NAME]:
