@@ -258,7 +258,10 @@
       "Description"
     ],
     "open_libs": [
-      "nll-mouting"
+      "-- Recently Used --",
+      "-- Already Placed --",
+      "nll-connector",
+      "nll-smps"
     ]
   },
   "lib_view": {
@@ -537,6 +540,7 @@
   },
   "system": {
     "file_history": [
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/play-panel/120120_C25_PCBA_BenderLeverSensor_2a/120120_C25_BenderLeverSensor_2a.kicad_sch",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120124_C25_PCBA_EhcMidi_3a/120124_C25_EhcMidi_3a.kicad_sch",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/120122_C25_MainBoardXL_1a.kicad_sch",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/edit-panel/120110_C25_EditPanel_3a/120110_C25_EditPanel_3a.kicad_sch",
@@ -544,8 +548,7 @@
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120109_C25_EhcMidi_2a/120109_C25_EhcMidi_2a.kicad_sch",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/erp-control/120106_C25_ErpControl_3a/120106_C25_ErpControl_3a.kicad_sch",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/erp-control/initial/erp_aktor_board_v2a.kicad_sch",
-      "/home/ksl/DevLocal/temp/mainboard_1b.kicad_sch",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/keybed-scanner-classic/120105_C25_KeybedScannerClassic_2a/120105_C25_KeybedScannerClassic_2a.kicad_sch"
+      "/home/ksl/DevLocal/temp/mainboard_1b.kicad_sch"
     ],
     "first_run_shown": false,
     "last_imperial_units": 5,
