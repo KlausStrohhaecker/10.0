@@ -69,9 +69,9 @@ common.Control.expandAll
 common.Control.gridFast1	Alt+1	
 common.Control.gridFast2	Alt+2	
 common.Control.gridFastCycle	Alt+4	
-common.Control.gridNext	N	
+common.Control.gridNext	G	
 common.Control.gridPreset		
-common.Control.gridPrev	Shift+N	
+common.Control.gridPrev	Shift+G	
 common.Control.gridResetOrigin		
 common.Control.gridSetOrigin		
 common.Control.hideLibraryTree		
@@ -178,7 +178,7 @@ common.Interactive.redo	Ctrl+Y
 common.Interactive.removeFromGroup		
 common.Interactive.replaceAll		
 common.Interactive.replaceAndFindNext		
-common.Interactive.search	Ctrl+G	
+common.Interactive.search	Shift+L	
 common.Interactive.selectAll	Ctrl+A	
 common.Interactive.selectSetLasso		
 common.Interactive.selectSetRect		
@@ -651,8 +651,8 @@ pcbnew.EditorControl.toggleLastNetHighlight
 pcbnew.EditorControl.toggleLock	Shift+L	
 pcbnew.EditorControl.toggleNetHighlight	Alt+`	
 pcbnew.EditorControl.trackViaSizeChanged		
-pcbnew.EditorControl.trackWidthDec	Shift+W	
-pcbnew.EditorControl.trackWidthInc	W	
+pcbnew.EditorControl.trackWidthDec	Shift+N	
+pcbnew.EditorControl.trackWidthInc	N	
 pcbnew.EditorControl.unlock		
 pcbnew.EditorControl.viaSizeDec	\	
 pcbnew.EditorControl.viaSizeInc	'	
@@ -780,7 +780,7 @@ pcbnew.InteractiveRouter.InlineDrag
 pcbnew.InteractiveRouter.PlaceBlindVia	Alt+Shift+V	
 pcbnew.InteractiveRouter.PlaceMicroVia	Ctrl+V	
 pcbnew.InteractiveRouter.PlaceVia	Shift+V	
-pcbnew.InteractiveRouter.RouteSelected	Shift+X	
+pcbnew.InteractiveRouter.RouteSelected	Shift+W	
 pcbnew.InteractiveRouter.RouteSelectedFromEnd	Shift+E	
 pcbnew.InteractiveRouter.SelLayerAndPlaceBlindVia	Alt+<	
 pcbnew.InteractiveRouter.SelLayerAndPlaceMicroVia		
@@ -788,7 +788,7 @@ pcbnew.InteractiveRouter.SelLayerAndPlaceVia	<
 pcbnew.InteractiveRouter.SelectLayerPair		
 pcbnew.InteractiveRouter.SettingsDialog	Ctrl+<	
 pcbnew.InteractiveRouter.ShoveMode		
-pcbnew.InteractiveRouter.SingleTrack	X	
+pcbnew.InteractiveRouter.SingleTrack	W	
 pcbnew.InteractiveRouter.SwitchPosture	Ctrl+Space	
 pcbnew.InteractiveRouter.SwitchRounding45	Ctrl+W	
 pcbnew.InteractiveRouter.SwitchRounding90	Ctrl+Alt+W	

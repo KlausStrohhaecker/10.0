@@ -2348,10 +2348,10 @@
       },
       "Preferences": {
         "__geometry": {
-          "h": 900,
-          "w": 1192,
-          "x": 2257,
-          "y": 374
+          "h": 2057,
+          "w": 1492,
+          "x": 2162,
+          "y": 76
         },
         "wxPanel_0wxTreebook_0wxPanel_0wxSearchCtrl_0": "",
         "wxPanel_0wxTreebook_0wxPanel_12wxPanel_0wxCheckBox_0": true,
@@ -2756,10 +2756,18 @@
         "wxSplitterWindow_0": 300,
         "wxSplitterWindow_0wxPanel_0wxGenericDirCtrl_0wxDirFilterListCtrl_0": 1
       },
+      "Select Layer": {
+        "__geometry": {
+          "h": 157,
+          "w": 172,
+          "x": 2728,
+          "y": 1316
+        }
+      },
       "Set Hotkey": {
         "__geometry": {
           "h": 175,
-          "w": 305,
+          "w": 311,
           "x": 2797,
           "y": 612
         }
