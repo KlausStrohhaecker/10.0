@@ -292,7 +292,7 @@ eeschema.EditorControl.updateNetHighlighting
 eeschema.EditorTool.showHierarchy	Shift+H	
 eeschema.InspectionTool.checkSymbol		
 eeschema.InspectionTool.diffSymbol		
-eeschema.InspectionTool.runERC		
+eeschema.InspectionTool.runERC	Shift+E	
 eeschema.InspectionTool.showBusSyntaxHelp		
 eeschema.Interactive.decrementPrimary		
 eeschema.Interactive.decrementSecondary		
