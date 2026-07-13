@@ -3142,10 +3142,10 @@
       },
       "View Preset Switcher": {
         "__geometry": {
-          "h": 151,
-          "w": 186,
-          "x": 2969,
-          "y": 1076
+          "h": 176,
+          "w": 196,
+          "x": 2878,
+          "y": 1175
         }
       },
       "Wire & Bus Properties": {
