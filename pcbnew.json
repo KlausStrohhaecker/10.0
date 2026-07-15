@@ -551,6 +551,7 @@
       "nll-DFN-QFN",
       "nll-diode",
       "nll-mounting",
+      "nll-oscillator",
       "nll-RCL",
       "nll-rotary",
       "nll-switch"

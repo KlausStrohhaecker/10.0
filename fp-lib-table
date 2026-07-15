@@ -10,4 +10,5 @@
 	(lib (name "nll-connector") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-connector.pretty") (options "") (descr ""))
 	(lib (name "nll-mounting") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-mounting.pretty") (options "") (descr ""))
 	(lib (name "nll-switch") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-switch.pretty") (options "") (descr ""))
+	(lib (name "nll-oscillator") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-oscillator.pretty") (options "") (descr ""))
 )

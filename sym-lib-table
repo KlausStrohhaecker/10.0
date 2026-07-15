@@ -18,4 +18,6 @@
 	(lib (name "nll-misc-ic") (type "KiCad") (uri "${USER_SYMBOL_DIR}/nll-misc-ic.kicad_sym") (options "") (descr ""))
 	(lib (name "nll-switch") (type "KiCad") (uri "${USER_SYMBOL_DIR}/nll-switch.kicad_sym") (options "") (descr ""))
 	(lib (name "nll-mouting") (type "KiCad") (uri "${USER_SYMBOL_DIR}/nll-mouting.kicad_sym") (options "") (descr ""))
+	(lib (name "nll-audio-codec") (type "KiCad") (uri "${USER_SYMBOL_DIR}/nll-audio-codec.kicad_sym") (options "") (descr ""))
+	(lib (name "nll-oscillator") (type "KiCad") (uri "${USER_SYMBOL_DIR}/nll-oscillator.kicad_sym") (options "") (descr ""))
 )
