@@ -11,4 +11,7 @@
 	(lib (name "nll-mounting") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-mounting.pretty") (options "") (descr ""))
 	(lib (name "nll-switch") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-switch.pretty") (options "") (descr ""))
 	(lib (name "nll-oscillator") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-oscillator.pretty") (options "") (descr ""))
+	(lib (name "Inductor_SMD_Wurth") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/Inductor_SMD_Wurth.pretty") (options "") (descr ""))
+	(lib (name "nll-converter_DCDC") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-converter_DCDC.pretty") (options "") (descr ""))
+	(lib (name "nll-SO") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-SO.pretty") (options "") (descr ""))
 )
