@@ -93,7 +93,7 @@
     "highlight_factor": 0.5,
     "select_factor": 0.75
   },
-  "last_page": 17,
+  "last_page": 14,
   "lib_tree": {
     "column_widths": null,
     "columns": [],
@@ -603,9 +603,9 @@
     "maximized": false,
     "mru_path": "",
     "perspective": "layout2|",
-    "pos_x": -220,
+    "pos_x": 0,
     "pos_y": 688,
-    "size_x": 1090,
+    "size_x": 1080,
     "size_y": 822,
     "zoom_factors": [
       0.13,

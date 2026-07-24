@@ -372,7 +372,7 @@ eeschema.InteractiveEdit.toTextBox
 eeschema.InteractiveEdit.toggleDeMorgan		
 eeschema.InteractiveEdit.updateSymbol		
 eeschema.InteractiveEdit.updateSymbols		
-eeschema.InteractiveMove.drag	G	
+eeschema.InteractiveMove.drag	Shift+M	
 eeschema.InteractiveMove.move	M	
 eeschema.InteractiveSelection.SelectConnection	Ctrl+4	
 eeschema.InteractiveSelection.SelectNode	Alt+3	

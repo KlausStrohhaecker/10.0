@@ -127,7 +127,7 @@
   },
   "lib_tree": {
     "column_widths": {
-      "Description": 396,
+      "Description": 394,
       "Item": 395
     },
     "columns": [
@@ -135,8 +135,7 @@
       "Description"
     ],
     "open_libs": [
-      "Package_TO_SOT_SMD",
-      "Package_SO"
+      "Inductor_SMD_Wurth"
     ]
   },
   "library": {

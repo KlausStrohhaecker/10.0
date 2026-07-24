@@ -261,7 +261,7 @@
     "show_navigator": true,
     "show_plated_barrels": true,
     "show_silkscreen_bottom": true,
-    "show_silkscreen_top": true,
+    "show_silkscreen_top": false,
     "show_soldermask_bottom": true,
     "show_soldermask_top": true,
     "show_solderpaste": true,
