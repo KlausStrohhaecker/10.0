@@ -100,7 +100,7 @@
       "Description"
     ],
     "open_libs": [
-      "nll-smps"
+      "nll-misc-ic"
     ]
   },
   "library": {
@@ -144,10 +144,10 @@
     "images": true,
     "labels": true,
     "lockedItems": false,
-    "otherItems": false,
+    "otherItems": true,
     "pins": true,
     "symbols": true,
-    "text": false,
+    "text": true,
     "wires": true
   },
   "show_hidden_lib_fields": true,

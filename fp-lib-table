@@ -14,4 +14,5 @@
 	(lib (name "Inductor_SMD_Wurth") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/Inductor_SMD_Wurth.pretty") (options "") (descr ""))
 	(lib (name "nll-converter_DCDC") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-converter_DCDC.pretty") (options "") (descr ""))
 	(lib (name "nll-SO") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-SO.pretty") (options "") (descr ""))
+	(lib (name "nll-misc") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-misc.pretty") (options "") (descr ""))
 )

@@ -65,10 +65,6 @@
     {
       "colors": [
         {
-          "color": "rgb(194, 194, 194)",
-          "layer": ""
-        },
-        {
           "color": "rgb(102, 102, 128)",
           "layer": "background_bottom"
         },
@@ -130,7 +126,6 @@
         }
       ],
       "layers": [
-        "",
         "fp_text",
         "fp_values",
         "fp_references",
@@ -247,7 +242,7 @@
     "show_comments": false,
     "show_copper_bottom": true,
     "show_copper_top": true,
-    "show_drawings": true,
+    "show_drawings": false,
     "show_eco1": false,
     "show_eco2": false,
     "show_footprints_dnp": false,

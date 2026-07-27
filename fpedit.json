@@ -135,7 +135,7 @@
       "Description"
     ],
     "open_libs": [
-      "Inductor_SMD_Wurth"
+      "nll-misc"
     ]
   },
   "library": {
