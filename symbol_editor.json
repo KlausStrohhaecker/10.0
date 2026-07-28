@@ -100,7 +100,8 @@
       "Description"
     ],
     "open_libs": [
-      "nll-misc-ic"
+      "nll-diode",
+      "nll-opto"
     ]
   },
   "library": {
