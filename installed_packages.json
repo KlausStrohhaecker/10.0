@@ -135,7 +135,7 @@
                     }
                 ]
             },
-            "pinned": true,
+            "pinned": false,
             "repository_id": "46f88614eade3439",
             "repository_name": "KiCad official repository"
         },

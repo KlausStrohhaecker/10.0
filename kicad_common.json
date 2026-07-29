@@ -297,20 +297,20 @@
       },
       "*Sheet Properties": {
         "__geometry": {
-          "h": 443,
+          "h": 460,
           "w": 906,
-          "x": 2360,
-          "y": 1044
+          "x": 1403,
+          "y": 84
         },
         "wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
-        "wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "MainSupply.kicad_sch",
-        "wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "MainSupply.kicad_sch",
-        "wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "MainSupply",
+        "wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "MainsPowerSupply.kicad_sch",
+        "wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "MainsPowerSupply.kicad_sch",
+        "wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "PowerSupply",
         "wxStaticBox_1wxCheckBox_0": false,
         "wxStaticBox_1wxCheckBox_1": false,
         "wxStaticBox_1wxCheckBox_2": false,
         "wxStaticBox_1wxCheckBox_3": false,
-        "wxStaticBox_1wxTextCtrl_0": "6",
+        "wxStaticBox_1wxTextCtrl_0": "2",
         "wxStaticBox_2wxTextCtrl_0": 1524
       },
       "*Symbol Fields Table": {
@@ -383,14 +383,14 @@
       },
       "Add Netclass Assignment": {
         "__geometry": {
-          "h": 355,
-          "w": 568,
+          "h": 360,
+          "w": 657,
           "x": 2690,
           "y": 994
         },
         "wxComboBox_0": "ESD",
         "wxHtmlWindow_0": 0,
-        "wxTextCtrl_0": "/IN-(L-R|R-R)"
+        "wxTextCtrl_0": "/AudioIn/IN-(L-ESD|R-ESD)"
       },
       "Add New Destination": {
         "__geometry": {
@@ -413,7 +413,7 @@
       "Annotate Schematic": {
         "__geometry": {
           "h": 542,
-          "w": 721,
+          "w": 774,
           "x": 359,
           "y": 312
         },
@@ -422,7 +422,7 @@
         "wxPanel_0wxStaticBox_0wxCheckBox_2": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_3": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_4": true,
-        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 49,
+        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 0,
         "wxStaticBox_0wxCheckBox_0": true,
         "wxStaticBox_0wxRadioButton_0": true,
         "wxStaticBox_0wxRadioButton_1": false,
@@ -481,10 +481,10 @@
       },
       "Board Setup": {
         "__geometry": {
-          "h": 634,
-          "w": 1346,
-          "x": 2247,
-          "y": 786
+          "h": 500,
+          "w": 746,
+          "x": 2427,
+          "y": 961
         },
         "wxPanel_0wxTreebook_0wxPanel_11wxPanel_0wxScrolledWindow_0": 49,
         "wxPanel_0wxTreebook_0wxPanel_11wxPanel_0wxScrolledWindow_0wxCheckBox_0": false,
@@ -513,8 +513,10 @@
         "wxPanel_0wxTreebook_0wxPanel_12wxPanel_0wxGrid_2": "0 1 2",
         "wxPanel_0wxTreebook_0wxPanel_16wxPanel_0wxSplitterWindow_0": 263,
         "wxPanel_0wxTreebook_0wxPanel_16wxPanel_0wxSplitterWindow_0wxPanel_0wxGrid_0": "0 1 2 3 4 5 6 7 8 9 10",
-        "wxPanel_0wxTreebook_0wxPanel_16wxPanel_0wxSplitterWindow_0wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_0": ".1",
-        "wxPanel_0wxTreebook_0wxPanel_16wxPanel_0wxSplitterWindow_0wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_1": ".1",
+        "wxPanel_0wxTreebook_0wxPanel_16wxPanel_0wxSplitterWindow_0wxPanel_0wxGrid_0wxWindow_3wxComboBox_0": "",
+        "wxPanel_0wxTreebook_0wxPanel_16wxPanel_0wxSplitterWindow_0wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_0": ".15",
+        "wxPanel_0wxTreebook_0wxPanel_16wxPanel_0wxSplitterWindow_0wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_1": ".15",
+        "wxPanel_0wxTreebook_0wxPanel_16wxPanel_0wxSplitterWindow_0wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_2": "ESD",
         "wxPanel_0wxTreebook_0wxPanel_16wxPanel_0wxSplitterWindow_0wxPanel_1wxGrid_0": "0 1",
         "wxPanel_0wxTreebook_0wxPanel_16wxPanel_0wxSplitterWindow_0wxPanel_1wxHtmlWindow_0": 0,
         "wxPanel_0wxTreebook_0wxPanel_17wxPanel_0wxCheckBox_0": false,
@@ -977,7 +979,7 @@
         "wxCheckBox_1": true,
         "wxPanel_0wxSplitterWindow_0": 1366,
         "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxHtmlWindow_0": 0,
-        "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxSearchCtrl_0": "nll-tr",
+        "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxSearchCtrl_0": "STM32H743",
         "wxPanel_0wxSplitterWindow_0wxPanel_1wxPanel_1wxOwnerDrawnComboBox_0": 0
       },
       "Circle Properties": {
@@ -1422,8 +1424,8 @@
       },
       "Edit Value Field": {
         "__geometry": {
-          "h": 310,
-          "w": 678,
+          "h": 326,
+          "w": 748,
           "x": 402,
           "y": 406
         },
@@ -1437,8 +1439,8 @@
         "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Consolas",
         "wxTextCtrl_0": "",
         "wxTextCtrl_1": 12700,
-        "wxTextCtrl_2": 2514600,
-        "wxTextCtrl_3": 812800
+        "wxTextCtrl_2": 927100,
+        "wxTextCtrl_3": 190500
       },
       "Electrical Rules Checker": {
         "__geometry": {
@@ -1449,7 +1451,7 @@
         },
         "wxBookCtrlBase_0wxPanel_0wxNotebook_0": "Tests Running...",
         "wxBookCtrlBase_0wxPanel_0wxNotebook_0wxPanel_0wxHtmlWindow_0": 0,
-        "wxBookCtrlBase_0wxPanel_1wxNotebook_0": "Violations (13)",
+        "wxBookCtrlBase_0wxPanel_1wxNotebook_0": "Violations (0)",
         "wxCheckBox_0": false,
         "wxCheckBox_1": true,
         "wxCheckBox_2": true,
@@ -1774,19 +1776,19 @@
       },
       "Footprint Properties": {
         "__geometry": {
-          "h": 712,
-          "w": 853,
+          "h": 726,
+          "w": 931,
           "x": 227,
           "y": 342
         },
         "wxNotebook_0": "General",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "NRJ6HF",
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": true,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_0": 0,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxComboBox_0": "90",
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_0": 136000000,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_1": 0,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_0": 145350000,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_1": 86560000,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_2": "SMT",
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_1": false,
@@ -1816,12 +1818,12 @@
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_0wxTextCtrl_0": "1.0000",
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_0wxTextCtrl_1": "1.0000",
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_0wxTextCtrl_2": "1.0000",
-        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_1wxTextCtrl_0": "90.00°",
+        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_1wxTextCtrl_0": "-90.00°",
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_1wxTextCtrl_1": "0.00°",
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_1wxTextCtrl_2": "90.00°",
-        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_0": "0.000000 mm",
+        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_0": "-2.750000 mm",
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_1": "0.000000 mm",
-        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_2": "6.510000 mm",
+        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_2": "10.400000 mm",
         "wxNotebook_0wxPanel_3wxStaticBox_0wxChoice_0": 0,
         "wxNotebook_0wxPanel_3wxStaticBox_1wxGrid_0": "0",
         "wxNotebook_0wxPanel_3wxStaticBox_2wxCheckBox_0": false,
@@ -1841,7 +1843,7 @@
         "wxNotebook_0wxPanel_5wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_0": "0.000000 mm",
         "wxNotebook_0wxPanel_5wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_1": "0.000000 mm",
         "wxNotebook_0wxPanel_5wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_2": "0.000000 mm",
-        "wxTextCtrl_0": "nll-connector-audio:Jack_6.35mm_Neutrik_NRJ6HF_Horizontal"
+        "wxTextCtrl_0": "nll-converter_DCDC:Converter_DCDC_25.4mmX25.4mm_STD_THT"
       },
       "Footprint Reference Properties": {
         "__geometry": {
@@ -1889,13 +1891,13 @@
       },
       "Get and Move Footprint": {
         "__geometry": {
-          "h": 176,
-          "w": 498,
-          "x": 582,
-          "y": 985
+          "h": 181,
+          "w": 591,
+          "x": 813,
+          "y": 857
         },
-        "wxChoice_0": 29,
-        "wxTextCtrl_0": "d103"
+        "wxChoice_0": 40,
+        "wxTextCtrl_0": "c203"
       },
       "Graphic PropertiesLibeditFrame": {
         "__geometry": {
@@ -2132,9 +2134,9 @@
       },
       "Move Item|pcb_editor": {
         "__geometry": {
-          "h": 225,
-          "w": 523,
-          "x": 557,
+          "h": 227,
+          "w": 565,
+          "x": 1403,
           "y": 433
         },
         "wxCheckBox_0": false,
@@ -2158,15 +2160,15 @@
       },
       "Move Item|with_selection|pcb_editor": {
         "__geometry": {
-          "h": 225,
-          "w": 494,
-          "x": 2753,
+          "h": 227,
+          "w": 565,
+          "x": 839,
           "y": 960
         },
         "wxCheckBox_0": false,
         "wxChoice_0": 0,
         "wxTextCtrl_0": 0,
-        "wxTextCtrl_1": -5000000,
+        "wxTextCtrl_1": -27000000,
         "wxTextCtrl_2": "0"
       },
       "New Symbol": {
@@ -2458,16 +2460,16 @@
       "Plugin And Content Manager": {
         "__geometry": {
           "h": 552,
-          "w": 983,
-          "x": 492,
-          "y": 217
+          "w": 1050,
+          "x": 2769,
+          "y": 753
         },
-        "wxNotebook_0": "Installed (3)",
+        "wxNotebook_0": "Repository (118)",
         "wxNotebook_0wxPanel_0wxChoice_0": 0,
-        "wxNotebook_0wxPanel_0wxNotebook_0": "Plugins (67)",
+        "wxNotebook_0wxPanel_0wxNotebook_0": "Plugins (75)",
         "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0": 380,
         "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_0wxScrolledWindow_0": 0,
-        "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_0wxSearchCtrl_0": "",
+        "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_0wxSearchCtrl_0": "snap",
         "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_1wxScrolledWindow_0": 0,
         "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_1wxScrolledWindow_0wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxNotebook_0wxPanel_0wxSplitterWindow_0wxPanel_1wxScrolledWindow_0wxGrid_0": "0 1 2 3 4",
@@ -3264,9 +3266,9 @@
       },
       "Update Footprints from Library": {
         "__geometry": {
-          "h": 671,
-          "w": 719,
-          "x": 2530,
+          "h": 697,
+          "w": 778,
+          "x": 626,
           "y": 229
         },
         "wxPanel_2wxStaticBox_0wxCheckBox_0": true,
@@ -3280,7 +3282,7 @@
         "wxRadioButton_2": false,
         "wxRadioButton_3": false,
         "wxRadioButton_4": false,
-        "wxStaticBox_0wxCheckBox_0": true,
+        "wxStaticBox_0wxCheckBox_0": false,
         "wxStaticBox_0wxCheckBox_1": true,
         "wxStaticBox_0wxCheckBox_2": false,
         "wxStaticBox_0wxCheckBox_3": false,
@@ -3288,24 +3290,24 @@
         "wxStaticBox_0wxCheckBox_5": true,
         "wxStaticBox_0wxCheckBox_6": true,
         "wxStaticBox_0wxCheckBox_7": true,
-        "wxTextCtrl_0": "D303",
-        "wxTextCtrl_1": "1A/30V",
-        "wxTextCtrl_2": "Diode_SMD:D_SOD-323",
-        "wxTextCtrl_3": "Diode_SMD:D_SOD-323"
+        "wxTextCtrl_0": "J7",
+        "wxTextCtrl_1": "IEC60320-C14-PCB-90-ISO",
+        "wxTextCtrl_2": "nll-connector-mains:Qualtek-703W-00-52",
+        "wxTextCtrl_3": "nll-connector-mains:Qualtek-703W-00-52"
       },
       "Update PCB from Schematic": {
         "__geometry": {
-          "h": 690,
-          "w": 719,
-          "x": 1080,
-          "y": 232
+          "h": 715,
+          "w": 772,
+          "x": 1509,
+          "y": 322
         },
         "wxPanel_0wxStaticBox_0wxCheckBox_0": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_1": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_2": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_3": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_4": true,
-        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 648,
+        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 828,
         "wxStaticBox_0wxCheckBox_0": false,
         "wxStaticBox_0wxCheckBox_1": false,
         "wxStaticBox_0wxCheckBox_2": false,
@@ -3352,10 +3354,10 @@
       },
       "View Preset Switcher": {
         "__geometry": {
-          "h": 223,
-          "w": 216,
-          "x": 2955,
-          "y": 1057
+          "h": 188,
+          "w": 225,
+          "x": 3320,
+          "y": 1197
         }
       },
       "Wire & Bus Properties": {

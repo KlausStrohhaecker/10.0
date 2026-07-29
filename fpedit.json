@@ -135,7 +135,19 @@
       "Description"
     ],
     "open_libs": [
-      "nll-misc"
+      "nll-connector",
+      "nll-connector-audio",
+      "nll-connector-mains",
+      "nll-converter_DCDC",
+      "nll-DFN-QFN",
+      "nll-diode",
+      "nll-misc",
+      "nll-mounting",
+      "nll-oscillator",
+      "nll-RCL",
+      "nll-rotary",
+      "nll-SO",
+      "nll-switch"
     ]
   },
   "library": {
