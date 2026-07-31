@@ -21,4 +21,5 @@
 	(lib (name "nll-audio-codec") (type "KiCad") (uri "${USER_SYMBOL_DIR}/nll-audio-codec.kicad_sym") (options "") (descr ""))
 	(lib (name "nll-oscillator") (type "KiCad") (uri "${USER_SYMBOL_DIR}/nll-oscillator.kicad_sym") (options "") (descr ""))
 	(lib (name "Inductor_Wurth_WE-DD") (type "KiCad") (uri "${USER_SYMBOL_DIR}/Inductor_Wurth_WE-DD.kicad_sym") (options "") (descr ""))
+	(lib (name "nll-rotary") (type "KiCad") (uri "${USER_SYMBOL_DIR}/nll-rotary.kicad_sym") (options "") (descr ""))
 )

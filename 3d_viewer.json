@@ -5,7 +5,7 @@
   },
   "aui": {
     "right_panel_width": 190,
-    "show_layer_manager": false
+    "show_layer_manager": true
   },
   "camera": {
     "animation_enabled": true,
@@ -256,7 +256,7 @@
     "show_navigator": true,
     "show_plated_barrels": true,
     "show_silkscreen_bottom": true,
-    "show_silkscreen_top": false,
+    "show_silkscreen_top": true,
     "show_soldermask_bottom": true,
     "show_soldermask_top": true,
     "show_solderpaste": true,
@@ -470,11 +470,11 @@
     },
     "maximized": false,
     "mru_path": "",
-    "perspective": "layout2|name=TopMainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=754;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayersManager;caption=Appearance;state=1534;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=190;besth=-1;minw=180;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=34|dock_size(5,0,0)=22|",
+    "perspective": "layout2|name=TopMainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=754;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayersManager;caption=Appearance;state=1532;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=190;besth=-1;minw=180;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=34|dock_size(2,3,0)=190|dock_size(5,0,0)=22|",
     "pos_x": 5243,
-    "pos_y": 529,
+    "pos_y": 227,
     "size_x": 1080,
-    "size_y": 1159,
+    "size_y": 1506,
     "zoom_factors": [
       0.13,
       0.22,

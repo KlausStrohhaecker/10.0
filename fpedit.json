@@ -127,7 +127,7 @@
   },
   "lib_tree": {
     "column_widths": {
-      "Description": 394,
+      "Description": 396,
       "Item": 395
     },
     "columns": [
@@ -135,19 +135,8 @@
       "Description"
     ],
     "open_libs": [
-      "nll-connector",
-      "nll-connector-audio",
-      "nll-connector-mains",
-      "nll-converter_DCDC",
-      "nll-DFN-QFN",
-      "nll-diode",
       "nll-misc",
-      "nll-mounting",
-      "nll-oscillator",
-      "nll-RCL",
-      "nll-rotary",
-      "nll-SO",
-      "nll-switch"
+      "nll-mounting"
     ]
   },
   "library": {
@@ -211,7 +200,7 @@
       "axes_enabled": true,
       "fast_grid_1": 15,
       "fast_grid_2": 16,
-      "last_size": 18,
+      "last_size": 15,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "override_connected": false,

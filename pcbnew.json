@@ -140,11 +140,11 @@
   "footprint_chooser": {
     "filter_on_pin_count": true,
     "height": 787,
-    "sash_h": 1075,
+    "sash_h": 951,
     "sash_v": 357,
     "sort_mode": 0,
     "use_fp_filters": false,
-    "width": 1674
+    "width": 1080
   },
   "footprint_viewer": {
     "aui_state": null,
@@ -541,17 +541,8 @@
       "Description"
     ],
     "open_libs": [
-      "Capacitor_SMD",
-      "Capacitor_Tantalum_SMD",
-      "Connector_Wago",
-      "Connector_Wire",
-      "Crystal",
-      "Diode_SMD",
-      "Fuse",
-      "Inductor_SMD",
-      "Jumper",
-      "LED_SMD",
-      "Resistor_SMD"
+      "Connector_JST",
+      "nll-mounting"
     ]
   },
   "meta": {
@@ -654,14 +645,14 @@
   "system": {
     "file_history": [
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120127_C25_PCBA_AudioEval_1a/120127_C25_PCBA_AudioEval_1a.kicad_pcb",
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/front-bar/120128_C25_PCBA_LineVolume_1a/120128_C25_LineVolume_1a.kicad_pcb",
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/front-bar/120129_C25_PCBA_HPVolumeOutput_1a/120129_C25_HPVolumeOutput_1a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120130_C25_PCBA_PSUEval_2a/120130_C25_PCBA_PSUEval_2a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120127_C25_PCBA_AudioEval_1a/20127_C25_PCBA_AudioEval_1a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/play-panel/120120_C25_PCBA_BenderLeverSensor_2a/120120_C25_BenderLeverSensor_2a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_PSUEval_1a/120122_C25_PSUEval_1a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_MainBoardXL_1a/120122_C25_MainBoardXL_1a.kicad_pcb",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120124_C25_PCBA_EhcMidi_3a/120124_C25_EhcMidi_3a.kicad_pcb",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/20124_C25_PCBA_EhcMidi_3a/120124_C25_EhcMidi_3a.kicad_pcb",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/edit-panel/120110_C25_EditPanel_3a/120110_C25_EditPanel_3a.kicad_pcb"
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/ehc-midi/120124_C25_PCBA_EhcMidi_3a/120124_C25_EhcMidi_3a.kicad_pcb"
     ],
     "first_run_shown": false,
     "last_footprint3d_dir": "${USER_FOOTPRINT_DIR}/3D",
