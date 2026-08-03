@@ -926,7 +926,7 @@
           "h": 758,
           "w": 1071,
           "x": 333,
-          "y": 799
+          "y": 1191
         },
         "wxPanel_2wxStaticBox_0wxCheckBox_0": true,
         "wxPanel_2wxStaticBox_0wxCheckBox_1": true,
@@ -951,10 +951,10 @@
         "wxStaticBox_1wxCheckBox_7": true,
         "wxStaticBox_1wxCheckBox_8": true,
         "wxStaticBox_1wxCheckBox_9": true,
-        "wxTextCtrl_0": "BC604",
-        "wxTextCtrl_1": "2.2u",
-        "wxTextCtrl_2": "nll-RCL:C_2u2_16V_20%_X7R_0603",
-        "wxTextCtrl_3": "nll-RCL:C_4u7_16V_20%_X7R_0603"
+        "wxTextCtrl_0": "R12",
+        "wxTextCtrl_1": "1k",
+        "wxTextCtrl_2": "nll-RCL:Rthickf_1k_1%_0603",
+        "wxTextCtrl_3": "nll-RCL:Rthickf_10k_1%_0603"
       },
       "Choose Power Symbol": {
         "__geometry": {
@@ -3142,25 +3142,25 @@
       },
       "Text Properties": {
         "__geometry": {
-          "h": 472,
-          "w": 720,
+          "h": 489,
+          "w": 824,
           "x": 360,
           "y": 271
         },
-        "wxBitmapComboBox_0": "User.Comments",
+        "wxBitmapComboBox_0": "F.Silkscreen",
         "wxCheckBox_0": false,
         "wxCheckBox_1": false,
         "wxCheckBox_2": false,
         "wxCheckBox_3": false,
         "wxComboBox_0": "0",
-        "wxOwnerDrawnComboBox_0": 0,
-        "wxOwnerDrawnComboBox_0wxTextCtrl_0": "KiCad Font",
+        "wxOwnerDrawnComboBox_0": 15,
+        "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Consolas",
         "wxTextCtrl_0": "",
-        "wxTextCtrl_1": 1000000,
-        "wxTextCtrl_2": 1000000,
-        "wxTextCtrl_3": 209700000,
-        "wxTextCtrl_4": -3500000,
-        "wxTextCtrl_5": 150000
+        "wxTextCtrl_1": 2000000,
+        "wxTextCtrl_2": 2000000,
+        "wxTextCtrl_3": -70500000,
+        "wxTextCtrl_4": 105150000,
+        "wxTextCtrl_5": 200000
       },
       "Text PropertiesLibeditFrame": {
         "__geometry": {
@@ -3316,7 +3316,7 @@
         "__geometry": {
           "h": 715,
           "w": 772,
-          "x": 1403,
+          "x": 632,
           "y": 784
         },
         "wxPanel_0wxStaticBox_0wxCheckBox_0": true,
@@ -3324,7 +3324,7 @@
         "wxPanel_0wxStaticBox_0wxCheckBox_2": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_3": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_4": true,
-        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 490,
+        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 90,
         "wxStaticBox_0wxCheckBox_0": false,
         "wxStaticBox_0wxCheckBox_1": false,
         "wxStaticBox_0wxCheckBox_2": false,
@@ -3522,6 +3522,6 @@
     "pdf_viewer_name": "",
     "text_editor": "/usr/bin/xed",
     "use_system_pdf_viewer": true,
-    "working_dir": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120127_C25_PCBA_AudioEval_1a"
+    "working_dir": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120130_C25_PCBA_PSUEval_2a"
   }
 }
