@@ -15,4 +15,5 @@
 	(lib (name "nll-converter_DCDC") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-converter_DCDC.pretty") (options "") (descr ""))
 	(lib (name "nll-SO") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-SO.pretty") (options "") (descr ""))
 	(lib (name "nll-misc") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/nll-misc.pretty") (options "") (descr ""))
+	(lib (name "Connector_THT_Wurth") (type "KiCad") (uri "${USER_FOOTPRINT_DIR}/Connector_THT_Wurth.pretty") (options "") (descr ""))
 )
