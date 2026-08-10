@@ -135,8 +135,8 @@
       "Description"
     ],
     "open_libs": [
-      "Connector_Coaxial",
-      "Connector_THT_Wurth"
+      "Connector_IDC",
+      "nll-connector"
     ]
   },
   "library": {

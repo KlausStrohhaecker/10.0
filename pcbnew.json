@@ -296,7 +296,7 @@
     "maximized": false,
     "mru_path": "/home/ksl/.local/share/kicad/10.0/projects",
     "perspective": "layout2|",
-    "pos_x": 3021,
+    "pos_x": 2959,
     "pos_y": 1027,
     "size_x": 1080,
     "size_y": 787,
@@ -541,7 +541,17 @@
       "Description"
     ],
     "open_libs": [
-      "Connector_THT_Wurth"
+      "Jumper",
+      "Connector_Wire",
+      "Capacitor_SMD",
+      "Diode_SMD",
+      "Fuse",
+      "Inductor_SMD",
+      "Resistor_SMD",
+      "LED_SMD",
+      "Crystal",
+      "Capacitor_Tantalum_SMD",
+      "Connector_Wago"
     ]
   },
   "meta": {
