@@ -12,7 +12,7 @@
   "aui": {
     "appearance_expand_layer_display": true,
     "appearance_expand_net_display": false,
-    "appearance_panel_tab": 0,
+    "appearance_panel_tab": 1,
     "design_blocks_panel_docked_width": 880,
     "design_blocks_panel_float_height": -1,
     "design_blocks_panel_float_width": -1,
@@ -541,17 +541,7 @@
       "Description"
     ],
     "open_libs": [
-      "Jumper",
-      "Connector_Wire",
-      "Capacitor_SMD",
-      "Diode_SMD",
-      "Fuse",
-      "Inductor_SMD",
-      "Resistor_SMD",
-      "LED_SMD",
-      "Crystal",
-      "Capacitor_Tantalum_SMD",
-      "Connector_Wago"
+      "Connector_IDC"
     ]
   },
   "meta": {
@@ -715,7 +705,7 @@
       "axes_enabled": false,
       "fast_grid_1": 15,
       "fast_grid_2": 16,
-      "last_size": 18,
+      "last_size": 14,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "override_connected": false,

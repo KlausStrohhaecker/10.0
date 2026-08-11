@@ -275,6 +275,7 @@ eeschema.EditorControl.selectOnPCB
 eeschema.EditorControl.setDNP		
 eeschema.EditorControl.setExcludeFromBOM		
 eeschema.EditorControl.setExcludeFromBoard		
+eeschema.EditorControl.setExcludeFromPosFiles		
 eeschema.EditorControl.setExcludeFromSimulation		
 eeschema.EditorControl.showDirectiveLabels		
 eeschema.EditorControl.showERCErrors		
@@ -282,7 +283,7 @@ eeschema.EditorControl.showERCExclusions
 eeschema.EditorControl.showERCWarnings		
 eeschema.EditorControl.showHiddenFields		
 eeschema.EditorControl.showHiddenPins		
-eeschema.EditorControl.showNetNavigator		
+eeschema.EditorControl.showNetNavigator	Shift+N	
 eeschema.EditorControl.showOperatingPointCurrents		
 eeschema.EditorControl.showOperatingPointVoltages		
 eeschema.EditorControl.showPcbNew		
@@ -760,6 +761,8 @@ pcbnew.InteractiveEdit.subtractPolygons
 pcbnew.InteractiveEdit.swap	Alt+S	
 pcbnew.InteractiveEdit.swapGateNets		
 pcbnew.InteractiveEdit.swapPadNets		
+pcbnew.InteractiveEdit.toggleExcludeFromBOM		
+pcbnew.InteractiveEdit.toggleExcludeFromPosFiles		
 pcbnew.InteractiveMove.copyWithReference		
 pcbnew.InteractiveMove.move	M	
 pcbnew.InteractiveMove.moveIndividually	Ctrl+M	

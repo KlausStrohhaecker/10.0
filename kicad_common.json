@@ -130,18 +130,25 @@
         "__geometry": {
           "h": 446,
           "w": 1204,
-          "x": 2317,
-          "y": 858
+          "x": 1403,
+          "y": 1007
         },
+        "wxFrame_0wxPanel_1wxCheckBox_0": false,
+        "wxFrame_0wxPanel_2wxSplitterWindow_0": 357,
+        "wxFrame_0wxPanel_2wxSplitterWindow_0wxPanel_0wxHtmlWindow_0": 0,
+        "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0": 951,
+        "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxCheckBox_0": false,
+        "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxCheckBox_1": true,
+        "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxSearchCtrl_0": "IDC-Header_2x20_P2.54mm_Vertical",
         "wxNotebook_0": "General",
-        "wxNotebook_0wxPanel_0wxComboBox_0": "DualOpAmp-Std8pin",
+        "wxNotebook_0wxPanel_0wxComboBox_0": "Conn_02x20_Odd_Even",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "https://www.infineon.com/assets/row/public/documents/24/49/infineon-bss139-ds-en.pdf",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "https://www.infineon.com/assets/row/public/documents/24/49/infineon-bss139-ds-en.pdf",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "Connector_IDC:IDC-Header_2x20_P2.54mm_Vertical",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "Connector_IDC:IDC-Header_2x20_P2.54mm_Vertical",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_1": "https://tech.alpsalpine.com/e/products/detail/RK09L1120A5F/",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_1wxTextCtrl_0": "https://tech.alpsalpine.com/e/products/detail/RK09L1120A5F/",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "OPA2891DR, OPA2891DR.B",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "Sim.Pins",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "C25503130",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "PartNumber",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_2": "UniqueSpecification",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
@@ -153,12 +160,12 @@
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_2": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_3": false,
-        "wxNotebook_0wxPanel_0wxTextCtrl_0": "OPA2891D",
-        "wxNotebook_0wxPanel_0wxTextCtrl_1": "dual opamp",
+        "wxNotebook_0wxPanel_0wxTextCtrl_0": "shrouded_pinheader_2x20",
+        "wxNotebook_0wxPanel_0wxTextCtrl_1": "connector",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxCheckBox_0": true,
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0": "0 1",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "",
-        "wxNotebook_0wxPanel_1wxStaticBox_0wxSpinCtrl_0": 3,
+        "wxNotebook_0wxPanel_1wxStaticBox_0wxSpinCtrl_0": 1,
         "wxNotebook_0wxPanel_1wxStaticBox_1wxGrid_0": "0",
         "wxNotebook_0wxPanel_1wxStaticBox_1wxRadioButton_0": true,
         "wxNotebook_0wxPanel_1wxStaticBox_1wxRadioButton_1": false,
@@ -301,18 +308,18 @@
         "__geometry": {
           "h": 460,
           "w": 906,
-          "x": 2703,
-          "y": 968
+          "x": 1403,
+          "y": 92
         },
         "wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
-        "wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "AudioInChannel",
-        "wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "AudioInChannel",
-        "wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "AudioInChannel",
+        "wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "Digital",
+        "wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "Digital",
+        "wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "Digital",
         "wxStaticBox_1wxCheckBox_0": false,
         "wxStaticBox_1wxCheckBox_1": false,
         "wxStaticBox_1wxCheckBox_2": false,
         "wxStaticBox_1wxCheckBox_3": false,
-        "wxStaticBox_1wxTextCtrl_0": "7",
+        "wxStaticBox_1wxTextCtrl_0": "11",
         "wxStaticBox_2wxTextCtrl_0": 1524
       },
       "*Symbol Fields Table": {
@@ -355,15 +362,15 @@
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "JP401",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_2": "Phones",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "JP4",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "ID",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_2": "rpSCL",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_0": -1,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_1": -1,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_2": 2,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_3": 0,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_2": 0,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_3": 2,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_1": true,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_2": false,
@@ -416,15 +423,15 @@
         "__geometry": {
           "h": 542,
           "w": 774,
-          "x": 359,
-          "y": 312
+          "x": 630,
+          "y": 495
         },
         "wxPanel_0wxStaticBox_0wxCheckBox_0": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_1": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_2": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_3": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_4": true,
-        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 470,
+        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 553,
         "wxStaticBox_0wxCheckBox_0": true,
         "wxStaticBox_0wxRadioButton_0": true,
         "wxStaticBox_0wxRadioButton_1": false,
@@ -434,8 +441,8 @@
         "wxStaticBox_2wxCheckBox_0": false,
         "wxStaticBox_2wxRadioButton_0": false,
         "wxStaticBox_2wxRadioButton_1": true,
-        "wxStaticBox_3wxRadioButton_0": false,
-        "wxStaticBox_3wxRadioButton_1": true,
+        "wxStaticBox_3wxRadioButton_0": true,
+        "wxStaticBox_3wxRadioButton_1": false,
         "wxStaticBox_3wxRadioButton_2": false,
         "wxStaticBox_3wxTextCtrl_0": "0"
       },
@@ -925,20 +932,20 @@
         "__geometry": {
           "h": 758,
           "w": 1071,
-          "x": 2432,
-          "y": 757
+          "x": 2543,
+          "y": 935
         },
         "wxPanel_2wxStaticBox_0wxCheckBox_0": true,
         "wxPanel_2wxStaticBox_0wxCheckBox_1": true,
         "wxPanel_2wxStaticBox_0wxCheckBox_2": true,
         "wxPanel_2wxStaticBox_0wxCheckBox_3": true,
         "wxPanel_2wxStaticBox_0wxCheckBox_4": true,
-        "wxPanel_2wxStaticBox_0wxHtmlWindow_0": 23,
+        "wxPanel_2wxStaticBox_0wxHtmlWindow_0": 2,
         "wxRadioButton_0": false,
-        "wxRadioButton_1": false,
+        "wxRadioButton_1": true,
         "wxRadioButton_2": false,
         "wxRadioButton_3": false,
-        "wxRadioButton_4": true,
+        "wxRadioButton_4": false,
         "wxStaticBox_1wxCheckBox_0": false,
         "wxStaticBox_1wxCheckBox_1": true,
         "wxStaticBox_1wxCheckBox_10": true,
@@ -951,17 +958,17 @@
         "wxStaticBox_1wxCheckBox_7": true,
         "wxStaticBox_1wxCheckBox_8": true,
         "wxStaticBox_1wxCheckBox_9": true,
-        "wxTextCtrl_0": "D901",
-        "wxTextCtrl_1": "1A/30V",
-        "wxTextCtrl_2": "nll-diode:CUS10S30",
-        "wxTextCtrl_3": "nll-diode:CUS05S40"
+        "wxTextCtrl_0": "C909",
+        "wxTextCtrl_1": "10n",
+        "wxTextCtrl_2": "nll-RCL:C_10n_25V_1%_NP0_0805",
+        "wxTextCtrl_3": "nll-RCL:C_2n2_50V_1%_NP0_0603"
       },
       "Choose Power Symbol": {
         "__geometry": {
           "h": 936,
           "w": 1562,
           "x": 2104,
-          "y": 91
+          "y": 92
         },
         "wxCheckBox_0": false,
         "wxCheckBox_1": true,
@@ -981,7 +988,7 @@
         "wxCheckBox_1": true,
         "wxPanel_0wxSplitterWindow_0": 1240,
         "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxHtmlWindow_0": 0,
-        "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxSearchCtrl_0": "nll-rc",
+        "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxSearchCtrl_0": "nll-rcl",
         "wxPanel_0wxSplitterWindow_0wxPanel_1wxPanel_1wxOwnerDrawnComboBox_0": 0
       },
       "Circle Properties": {
@@ -1332,9 +1339,9 @@
         "wxOwnerDrawnComboBox_0": 0,
         "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Default Font",
         "wxTextCtrl_0": "",
-        "wxTextCtrl_1": 12700,
-        "wxTextCtrl_2": 2057400,
-        "wxTextCtrl_3": 838200
+        "wxTextCtrl_1": 10160,
+        "wxTextCtrl_2": 558800,
+        "wxTextCtrl_3": 571500
       },
       "Edit 'UniqueSpecification' Field": {
         "__geometry": {
@@ -1437,12 +1444,12 @@
         "wxCheckBox_3": false,
         "wxCheckBox_4": false,
         "wxChoice_0": -1,
-        "wxOwnerDrawnComboBox_0": 0,
-        "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Default Font",
-        "wxTextCtrl_0": "U703",
+        "wxOwnerDrawnComboBox_0": 16,
+        "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Consolas",
+        "wxTextCtrl_0": "R164",
         "wxTextCtrl_1": 12700,
-        "wxTextCtrl_2": 1752600,
-        "wxTextCtrl_3": 825500
+        "wxTextCtrl_2": 1638300,
+        "wxTextCtrl_3": 393700
       },
       "Edit Sheetname Field": {
         "__geometry": {
@@ -1493,7 +1500,7 @@
         },
         "wxBookCtrlBase_0wxPanel_0wxNotebook_0": "Tests Running...",
         "wxBookCtrlBase_0wxPanel_0wxNotebook_0wxPanel_0wxHtmlWindow_0": 0,
-        "wxBookCtrlBase_0wxPanel_1wxNotebook_0": "Violations (1)",
+        "wxBookCtrlBase_0wxPanel_1wxNotebook_0": "Violations (0)",
         "wxCheckBox_0": false,
         "wxCheckBox_1": true,
         "wxCheckBox_2": true,
@@ -2017,8 +2024,8 @@
         "wxComboCtrl_0wxPopupTransientWindow_0wxPanel_0wxTextCtrl_0": "",
         "wxComboCtrl_0wxTextCtrl_0": "",
         "wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
-        "wxStaticBox_1wxRadioButton_0": true,
-        "wxStaticBox_1wxRadioButton_1": false,
+        "wxStaticBox_1wxRadioButton_0": false,
+        "wxStaticBox_1wxRadioButton_1": true,
         "wxStaticBox_1wxRadioButton_2": false,
         "wxStaticBox_1wxRadioButton_3": false,
         "wxStaticBox_1wxRadioButton_4": false,
@@ -2030,7 +2037,7 @@
         "wxStaticBox_2wxOwnerDrawnComboBox_0": 0,
         "wxStaticBox_2wxOwnerDrawnComboBox_0wxTextCtrl_0": "Default Font",
         "wxStaticBox_2wxTextCtrl_0": 12700,
-        "wxTextCtrl_0": "ADC_BIAS",
+        "wxTextCtrl_0": "SupplyEnable",
         "wxTextCtrl_1": ""
       },
       "Hotkey List": {
@@ -2087,13 +2094,13 @@
         "__geometry": {
           "h": 423,
           "w": 944,
-          "x": 1403,
+          "x": 460,
           "y": 966
         },
         "wxCheckBox_0": false,
-        "wxComboCtrl_0": "+7Vana",
+        "wxComboCtrl_0": "SupplyEnable",
         "wxComboCtrl_0wxPopupTransientWindow_0wxPanel_0wxTextCtrl_0": "1",
-        "wxComboCtrl_0wxTextCtrl_0": "+7Vana",
+        "wxComboCtrl_0wxTextCtrl_0": "SupplyEnable",
         "wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxStaticBox_1wxRadioButton_0": true,
         "wxStaticBox_1wxRadioButton_1": false,
@@ -2115,7 +2122,7 @@
         "__geometry": {
           "h": 446,
           "w": 1204,
-          "x": 3047,
+          "x": 200,
           "y": 1007
         },
         "wxFrame_0wxPanel_1wxCheckBox_0": false,
@@ -2126,10 +2133,10 @@
         "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxCheckBox_1": true,
         "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxSearchCtrl_0": "",
         "wxNotebook_0": "General",
-        "wxNotebook_0wxPanel_0wxComboBox_0": "Q_NMOS_DEPL_GSD",
+        "wxNotebook_0wxPanel_0wxComboBox_0": "Conn_02x05_Odd_Even",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "nll-connector:IDC-Header_2x04_P2.54mm_Vertical",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "nll-connector:IDC-Header_2x04_P2.54mm_Vertical",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "nll-connector:IDC-Header_2x05_P2.54mm_Vertical",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "nll-connector:IDC-Header_2x05_P2.54mm_Vertical",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "UniqueSpecification",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "UniqueSpecification",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
@@ -2142,8 +2149,8 @@
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_2": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_3": false,
-        "wxNotebook_0wxPanel_0wxTextCtrl_0": "BSS139_SOT23",
-        "wxNotebook_0wxPanel_0wxTextCtrl_1": "transistor NMOS N-MOS N-MOSFET",
+        "wxNotebook_0wxPanel_0wxTextCtrl_0": "shrouded_pinheader_2x5",
+        "wxNotebook_0wxPanel_0wxTextCtrl_1": "connector",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxCheckBox_0": true,
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0": "0 1",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "",
@@ -2414,19 +2421,19 @@
           "x": 2809,
           "y": 554
         },
-        "wxBitmapComboBox_0": "Unspecified",
+        "wxBitmapComboBox_0": "Input",
         "wxBitmapComboBox_1": "Line",
-        "wxBitmapComboBox_2": "Up",
+        "wxBitmapComboBox_2": "Right",
         "wxCheckBox_0": false,
         "wxCheckBox_1": false,
         "wxCheckBox_2": true,
         "wxCollapsiblePane_0wxPanel_0wxGrid_0": "0 1 2",
         "wxCollapsiblePane_0wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_0": "PCM/TDM_DATA_OUT",
-        "wxTextCtrl_0": "V-",
-        "wxTextCtrl_1": "[4,11]",
-        "wxTextCtrl_2": -25400,
-        "wxTextCtrl_3": 76200,
-        "wxTextCtrl_4": 38100,
+        "wxTextCtrl_0": "VREF+",
+        "wxTextCtrl_1": "20",
+        "wxTextCtrl_2": -228600,
+        "wxTextCtrl_3": -533400,
+        "wxTextCtrl_4": 50800,
         "wxTextCtrl_5": 12700,
         "wxTextCtrl_6": 12700
       },
@@ -2559,10 +2566,10 @@
         "__geometry": {
           "h": 2057,
           "w": 1492,
-          "x": 2162,
-          "y": 76
+          "x": 2408,
+          "y": 151
         },
-        "wxPanel_0wxTreebook_0wxPanel_0wxSearchCtrl_0": "",
+        "wxPanel_0wxTreebook_0wxPanel_0wxSearchCtrl_0": "net na",
         "wxPanel_0wxTreebook_0wxPanel_12wxPanel_0wxCheckBox_0": true,
         "wxPanel_0wxTreebook_0wxPanel_12wxPanel_0wxCheckBox_1": false,
         "wxPanel_0wxTreebook_0wxPanel_12wxPanel_0wxCheckBox_10": false,
@@ -2909,24 +2916,24 @@
         "__geometry": {
           "h": 412,
           "w": 632,
-          "x": 2606,
-          "y": 599
+          "x": 2049,
+          "y": 872
         },
         "wxCheckBox_0": false,
-        "wxTextCtrl_0": "Q_NPN_BEC",
+        "wxTextCtrl_0": "STM32H743VGTx",
         "wxTextCtrl_1": ""
       },
       "Schematic Setup": {
         "__geometry": {
-          "h": 624,
-          "w": 1061,
-          "x": 343,
+          "h": 500,
+          "w": 923,
+          "x": 1403,
           "y": 967
         },
         "wxPanel_0wxTreebook_0wxPanel_10wxPanel_0wxBookCtrlBase_0wxPanel_0wxGrid_0": "0",
-        "wxPanel_0wxTreebook_0wxPanel_10wxPanel_0wxBookCtrlBase_0wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_0": "ADC_BIAS",
+        "wxPanel_0wxTreebook_0wxPanel_10wxPanel_0wxBookCtrlBase_0wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_0": "ADC_DOUT",
         "wxPanel_0wxTreebook_0wxPanel_10wxPanel_0wxGrid_0": "0",
-        "wxPanel_0wxTreebook_0wxPanel_10wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_0": "ADC_IN_ANA",
+        "wxPanel_0wxTreebook_0wxPanel_10wxPanel_0wxGrid_0wxWindow_3wxTextCtrl_0": "CODEC_CTRL",
         "wxPanel_0wxTreebook_0wxPanel_11wxPanel_0wxGrid_0": "0 1",
         "wxPanel_0wxTreebook_0wxPanel_1wxPanel_0wxStaticBox_0wxTextCtrl_0": 12700,
         "wxPanel_0wxTreebook_0wxPanel_1wxPanel_0wxStaticBox_0wxTextCtrl_1": "123",
@@ -3015,8 +3022,8 @@
       },
       "Set Hotkey": {
         "__geometry": {
-          "h": 175,
-          "w": 311,
+          "h": 184,
+          "w": 362,
           "x": 2797,
           "y": 612
         }
@@ -3062,10 +3069,10 @@
           "x": 2712,
           "y": 1023
         },
-        "wxComboBox_0": "{DAC_OUT_ANA}",
-        "wxStaticBox_0wxRadioButton_0": false,
+        "wxComboBox_0": "SupplyEnable",
+        "wxStaticBox_0wxRadioButton_0": true,
         "wxStaticBox_0wxRadioButton_1": false,
-        "wxStaticBox_0wxRadioButton_2": true,
+        "wxStaticBox_0wxRadioButton_2": false,
         "wxStaticBox_0wxRadioButton_3": false,
         "wxStaticBox_0wxRadioButton_4": false,
         "wxStaticBox_1wxOwnerDrawnComboBox_0": 0,
@@ -3133,13 +3140,13 @@
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "C401",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "J8",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "TPS7A39",
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": true,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": true,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_0": -1,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_1": -1,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_2": 2,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_2": 0,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_3": 0,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_1": false,
@@ -3149,7 +3156,7 @@
         "wxNotebook_0wxPanel_1wxGrid_0": "0 1 2 3 4",
         "wxNotebook_0wxPanel_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_2wxGrid_0": "0 1",
-        "wxTextCtrl_0": "nll-RCL:C_2u2_16V_20%_X7R_0603"
+        "wxTextCtrl_0": "nll-connector:shrouded_pinheader_2x20"
       },
       "Symbol Warnings": {
         "__geometry": {
@@ -3228,8 +3235,8 @@
         "__geometry": {
           "h": 413,
           "w": 747,
-          "x": 657,
-          "y": 1201
+          "x": 1403,
+          "y": 1586
         },
         "wxBitmapComboBox_0": "",
         "wxCheckBox_0": false,
@@ -3364,7 +3371,7 @@
         "wxPanel_0wxStaticBox_0wxCheckBox_2": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_3": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_4": true,
-        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 478,
+        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 1286,
         "wxStaticBox_0wxCheckBox_0": false,
         "wxStaticBox_0wxCheckBox_1": false,
         "wxStaticBox_0wxCheckBox_2": false,
@@ -3411,10 +3418,10 @@
       },
       "View Preset Switcher": {
         "__geometry": {
-          "h": 192,
-          "w": 104,
-          "x": 3102,
-          "y": 1083
+          "h": 216,
+          "w": 114,
+          "x": 3097,
+          "y": 1071
         }
       },
       "Wire & Bus Properties": {

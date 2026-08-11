@@ -109,7 +109,7 @@
     "last_imperial_units": 5,
     "last_metric_units": 1,
     "last_received_update": "",
-    "last_update_check_time": "2026-08-10T11:27:34",
+    "last_update_check_time": "2026-08-11T10:30:50",
     "max_undo_items": 0,
     "open_projects": [
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120127_C25_PCBA_AudioEval_1a/120127_C25_PCBA_AudioEval_1a.kicad_pro"
@@ -283,8 +283,8 @@
     "perspective": "layout2|name=ProjectTree;caption=Project Files;state=1340;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=471;besth=20;minw=250;minh=80;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LocalHistory;caption=Local History;state=2098494;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Editors;caption=Editors;state=508;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=700;besth=590;minw=700;minh=590;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=TopMainToolbar;caption=;state=139596;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=243;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,2,0)=34|dock_size(4,1,0)=471|dock_size(5,0,0)=700|",
     "pos_x": 3093,
     "pos_y": 836,
-    "size_x": 1242,
-    "size_y": 407,
+    "size_x": 1232,
+    "size_y": 383,
     "zoom_factors": [
       0.13,
       0.22,

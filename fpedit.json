@@ -135,8 +135,7 @@
       "Description"
     ],
     "open_libs": [
-      "Connector_IDC",
-      "nll-connector"
+      "Connector_IDC"
     ]
   },
   "library": {
