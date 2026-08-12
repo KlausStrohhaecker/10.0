@@ -23,4 +23,5 @@
 	(lib (name "Inductor_Wurth_WE-DD") (type "KiCad") (uri "${USER_SYMBOL_DIR}/Inductor_Wurth_WE-DD.kicad_sym") (options "") (descr ""))
 	(lib (name "nll-rotary") (type "KiCad") (uri "${USER_SYMBOL_DIR}/nll-rotary.kicad_sym") (options "") (descr ""))
 	(lib (name "Connector_Wurth_WR-MM") (type "KiCad") (uri "${USER_SYMBOL_DIR}/Connector_Wurth_WR-MM.kicad_sym") (options "") (descr ""))
+	(lib (name "nll-74xx") (type "KiCad") (uri "${USER_SYMBOL_DIR}/nll-74xx.kicad_sym") (options "") (descr ""))
 )

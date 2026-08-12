@@ -541,7 +541,7 @@
       "Description"
     ],
     "open_libs": [
-      "Connector_IDC"
+      "Package_SO"
     ]
   },
   "meta": {
@@ -705,7 +705,7 @@
       "axes_enabled": false,
       "fast_grid_1": 15,
       "fast_grid_2": 16,
-      "last_size": 14,
+      "last_size": 18,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "override_connected": false,
