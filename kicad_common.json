@@ -1181,14 +1181,14 @@
       },
       "Design Rules Checker": {
         "__geometry": {
-          "h": 528,
+          "h": 534,
           "w": 948,
           "x": 132,
           "y": 1000
         },
         "wxBookCtrlBase_0wxPanel_0wxNotebook_0": "Tests Running...",
-        "wxBookCtrlBase_0wxPanel_0wxNotebook_0wxPanel_0wxHtmlWindow_0": 0,
-        "wxBookCtrlBase_0wxPanel_1wxNotebook_0": "Violations ",
+        "wxBookCtrlBase_0wxPanel_0wxNotebook_0wxPanel_0wxHtmlWindow_0": 59,
+        "wxBookCtrlBase_0wxPanel_1wxNotebook_0": "Violations (0)",
         "wxCheckBox_0": true,
         "wxCheckBox_1": true,
         "wxCheckBox_2": false,
@@ -3418,10 +3418,10 @@
       },
       "View Preset Switcher": {
         "__geometry": {
-          "h": 240,
-          "w": 124,
-          "x": 3383,
-          "y": 1214
+          "h": 164,
+          "w": 215,
+          "x": 3215,
+          "y": 1040
         }
       },
       "Wire & Bus Properties": {
@@ -3569,6 +3569,6 @@
     "pdf_viewer_name": "",
     "text_editor": "/usr/bin/xed",
     "use_system_pdf_viewer": true,
-    "working_dir": "/home/ksl/DevLocal/kicad-libs"
+    "working_dir": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120130_C25_PCBA_PSUEval_2a"
   }
 }
