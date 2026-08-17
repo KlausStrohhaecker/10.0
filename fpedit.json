@@ -135,7 +135,10 @@
       "Description"
     ],
     "open_libs": [
-      "Connector_IDC"
+      "nll-connector",
+      "nll-connector-audio",
+      "nll-connector-mains",
+      "nll-converter_DCDC"
     ]
   },
   "library": {
