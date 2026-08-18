@@ -100,8 +100,8 @@
       "Description"
     ],
     "open_libs": [
-      "nll-diode",
-      "nll-opto"
+      "Jumper",
+      "nll-misc"
     ]
   },
   "library": {
