@@ -331,7 +331,7 @@
       "cross_hair_mode": 0,
       "fullscreen_cursor": false
     },
-    "display": 0,
+    "display": 1,
     "grid": {
       "axes_enabled": false,
       "fast_grid_1": 15,
@@ -468,13 +468,13 @@
       "user_grid_x": "",
       "user_grid_y": ""
     },
-    "maximized": true,
+    "maximized": false,
     "mru_path": "",
     "perspective": "layout2|name=TopMainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=594;besth=26;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayersManager;caption=Appearance;state=1534;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=190;besth=-1;minw=180;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=26|dock_size(5,0,0)=22|",
-    "pos_x": 5243,
-    "pos_y": 204,
-    "size_x": 1798,
-    "size_y": 1273,
+    "pos_x": 2905,
+    "pos_y": 287,
+    "size_x": 1774,
+    "size_y": 1848,
     "zoom_factors": [
       0.13,
       0.22,
