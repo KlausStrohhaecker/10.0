@@ -99,10 +99,7 @@
       "Item",
       "Description"
     ],
-    "open_libs": [
-      "Jumper",
-      "nll-misc"
-    ]
+    "open_libs": []
   },
   "library": {
     "sort_mode": 1
@@ -141,15 +138,15 @@
     "selection_zoom": 1
   },
   "selection_filter": {
-    "graphics": false,
-    "images": false,
-    "labels": false,
+    "graphics": true,
+    "images": true,
+    "labels": true,
     "lockedItems": false,
-    "otherItems": false,
-    "pins": false,
-    "symbols": false,
+    "otherItems": true,
+    "pins": true,
+    "symbols": true,
     "text": true,
-    "wires": false
+    "wires": true
   },
   "show_hidden_lib_fields": true,
   "show_hidden_lib_pins": true,
