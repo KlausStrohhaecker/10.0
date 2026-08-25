@@ -75,7 +75,7 @@
     "ctrl_click_highlight": false,
     "esc_clears_net_highlight": true,
     "flip_left_right": false,
-    "magnetic_all_layers": false,
+    "magnetic_all_layers": true,
     "magnetic_graphics": false,
     "magnetic_pads": 1,
     "magnetic_tracks": 0,
@@ -543,7 +543,7 @@
       "Description"
     ],
     "open_libs": [
-      "nll-misc"
+      "Connector_IDC"
     ]
   },
   "meta": {
@@ -672,7 +672,7 @@
       "effort": 1,
       "fix_all_segments": true,
       "follow_mouse": true,
-      "free_angle_mode": false,
+      "free_angle_mode": true,
       "jump_over_obstacles": true,
       "meta": {
         "version": 0
