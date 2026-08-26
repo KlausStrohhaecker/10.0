@@ -645,6 +645,7 @@
   },
   "system": {
     "file_history": [
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/play-panel/120132_C25_PCBA_BenderLeverSensor_3a/120132_C25_PCBA_BenderLeverSensor_3a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120127_C25_PCBA_AudioEval_1a/120127_C25_PCBA_AudioEval_1a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/edit-panel/120126_C25_PCBA_EditPanel_4a/120126_C25_EditPanel_4a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120130_C25_PCBA_PSUEval_2a/120130_C25_PSUEval_2a.kicad_pcb",
@@ -652,8 +653,7 @@
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/front-bar/120129_C25_PCBA_HPVolumeOutput_1a/120129_C25_HPVolumeOutput_1a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120130_C25_PCBA_PSUEval_2a/120130_C25_PCBA_PSUEval_2a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120127_C25_PCBA_AudioEval_1a/20127_C25_PCBA_AudioEval_1a.kicad_pcb",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/play-panel/120120_C25_PCBA_BenderLeverSensor_2a/120120_C25_BenderLeverSensor_2a.kicad_pcb",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120122_C25_PCBA_PSUEval_1a/120122_C25_PSUEval_1a.kicad_pcb"
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/play-panel/120120_C25_PCBA_BenderLeverSensor_2a/120120_C25_BenderLeverSensor_2a.kicad_pcb"
     ],
     "first_run_shown": false,
     "last_footprint3d_dir": "${USER_FOOTPRINT_DIR}/3D",
@@ -707,7 +707,7 @@
       "axes_enabled": false,
       "fast_grid_1": 15,
       "fast_grid_2": 16,
-      "last_size": 18,
+      "last_size": 14,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "override_connected": false,

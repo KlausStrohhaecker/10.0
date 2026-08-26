@@ -130,8 +130,8 @@
         "__geometry": {
           "h": 446,
           "w": 1204,
-          "x": 2789,
-          "y": 1091
+          "x": 2726,
+          "y": 1149
         },
         "wxFrame_0wxPanel_1wxCheckBox_0": false,
         "wxFrame_0wxPanel_2wxSplitterWindow_0": 357,
@@ -141,13 +141,13 @@
         "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxCheckBox_1": true,
         "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxSearchCtrl_0": "IDC-Header_2x20_P2.54mm_Vertical",
         "wxNotebook_0": "General",
-        "wxNotebook_0wxPanel_0wxComboBox_0": "Conn_02x10_Odd_Even",
+        "wxNotebook_0wxPanel_0wxComboBox_0": "3-pin-hall-sensor",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "Connector_IDC:IDC-Header_2x10_P2.54mm_Vertical",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "Connector_IDC:IDC-Header_2x10_P2.54mm_Vertical",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_1": "https://tech.alpsalpine.com/e/products/detail/RK09L1120A5F/",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_1wxTextCtrl_0": "https://tech.alpsalpine.com/e/products/detail/RK09L1120A5F/",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "C2977593",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "C962987",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "C4991610",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_2": "UniqueSpecification",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
@@ -160,8 +160,8 @@
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_2": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_3": false,
-        "wxNotebook_0wxPanel_0wxTextCtrl_0": "shrouded_pinheader_2x10",
-        "wxNotebook_0wxPanel_0wxTextCtrl_1": "connector",
+        "wxNotebook_0wxPanel_0wxTextCtrl_0": "DRV5055Z1",
+        "wxNotebook_0wxPanel_0wxTextCtrl_1": "Biploar Ratiometric Linear Hall Effect Sensor",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxCheckBox_0": true,
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0": "0 1",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "",
@@ -955,8 +955,8 @@
         "__geometry": {
           "h": 758,
           "w": 1071,
-          "x": 2524,
-          "y": 1070
+          "x": 2976,
+          "y": 777
         },
         "wxPanel_2wxStaticBox_0wxCheckBox_0": true,
         "wxPanel_2wxStaticBox_0wxCheckBox_1": true,
@@ -965,10 +965,10 @@
         "wxPanel_2wxStaticBox_0wxCheckBox_4": true,
         "wxPanel_2wxStaticBox_0wxHtmlWindow_0": 0,
         "wxRadioButton_0": false,
-        "wxRadioButton_1": false,
+        "wxRadioButton_1": true,
         "wxRadioButton_2": false,
         "wxRadioButton_3": false,
-        "wxRadioButton_4": true,
+        "wxRadioButton_4": false,
         "wxStaticBox_1wxCheckBox_0": false,
         "wxStaticBox_1wxCheckBox_1": true,
         "wxStaticBox_1wxCheckBox_10": true,
@@ -981,10 +981,10 @@
         "wxStaticBox_1wxCheckBox_7": true,
         "wxStaticBox_1wxCheckBox_8": true,
         "wxStaticBox_1wxCheckBox_9": true,
-        "wxTextCtrl_0": "SJ1",
-        "wxTextCtrl_1": "SolderJumper_2_Open",
-        "wxTextCtrl_2": "Jumper:SolderJumper_2_Open",
-        "wxTextCtrl_3": "nll-misc:SolderJumper_2_Open"
+        "wxTextCtrl_0": "U1",
+        "wxTextCtrl_1": "${UniqueSpecification}",
+        "wxTextCtrl_2": "nll-sensor:DRV5055Z2",
+        "wxTextCtrl_3": "nll-sensor:DRV5055Z1"
       },
       "Choose Power Symbol": {
         "__geometry": {
@@ -1244,8 +1244,8 @@
       },
       "Dimension Properties": {
         "__geometry": {
-          "h": 597,
-          "w": 779,
+          "h": 637,
+          "w": 895,
           "x": 2526,
           "y": 657
         },
@@ -1259,18 +1259,18 @@
         "wxStaticBox_2wxChoice_0": 3,
         "wxStaticBox_2wxChoice_1": 0,
         "wxStaticBox_2wxChoice_2": 4,
-        "wxStaticBox_2wxTextCtrl_0": "60.2",
+        "wxStaticBox_2wxTextCtrl_0": "2",
         "wxStaticBox_2wxTextCtrl_1": "",
         "wxStaticBox_2wxTextCtrl_2": "",
         "wxStaticBox_3wxCheckBox_0": true,
-        "wxStaticBox_3wxChoice_0": 0,
+        "wxStaticBox_3wxChoice_0": 2,
         "wxStaticBox_3wxComboBox_0": "0",
-        "wxStaticBox_3wxOwnerDrawnComboBox_0": 0,
-        "wxStaticBox_3wxOwnerDrawnComboBox_0wxTextCtrl_0": "KiCad Font",
-        "wxStaticBox_3wxTextCtrl_0": 1000000,
-        "wxStaticBox_3wxTextCtrl_1": -60100000,
-        "wxStaticBox_3wxTextCtrl_2": 1000000,
-        "wxStaticBox_3wxTextCtrl_3": -13150000,
+        "wxStaticBox_3wxOwnerDrawnComboBox_0": 15,
+        "wxStaticBox_3wxOwnerDrawnComboBox_0wxTextCtrl_0": "Consolas",
+        "wxStaticBox_3wxTextCtrl_0": 2000000,
+        "wxStaticBox_3wxTextCtrl_1": 20000000,
+        "wxStaticBox_3wxTextCtrl_2": 2000000,
+        "wxStaticBox_3wxTextCtrl_3": -10000000,
         "wxStaticBox_3wxTextCtrl_4": 150000,
         "wxStaticBox_4wxChoice_0": 1,
         "wxStaticBox_4wxTextCtrl_0": 100000,
@@ -1510,7 +1510,7 @@
         "__geometry": {
           "h": 326,
           "w": 748,
-          "x": 656,
+          "x": 1403,
           "y": 406
         },
         "wxCheckBox_0": true,
@@ -1523,8 +1523,8 @@
         "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Default Font",
         "wxTextCtrl_0": "",
         "wxTextCtrl_1": 12700,
-        "wxTextCtrl_2": 618534,
-        "wxTextCtrl_3": 3175000
+        "wxTextCtrl_2": 736600,
+        "wxTextCtrl_3": 473456
       },
       "Electrical Rules Checker": {
         "__geometry": {
@@ -1605,10 +1605,10 @@
       },
       "Export 3D Model Job Settings": {
         "__geometry": {
-          "h": 656,
-          "w": 840,
-          "x": 2541,
-          "y": 961
+          "h": 701,
+          "w": 910,
+          "x": 2559,
+          "y": 985
         },
         "wxChoice_0": 0,
         "wxChoice_1": 0,
@@ -1616,7 +1616,7 @@
         "wxStaticBox_0wxCheckBox_1": true,
         "wxStaticBox_0wxCheckBox_2": false,
         "wxStaticBox_0wxCheckBox_3": false,
-        "wxStaticBox_0wxCheckBox_4": false,
+        "wxStaticBox_0wxCheckBox_4": true,
         "wxStaticBox_0wxCheckBox_5": false,
         "wxStaticBox_0wxCheckBox_6": true,
         "wxStaticBox_0wxRadioButton_0": true,
@@ -1648,8 +1648,8 @@
         "__geometry": {
           "h": 350,
           "w": 435,
-          "x": 1403,
-          "y": 371
+          "x": 2945,
+          "y": 581
         },
         "wxChoice_0": 0,
         "wxChoice_1": 0
@@ -1872,15 +1872,15 @@
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "NRJ6HF",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_0": 0,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxComboBox_0": "90",
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_0": "Jack_XLR-6.35mm_Neutrik_NCJ10FI-H-0_Horizontal",
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_1": "Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack and switching ground contact, horizontal PCB mount, https://www.neutrik.com/en/product/ncj10fi-h-0",
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxComboBox_0": "0",
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_0": 0,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_1": 6879257,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_2": "neutrik jack combo i",
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_2": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_3": false,
-        "wxNotebook_0wxPanel_0wxStaticBox_2wxChoice_0": 0,
+        "wxNotebook_0wxPanel_0wxStaticBox_2wxChoice_0": 1,
         "wxNotebook_0wxPanel_1wxStaticBox_0wxCheckBox_0": false,
         "wxNotebook_0wxPanel_1wxStaticBox_0wxChoice_0": 0,
         "wxNotebook_0wxPanel_1wxStaticBox_0wxStaticBox_0wxGrid_0": "0",
@@ -1904,12 +1904,12 @@
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_0wxTextCtrl_0": "1.0000",
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_0wxTextCtrl_1": "1.0000",
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_0wxTextCtrl_2": "1.0000",
-        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_1wxTextCtrl_0": "0.00°",
+        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_1wxTextCtrl_0": "90.00°",
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_1wxTextCtrl_1": "0.00°",
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_1wxTextCtrl_2": "0.00°",
         "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_0": "0.000000 mm",
-        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_1": "0.000000 mm",
-        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_2": "0.000000 mm",
+        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_1": "-4.300000 mm",
+        "wxNotebook_0wxPanel_3wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_2": "0.100000 mm",
         "wxNotebook_0wxPanel_3wxStaticBox_0wxChoice_0": 0,
         "wxNotebook_0wxPanel_3wxStaticBox_1wxGrid_0": "0",
         "wxNotebook_0wxPanel_3wxStaticBox_2wxCheckBox_0": false,
@@ -1929,7 +1929,7 @@
         "wxNotebook_0wxPanel_5wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_0": "0.000000 mm",
         "wxNotebook_0wxPanel_5wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_1": "0.000000 mm",
         "wxNotebook_0wxPanel_5wxSplitterWindow_0wxPanel_1wxPanel_0wxStaticBox_2wxTextCtrl_2": "0.000000 mm",
-        "wxTextCtrl_0": "nll-DFN-QFN:QFN-40-1EP_5x5mm_P0.4mm_EP3.6x3.6mm"
+        "wxTextCtrl_0": "nll-connector:JST_PH_S3B-PH-SM4-TB_1x03-1MP_P2.00mm_Horizontal"
       },
       "Footprint Reference Properties": {
         "__geometry": {
@@ -3223,10 +3223,10 @@
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "U25",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "TPS7A39",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "J1",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "S3B-PH-SM4-TB",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": true,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": true,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_0": -1,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_1": -1,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_2": 0,
@@ -3239,7 +3239,7 @@
         "wxNotebook_0wxPanel_1wxGrid_0": "0 1 2 3 4",
         "wxNotebook_0wxPanel_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_2wxGrid_0": "0 1",
-        "wxTextCtrl_0": "nll-mcu-stm32:STM32U5A5VJTx"
+        "wxTextCtrl_0": "nll-connector:JST_S3B-PH-SM4-TB"
       },
       "Symbol Warnings": {
         "__geometry": {
@@ -3274,10 +3274,10 @@
         "__geometry": {
           "h": 489,
           "w": 824,
-          "x": 360,
+          "x": 1403,
           "y": 271
         },
-        "wxBitmapComboBox_0": "F.Silkscreen",
+        "wxBitmapComboBox_0": "F.Mask",
         "wxCheckBox_0": false,
         "wxCheckBox_1": false,
         "wxCheckBox_2": false,
@@ -3286,11 +3286,11 @@
         "wxOwnerDrawnComboBox_0": 15,
         "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Consolas",
         "wxTextCtrl_0": "",
-        "wxTextCtrl_1": 2000000,
-        "wxTextCtrl_2": 2000000,
-        "wxTextCtrl_3": -70500000,
-        "wxTextCtrl_4": 105150000,
-        "wxTextCtrl_5": 200000
+        "wxTextCtrl_1": 1500000,
+        "wxTextCtrl_2": 1500000,
+        "wxTextCtrl_3": -6936773,
+        "wxTextCtrl_4": 11521364,
+        "wxTextCtrl_5": 300000
       },
       "Text PropertiesLibeditFrame": {
         "__geometry": {
@@ -3454,7 +3454,7 @@
         "wxPanel_0wxStaticBox_0wxCheckBox_2": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_3": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_4": true,
-        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 923,
+        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 20,
         "wxStaticBox_0wxCheckBox_0": false,
         "wxStaticBox_0wxCheckBox_1": false,
         "wxStaticBox_0wxCheckBox_2": false,
@@ -3503,8 +3503,8 @@
         "__geometry": {
           "h": 164,
           "w": 215,
-          "x": 3373,
-          "y": 1115
+          "x": 3378,
+          "y": 1127
         }
       },
       "Wire & Bus Properties": {
@@ -3652,6 +3652,6 @@
     "pdf_viewer_name": "",
     "text_editor": "/usr/bin/xed",
     "use_system_pdf_viewer": true,
-    "working_dir": "/tmp/tmp"
+    "working_dir": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/play-panel/120132_C25_PCBA_BenderLeverSensor_3a"
   }
 }
