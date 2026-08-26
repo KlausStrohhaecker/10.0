@@ -3652,6 +3652,6 @@
     "pdf_viewer_name": "",
     "text_editor": "/usr/bin/xed",
     "use_system_pdf_viewer": true,
-    "working_dir": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120127_C25_PCBA_AudioEval_1a"
+    "working_dir": "/tmp/tmp"
   }
 }
