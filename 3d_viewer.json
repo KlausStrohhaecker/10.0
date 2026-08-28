@@ -4,7 +4,7 @@
     "custom_toolbars": false
   },
   "aui": {
-    "right_panel_width": 190,
+    "right_panel_width": 290,
     "show_layer_manager": true
   },
   "camera": {
@@ -253,14 +253,14 @@
     "show_fp_references": true,
     "show_fp_text": true,
     "show_fp_values": true,
-    "show_navigator": true,
+    "show_navigator": false,
     "show_plated_barrels": true,
-    "show_silkscreen_bottom": true,
+    "show_silkscreen_bottom": false,
     "show_silkscreen_top": true,
     "show_soldermask_bottom": true,
     "show_soldermask_top": true,
     "show_solderpaste": true,
-    "show_user1": true,
+    "show_user1": false,
     "show_user10": false,
     "show_user11": false,
     "show_user12": false,
@@ -470,11 +470,11 @@
     },
     "maximized": false,
     "mru_path": "",
-    "perspective": "layout2|name=TopMainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=594;besth=26;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayersManager;caption=Appearance;state=1532;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=190;besth=-1;minw=180;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=26|dock_size(5,0,0)=22|dock_size(2,3,0)=190|",
-    "pos_x": 2423,
-    "pos_y": 616,
-    "size_x": 1461,
-    "size_y": 958,
+    "perspective": "layout2|name=TopMainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=594;besth=26;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayersManager;caption=Appearance;state=1532;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=190;besth=-1;minw=180;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=26|dock_size(2,3,0)=290|dock_size(5,0,0)=22|",
+    "pos_x": 2597,
+    "pos_y": 731,
+    "size_x": 1624,
+    "size_y": 1154,
     "zoom_factors": [
       0.13,
       0.22,

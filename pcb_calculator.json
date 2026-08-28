@@ -93,7 +93,7 @@
     "highlight_factor": 0.5,
     "select_factor": 0.75
   },
-  "last_page": 14,
+  "last_page": 6,
   "lib_tree": {
     "column_widths": null,
     "columns": [],
@@ -149,19 +149,19 @@
     "units": 1
   },
   "track_width": {
-    "current": "10",
-    "delta_tc": "10.0",
+    "current": "2.39156",
+    "delta_tc": "10",
     "ext_track_thickness": "35",
     "ext_track_thickness_units": 1,
-    "ext_track_width": "7.19434",
+    "ext_track_width": "1",
     "ext_track_width_units": 0,
     "int_track_thickness": "35",
     "int_track_thickness_units": 1,
-    "int_track_width": "18.7156",
+    "int_track_width": "2.60144",
     "int_track_width_units": 0,
     "resistivity": "1.72e-08",
     "track_len": "20",
-    "track_len_units": 0
+    "track_len_units": 2
   },
   "trans_line": {
     "CoPlanar": {
@@ -463,7 +463,7 @@
       "always_show_cursor": true,
       "cross_hair_mode": 0
     },
-    "display": 0,
+    "display": 1,
     "grid": {
       "axes_enabled": false,
       "fast_grid_1": 15,
@@ -603,10 +603,10 @@
     "maximized": false,
     "mru_path": "",
     "perspective": "layout2|",
-    "pos_x": 0,
-    "pos_y": 688,
-    "size_x": 1080,
-    "size_y": 822,
+    "pos_x": 3107,
+    "pos_y": 798,
+    "size_x": 1090,
+    "size_y": 900,
     "zoom_factors": [
       0.13,
       0.22,
