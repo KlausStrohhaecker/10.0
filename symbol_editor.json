@@ -100,7 +100,8 @@
       "Description"
     ],
     "open_libs": [
-      "nll-sensor"
+      "nll-connector",
+      "nll-smps"
     ]
   },
   "library": {

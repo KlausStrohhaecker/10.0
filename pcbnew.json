@@ -130,9 +130,10 @@
   },
   "find_replace": {
     "find_history": [
+      "R1",
       "c17"
     ],
-    "find_string": "c17",
+    "find_string": "R1",
     "match_case": false,
     "match_mode": 0,
     "replace_history": [],
@@ -141,12 +142,12 @@
   },
   "footprint_chooser": {
     "filter_on_pin_count": true,
-    "height": 787,
-    "sash_h": 951,
-    "sash_v": 357,
+    "height": 882,
+    "sash_h": 1265,
+    "sash_v": 400,
     "sort_mode": 0,
     "use_fp_filters": false,
-    "width": 1080
+    "width": 1479
   },
   "footprint_viewer": {
     "aui_state": null,
@@ -298,10 +299,10 @@
     "maximized": false,
     "mru_path": "/home/ksl/.local/share/kicad/10.0/projects",
     "perspective": "layout2|",
-    "pos_x": 3221,
-    "pos_y": 903,
-    "size_x": 1080,
-    "size_y": 787,
+    "pos_x": 2702,
+    "pos_y": 917,
+    "size_x": 1479,
+    "size_y": 882,
     "zoom": 2.862778247393631,
     "zoom_factors": [
       0.13,
@@ -543,7 +544,7 @@
       "Description"
     ],
     "open_libs": [
-      "Connector_IDC"
+      "nll-connector"
     ]
   },
   "meta": {
@@ -572,7 +573,7 @@
     "pad_use_via_color_for_normal_th_padstacks": false,
     "ratsnest_curved": false,
     "ratsnest_footprint": true,
-    "ratsnest_global": true,
+    "ratsnest_global": false,
     "ratsnest_thickness": 2.0,
     "show_page_borders": true,
     "text_fill": true,
@@ -645,6 +646,7 @@
   },
   "system": {
     "file_history": [
+      "/home/ksl/DevLocal/abx-box/pcba/abx-bal-io/abx-bal-io.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120127_C25_PCBA_AudioEval_1a/120127_C25_PCBA_AudioEval_1a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/play-panel/120132_C25_PCBA_BenderLeverSensor_3a/120132_C25_PCBA_BenderLeverSensor_3a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/edit-panel/120126_C25_PCBA_EditPanel_4a/120126_C25_EditPanel_4a.kicad_pcb",
@@ -652,8 +654,7 @@
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/front-bar/120128_C25_PCBA_LineVolume_1a/120128_C25_LineVolume_1a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/front-bar/120129_C25_PCBA_HPVolumeOutput_1a/120129_C25_HPVolumeOutput_1a.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120130_C25_PCBA_PSUEval_2a/120130_C25_PCBA_PSUEval_2a.kicad_pcb",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120127_C25_PCBA_AudioEval_1a/20127_C25_PCBA_AudioEval_1a.kicad_pcb",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/play-panel/120120_C25_PCBA_BenderLeverSensor_2a/120120_C25_BenderLeverSensor_2a.kicad_pcb"
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120127_C25_PCBA_AudioEval_1a/20127_C25_PCBA_AudioEval_1a.kicad_pcb"
     ],
     "first_run_shown": false,
     "last_footprint3d_dir": "${USER_FOOTPRINT_DIR}/3D",
@@ -667,7 +668,7 @@
   "tools": {
     "pns": {
       "auto_posture": true,
-      "can_violate_drc": true,
+      "can_violate_drc": false,
       "corner_mode": 0,
       "effort": 1,
       "fix_all_segments": true,
@@ -677,7 +678,7 @@
       "meta": {
         "version": 0
       },
-      "mode": 1,
+      "mode": 0,
       "optimize_dragged_track": true,
       "remove_loops": false,
       "shove_iteration_limit": 250,
@@ -707,7 +708,7 @@
       "axes_enabled": false,
       "fast_grid_1": 15,
       "fast_grid_2": 16,
-      "last_size": 18,
+      "last_size": 14,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "override_connected": false,
@@ -841,7 +842,7 @@
     },
     "maximized": false,
     "mru_path": "",
-    "perspective": "layout2|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LoadNoticeInfoBar;caption=;state=131454;dir=1;layer=1;row=1;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=TopMainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=1149;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=TopAuxToolbar;caption=;state=139632;dir=1;layer=5;row=0;pos=0;prop=100000;bestw=1078;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=390;besth=32;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LeftToolbar;caption=;state=139596;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=622;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=RightToolbar;caption=;state=139596;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=819;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayersManager;caption=Appearance;state=1532;dir=2;layer=4;row=0;pos=0;prop=81868;bestw=220;besth=-1;minw=200;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=220;floath=480|name=SelectionFilter;caption=Selection Filter;state=1532;dir=2;layer=4;row=0;pos=1;prop=0;bestw=217;besth=-1;minw=217;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=217;floath=136|name=DesignBlocks;caption=Design Blocks;state=2099150;dir=2;layer=5;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=50;floaty=200;floatw=800;floath=600|name=PropertiesManager;caption=Properties;state=2098684;dir=4;layer=5;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=300;floath=200|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=390;besth=173;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=NetInspector;caption=Net Inspector;state=2098687;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=2463;floaty=936;floatw=1340;floath=752|name=Search;caption=Search;state=2098687;dir=4;layer=5;row=0;pos=0;prop=100000;bestw=180;besth=100;minw=180;minh=60;maxw=-1;maxh=-1;floatx=1582;floaty=784;floatw=1541;floath=723|dock_size(3,6,0)=32|dock_size(5,0,0)=392|dock_size(1,6,0)=34|dock_size(1,5,0)=34|dock_size(4,3,0)=34|dock_size(2,3,0)=34|dock_size(4,5,0)=300|dock_size(2,4,0)=376|",
+    "perspective": "layout2|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LoadNoticeInfoBar;caption=;state=131454;dir=1;layer=1;row=1;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=TopMainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=1149;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=TopAuxToolbar;caption=;state=139632;dir=1;layer=5;row=0;pos=0;prop=100000;bestw=1078;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=390;besth=32;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LeftToolbar;caption=;state=139596;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=622;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=RightToolbar;caption=;state=139596;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=819;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayersManager;caption=Appearance;state=1532;dir=2;layer=4;row=0;pos=0;prop=81868;bestw=220;besth=-1;minw=200;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=220;floath=480|name=SelectionFilter;caption=Selection Filter;state=1532;dir=2;layer=4;row=0;pos=1;prop=0;bestw=217;besth=-1;minw=217;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=217;floath=136|name=DesignBlocks;caption=Design Blocks;state=2099150;dir=2;layer=5;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=50;floaty=200;floatw=800;floath=600|name=PropertiesManager;caption=Properties;state=2098684;dir=4;layer=5;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=300;floath=200|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=390;besth=173;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=NetInspector;caption=Net Inspector;state=2098687;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=2463;floaty=936;floatw=1340;floath=752|name=Search;caption=Search;state=2098687;dir=4;layer=5;row=0;pos=0;prop=100000;bestw=180;besth=100;minw=180;minh=60;maxw=-1;maxh=-1;floatx=2551;floaty=986;floatw=1541;floath=723|dock_size(3,6,0)=32|dock_size(5,0,0)=392|dock_size(1,6,0)=34|dock_size(1,5,0)=34|dock_size(4,3,0)=34|dock_size(2,3,0)=34|dock_size(4,5,0)=300|dock_size(2,4,0)=376|",
     "pos_x": 1964,
     "pos_y": 328,
     "size_x": 2986,
