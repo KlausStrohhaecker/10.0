@@ -649,7 +649,7 @@ pcbnew.EditorControl.rescueAutosave
 pcbnew.EditorControl.showEeschema		
 pcbnew.EditorControl.showNet		
 pcbnew.EditorControl.toggleLastNetHighlight		
-pcbnew.EditorControl.toggleLock	Shift+L	
+pcbnew.EditorControl.toggleLock		
 pcbnew.EditorControl.toggleNetHighlight	Alt+`	
 pcbnew.EditorControl.trackViaSizeChanged		
 pcbnew.EditorControl.trackWidthDec	Shift+N	
