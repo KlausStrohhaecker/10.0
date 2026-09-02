@@ -100,7 +100,7 @@
       "Description"
     ],
     "open_libs": [
-      "nll-oscillator"
+      "nll-RCL"
     ]
   },
   "library": {
@@ -140,15 +140,15 @@
     "selection_zoom": 1
   },
   "selection_filter": {
-    "graphics": true,
-    "images": true,
-    "labels": true,
+    "graphics": false,
+    "images": false,
+    "labels": false,
     "lockedItems": false,
-    "otherItems": true,
+    "otherItems": false,
     "pins": true,
-    "symbols": true,
-    "text": true,
-    "wires": true
+    "symbols": false,
+    "text": false,
+    "wires": false
   },
   "show_hidden_lib_fields": true,
   "show_hidden_lib_pins": true,

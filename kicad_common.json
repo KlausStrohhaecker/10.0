@@ -969,8 +969,8 @@
         "__geometry": {
           "h": 758,
           "w": 1071,
-          "x": 2976,
-          "y": 777
+          "x": 2467,
+          "y": 882
         },
         "wxPanel_2wxStaticBox_0wxCheckBox_0": true,
         "wxPanel_2wxStaticBox_0wxCheckBox_1": true,
@@ -995,10 +995,10 @@
         "wxStaticBox_1wxCheckBox_7": true,
         "wxStaticBox_1wxCheckBox_8": true,
         "wxStaticBox_1wxCheckBox_9": true,
-        "wxTextCtrl_0": "U1",
-        "wxTextCtrl_1": "${UniqueSpecification}",
-        "wxTextCtrl_2": "nll-sensor:DRV5055Z2",
-        "wxTextCtrl_3": "nll-sensor:DRV5055Z1"
+        "wxTextCtrl_0": "R3",
+        "wxTextCtrl_1": "0.47R",
+        "wxTextCtrl_2": "nll-RCL:Rthickf_0R47_1%_1206",
+        "wxTextCtrl_3": "nll-RCL:Rthickf_0R1_1%_1206"
       },
       "Choose Power Symbol": {
         "__geometry": {
@@ -1270,9 +1270,9 @@
           "y": 869
         },
         "wxBookCtrlBase_0wxPanel_0wxNotebook_0": "Tests Running...",
-        "wxBookCtrlBase_0wxPanel_0wxNotebook_0wxPanel_0wxHtmlWindow_0": 59,
-        "wxBookCtrlBase_0wxPanel_1wxNotebook_0": "Ignored Tests (11)",
-        "wxCheckBox_0": true,
+        "wxBookCtrlBase_0wxPanel_0wxNotebook_0wxPanel_0wxHtmlWindow_0": 57,
+        "wxBookCtrlBase_0wxPanel_1wxNotebook_0": "Violations (1)",
+        "wxCheckBox_0": false,
         "wxCheckBox_1": true,
         "wxCheckBox_2": false,
         "wxCheckBox_3": true,
@@ -1583,7 +1583,7 @@
         },
         "wxBookCtrlBase_0wxPanel_0wxNotebook_0": "Tests Running...",
         "wxBookCtrlBase_0wxPanel_0wxNotebook_0wxPanel_0wxHtmlWindow_0": 0,
-        "wxBookCtrlBase_0wxPanel_1wxNotebook_0": "Violations (0)",
+        "wxBookCtrlBase_0wxPanel_1wxNotebook_0": "Violations ",
         "wxCheckBox_0": false,
         "wxCheckBox_1": true,
         "wxCheckBox_2": true,
@@ -2939,14 +2939,14 @@
         "__geometry": {
           "h": 546,
           "w": 583,
-          "x": 2654,
-          "y": 355
+          "x": 2452,
+          "y": 611
         },
         "wxCheckBox_0": true,
         "wxCheckBox_1": false,
         "wxCheckBox_2": false,
         "wxChoice_0": 0,
-        "wxChoice_1": 1,
+        "wxChoice_1": 2,
         "wxPanel_0wxStaticBox_0wxChoice_0": -1,
         "wxStaticBox_0wxCheckBox_0": false,
         "wxStaticBox_0wxCheckBox_1": false,
@@ -3199,7 +3199,7 @@
         "wxStaticBox_0wxCheckBox_0": true,
         "wxStaticBox_0wxCheckBox_1": true,
         "wxStaticBox_0wxCheckBox_2": true,
-        "wxStaticBox_0wxCheckBox_3": true,
+        "wxStaticBox_0wxCheckBox_3": false,
         "wxStaticBox_1wxBitmapComboBox_0": "F.Cu",
         "wxStaticBox_1wxCheckBox_0": false,
         "wxStaticBox_1wxCheckBox_1": false,
@@ -3359,18 +3359,18 @@
         },
         "wxBitmapComboBox_0": "F.Silkscreen",
         "wxCheckBox_0": false,
-        "wxCheckBox_1": true,
+        "wxCheckBox_1": false,
         "wxCheckBox_2": false,
         "wxCheckBox_3": false,
         "wxComboBox_0": "0",
         "wxOwnerDrawnComboBox_0": 15,
         "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Consolas",
         "wxTextCtrl_0": "",
-        "wxTextCtrl_1": 2000000,
-        "wxTextCtrl_2": 2000000,
-        "wxTextCtrl_3": 37100000,
-        "wxTextCtrl_4": 23400000,
-        "wxTextCtrl_5": 400000
+        "wxTextCtrl_1": 1800000,
+        "wxTextCtrl_2": 1800000,
+        "wxTextCtrl_3": 104700000,
+        "wxTextCtrl_4": 101100000,
+        "wxTextCtrl_5": 360000
       },
       "Text PropertiesLibeditFrame": {
         "__geometry": {
@@ -3483,13 +3483,13 @@
         "__geometry": {
           "h": 239,
           "w": 493,
-          "x": 1403,
+          "x": 911,
           "y": 439
         },
-        "wxCheckBox_0": false,
-        "wxCheckBox_1": true,
+        "wxCheckBox_0": true,
+        "wxCheckBox_1": false,
         "wxCheckBox_2": false,
-        "wxCheckBox_3": true
+        "wxCheckBox_3": false
       },
       "Update Footprints from Library": {
         "__geometry": {
@@ -3534,7 +3534,7 @@
         "wxPanel_0wxStaticBox_0wxCheckBox_2": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_3": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_4": true,
-        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 923,
+        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 954,
         "wxStaticBox_0wxCheckBox_0": false,
         "wxStaticBox_0wxCheckBox_1": false,
         "wxStaticBox_0wxCheckBox_2": false,
@@ -3581,10 +3581,10 @@
       },
       "View Preset Switcher": {
         "__geometry": {
-          "h": 236,
-          "w": 245,
-          "x": 3339,
-          "y": 1082
+          "h": 260,
+          "w": 255,
+          "x": 3334,
+          "y": 1070
         }
       },
       "Wire & Bus Properties": {

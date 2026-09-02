@@ -647,14 +647,14 @@
   "system": {
     "file_history": [
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120127_C25_PCBA_AudioEval_1a/120127_C25_PCBA_AudioEval_1a.kicad_pcb",
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/keybed-scanner-hall/120117_C25_PCBA_KeybedScannerHall32Key_1a/120117_C25_KeybedScannerHall32Key_1a.kicad_pcb",
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/keybed-scanner-hall/120131_C25_PCBA_KeybedScannerHall32Key_2a/120131_C25_KeybedScannerHall32Key_2a.kicad_pcb",
       "/home/ksl/R/Entwicklung/C16/electronics/outsourced/RFID(Baehr)/C16 - NFC Antenna/production r1/C16 - NFC Antenna/C16 - NFC Antenna.kicad_pcb",
       "/home/ksl/R/Entwicklung/C16/electronics/outsourced/RFID(Baehr)/MAX66301-module/MAX66301-module.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboard/120123_C25_PCBA_MainBoard_3a/120123_C25_PCBA_MainBoard_3a.kicad_pcb",
       "/home/ksl/DevLocal/abx-box/pcba/abx-bal-io/abx-bal-io.kicad_pcb",
       "/home/ksl/DevLocal/C25-hardware/pcba/kicad/play-panel/120132_C25_PCBA_BenderLeverSensor_3a/120132_C25_PCBA_BenderLeverSensor_3a.kicad_pcb",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/edit-panel/120126_C25_PCBA_EditPanel_4a/120126_C25_EditPanel_4a.kicad_pcb",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120130_C25_PCBA_PSUEval_2a/120130_C25_PSUEval_2a.kicad_pcb",
-      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/front-bar/120128_C25_PCBA_LineVolume_1a/120128_C25_LineVolume_1a.kicad_pcb"
+      "/home/ksl/DevLocal/C25-hardware/pcba/kicad/edit-panel/120126_C25_PCBA_EditPanel_4a/120126_C25_EditPanel_4a.kicad_pcb"
     ],
     "first_run_shown": false,
     "last_footprint3d_dir": "${USER_FOOTPRINT_DIR}/3D",
