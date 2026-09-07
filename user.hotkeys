@@ -169,7 +169,7 @@ common.Interactive.findNextMarker	Ctrl+Shift+F3
 common.Interactive.findPrevious	Shift+F3	
 common.Interactive.finish	End	
 common.Interactive.group		
-common.Interactive.groupEnter		
+common.Interactive.groupEnter	Alt+G	
 common.Interactive.groupLeave		
 common.Interactive.measureTool	Ctrl+Shift+M	
 common.Interactive.paste	Ctrl+V	
