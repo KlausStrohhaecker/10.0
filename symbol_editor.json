@@ -100,7 +100,8 @@
       "Description"
     ],
     "open_libs": [
-      "nll-RCL"
+      "nll-misc",
+      "nll-misc-ic"
     ]
   },
   "library": {

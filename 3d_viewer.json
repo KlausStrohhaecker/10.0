@@ -10,7 +10,7 @@
   "camera": {
     "animation_enabled": true,
     "moving_speed_multiplier": 3,
-    "projection_mode": 0,
+    "projection_mode": 1,
     "rotation_increment": 10.0
   },
   "color_picker": {
@@ -242,14 +242,14 @@
     "show_comments": false,
     "show_copper_bottom": true,
     "show_copper_top": true,
-    "show_drawings": true,
+    "show_drawings": false,
     "show_eco1": false,
     "show_eco2": false,
     "show_footprints_dnp": false,
-    "show_footprints_insert": false,
-    "show_footprints_normal": false,
-    "show_footprints_not_in_posfile": true,
-    "show_footprints_virtual": true,
+    "show_footprints_insert": true,
+    "show_footprints_normal": true,
+    "show_footprints_not_in_posfile": false,
+    "show_footprints_virtual": false,
     "show_fp_references": true,
     "show_fp_text": true,
     "show_fp_values": true,

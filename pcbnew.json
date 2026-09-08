@@ -683,7 +683,7 @@
       "remove_loops": false,
       "shove_iteration_limit": 250,
       "shove_time_limit": 1000,
-      "shove_vias": true,
+      "shove_vias": false,
       "smart_pads": true,
       "smooth_dragged_segments": true,
       "snap_to_pads": true,
