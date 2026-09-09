@@ -100,8 +100,7 @@
       "Description"
     ],
     "open_libs": [
-      "nll-misc",
-      "nll-misc-ic"
+      "Inductor_Wurth_WE-DD"
     ]
   },
   "library": {
