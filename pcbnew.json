@@ -143,11 +143,11 @@
   "footprint_chooser": {
     "filter_on_pin_count": true,
     "height": 882,
-    "sash_h": 1265,
+    "sash_h": 1045,
     "sash_v": 400,
     "sort_mode": 0,
     "use_fp_filters": false,
-    "width": 1479
+    "width": 1080
   },
   "footprint_viewer": {
     "aui_state": null,
@@ -544,7 +544,7 @@
       "Description"
     ],
     "open_libs": [
-      "nll-connector"
+      "nll-SO"
     ]
   },
   "meta": {
@@ -708,7 +708,7 @@
       "axes_enabled": false,
       "fast_grid_1": 15,
       "fast_grid_2": 16,
-      "last_size": 18,
+      "last_size": 17,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "override_connected": false,
