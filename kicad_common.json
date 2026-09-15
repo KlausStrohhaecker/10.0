@@ -3303,14 +3303,14 @@
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "U10",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "U2",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "744873100",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": true,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": true,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_0": -1,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_1": -1,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_2": 0,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_3": 2,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_3": 0,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_2": false,
@@ -3319,7 +3319,7 @@
         "wxNotebook_0wxPanel_1wxGrid_0": "0 1 2 3 4",
         "wxNotebook_0wxPanel_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_2wxGrid_0": "0 1",
-        "wxTextCtrl_0": "nll-audio-codec:ES9821"
+        "wxTextCtrl_0": "MCU_ST_STM32G4:STM32G491CETx"
       },
       "Symbol Properties - JLCPCB-Order Design Variant": {
         "__geometry": {
@@ -3761,6 +3761,6 @@
     "pdf_viewer_name": "",
     "text_editor": "/usr/bin/xed",
     "use_system_pdf_viewer": true,
-    "working_dir": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/mainboardXL/120127_C25_PCBA_AudioEval_1a"
+    "working_dir": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/erp-panel/120106_C25_PCBA_ErpControl_3a"
   }
 }
