@@ -135,8 +135,7 @@
       "Description"
     ],
     "open_libs": [
-      "nll-SO",
-      "Package_SO"
+      "nll-misc"
     ]
   },
   "library": {

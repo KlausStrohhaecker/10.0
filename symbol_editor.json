@@ -100,7 +100,8 @@
       "Description"
     ],
     "open_libs": [
-      "nll-RCL"
+      "nll-misc",
+      "nll-misc-ic"
     ]
   },
   "library": {
@@ -176,7 +177,7 @@
       "axes_enabled": true,
       "fast_grid_1": 1,
       "fast_grid_2": 2,
-      "last_size": 1,
+      "last_size": 3,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "override_connected": true,
