@@ -3610,10 +3610,10 @@
       },
       "View Preset Switcher": {
         "__geometry": {
-          "h": 284,
-          "w": 265,
-          "x": 3159,
-          "y": 1011
+          "h": 308,
+          "w": 275,
+          "x": 3078,
+          "y": 1115
         }
       },
       "Wire & Bus Properties": {
@@ -3691,7 +3691,7 @@
     "authorEmail": "klaus.strohhaecker@nonlinear-labs.de",
     "authorName": "KlausStrohhaecker",
     "enableGit": true,
-    "repositories": null,
+    "repositories": [],
     "updatInterval": 5,
     "useDefaultAuthor": true
   },
