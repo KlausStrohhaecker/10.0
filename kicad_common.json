@@ -1148,17 +1148,17 @@
         "__geometry": {
           "h": 804,
           "w": 708,
-          "x": 2432,
-          "y": 646
+          "x": 606,
+          "y": 124
         },
         "wxCheckBox_0": false,
         "wxCheckBox_1": false,
-        "wxChoice_0": 2,
+        "wxChoice_0": 1,
         "wxNotebook_0": "Keepouts",
-        "wxNotebook_0wxPanel_0wxCheckBox_0": false,
-        "wxNotebook_0wxPanel_0wxCheckBox_1": false,
-        "wxNotebook_0wxPanel_0wxCheckBox_2": false,
-        "wxNotebook_0wxPanel_0wxCheckBox_3": true,
+        "wxNotebook_0wxPanel_0wxCheckBox_0": true,
+        "wxNotebook_0wxPanel_0wxCheckBox_1": true,
+        "wxNotebook_0wxPanel_0wxCheckBox_2": true,
+        "wxNotebook_0wxPanel_0wxCheckBox_3": false,
         "wxNotebook_0wxPanel_0wxCheckBox_4": false,
         "wxNotebook_0wxPanel_1wxComboBox_0": "/",
         "wxNotebook_0wxPanel_1wxComboBox_1": "",
@@ -1169,7 +1169,7 @@
         "wxNotebook_0wxPanel_1wxRadioButton_3": false,
         "wxRadioButton_0": false,
         "wxRadioButton_1": true,
-        "wxTextCtrl_0": "MainDCDC-Island",
+        "wxTextCtrl_0": "",
         "wxTextCtrl_1": 500000,
         "wxTextCtrl_2": 100000
       },
@@ -1267,10 +1267,10 @@
           "h": 534,
           "w": 948,
           "x": 456,
-          "y": 869
+          "y": 519
         },
         "wxBookCtrlBase_0wxPanel_0wxNotebook_0": "Tests Running...",
-        "wxBookCtrlBase_0wxPanel_0wxNotebook_0wxPanel_0wxHtmlWindow_0": 57,
+        "wxBookCtrlBase_0wxPanel_0wxNotebook_0wxPanel_0wxHtmlWindow_0": 50,
         "wxBookCtrlBase_0wxPanel_1wxNotebook_0": "Violations (0)",
         "wxCheckBox_0": false,
         "wxCheckBox_1": true,
@@ -3044,21 +3044,21 @@
           "h": 638,
           "w": 708,
           "x": 696,
-          "y": 753
+          "y": 415
         },
         "wxCheckBox_0": false,
         "wxChoice_0": 1,
-        "wxNotebook_0": "Placement",
-        "wxNotebook_0wxPanel_0wxCheckBox_0": false,
-        "wxNotebook_0wxPanel_0wxCheckBox_1": false,
-        "wxNotebook_0wxPanel_0wxCheckBox_2": false,
+        "wxNotebook_0": "Keepouts",
+        "wxNotebook_0wxPanel_0wxCheckBox_0": true,
+        "wxNotebook_0wxPanel_0wxCheckBox_1": true,
+        "wxNotebook_0wxPanel_0wxCheckBox_2": true,
         "wxNotebook_0wxPanel_0wxCheckBox_3": false,
         "wxNotebook_0wxPanel_0wxCheckBox_4": false,
-        "wxNotebook_0wxPanel_1wxComboBox_0": "/AudioIn/AudioInChannel_L/",
+        "wxNotebook_0wxPanel_1wxComboBox_0": "/",
         "wxNotebook_0wxPanel_1wxComboBox_1": "",
         "wxNotebook_0wxPanel_1wxComboBox_2": "",
-        "wxNotebook_0wxPanel_1wxRadioButton_0": false,
-        "wxNotebook_0wxPanel_1wxRadioButton_1": true,
+        "wxNotebook_0wxPanel_1wxRadioButton_0": true,
+        "wxNotebook_0wxPanel_1wxRadioButton_1": false,
         "wxNotebook_0wxPanel_1wxRadioButton_2": false,
         "wxNotebook_0wxPanel_1wxRadioButton_3": false,
         "wxTextCtrl_0": "",
@@ -3518,7 +3518,7 @@
         "wxCheckBox_0": true,
         "wxCheckBox_1": false,
         "wxCheckBox_2": false,
-        "wxCheckBox_3": false
+        "wxCheckBox_3": true
       },
       "Update Footprints from Library": {
         "__geometry": {
