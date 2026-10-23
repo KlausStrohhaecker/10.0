@@ -1266,12 +1266,12 @@
         "__geometry": {
           "h": 534,
           "w": 948,
-          "x": 456,
-          "y": 519
+          "x": 2155,
+          "y": 932
         },
         "wxBookCtrlBase_0wxPanel_0wxNotebook_0": "Tests Running...",
-        "wxBookCtrlBase_0wxPanel_0wxNotebook_0wxPanel_0wxHtmlWindow_0": 50,
-        "wxBookCtrlBase_0wxPanel_1wxNotebook_0": "Violations (0)",
+        "wxBookCtrlBase_0wxPanel_0wxNotebook_0wxPanel_0wxHtmlWindow_0": 57,
+        "wxBookCtrlBase_0wxPanel_1wxNotebook_0": "Ignored Tests (11)",
         "wxCheckBox_0": false,
         "wxCheckBox_1": true,
         "wxCheckBox_2": false,
@@ -1841,7 +1841,7 @@
         "__geometry": {
           "h": 291,
           "w": 709,
-          "x": 695,
+          "x": 1403,
           "y": 409
         },
         "wxCheckBox_0": false,
