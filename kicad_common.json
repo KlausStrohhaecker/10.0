@@ -128,10 +128,10 @@
       },
       "*Library Symbol Properties": {
         "__geometry": {
-          "h": 612,
+          "h": 446,
           "w": 1204,
-          "x": 2953,
-          "y": 942
+          "x": 200,
+          "y": 1025
         },
         "wxFrame_0wxPanel_1wxCheckBox_0": false,
         "wxFrame_0wxPanel_2wxSplitterWindow_0": 357,
@@ -141,14 +141,14 @@
         "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxCheckBox_1": true,
         "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxSearchCtrl_0": "IDC-Header_2x20_P2.54mm_Vertical",
         "wxNotebook_0": "General",
-        "wxNotebook_0wxPanel_0wxComboBox_0": "",
+        "wxNotebook_0wxPanel_0wxComboBox_0": "template_MLCC",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "nll-switch:Kaihl_CPG158301D04-A1+keycap_V5",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "nll-switch:Kaihl_CPG158301D04-A1+keycap_V5",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_1": "https://tech.alpsalpine.com/e/products/detail/RK09L1120A5F/",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_1wxTextCtrl_0": "https://tech.alpsalpine.com/e/products/detail/RK09L1120A5F/",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "Field12",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "CPG158301D04-A1+keycap_V5",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "nll-rotary:Alpha ERP - RV112FF",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "nll-rotary:Alpha ERP - RV112FF",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_1": "https://www.taiwanalpha.com/downloads?target=products&id=79",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_1wxTextCtrl_0": "https://www.taiwanalpha.com/downloads?target=products&id=79",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "C53987",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_2": "UniqueSpecification",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
@@ -160,8 +160,8 @@
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_2": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_3": false,
-        "wxNotebook_0wxPanel_0wxTextCtrl_0": "Kaihl_CPG158301D04-A1+keycap_V5",
-        "wxNotebook_0wxPanel_0wxTextCtrl_1": "",
+        "wxNotebook_0wxPanel_0wxTextCtrl_0": "C_4n7_50V_20%_X7R_0603",
+        "wxNotebook_0wxPanel_0wxTextCtrl_1": "cap capacitor",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxCheckBox_0": true,
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0": "0 1",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "",
@@ -967,10 +967,10 @@
       },
       "Change Symbols": {
         "__geometry": {
-          "h": 758,
+          "h": 996,
           "w": 1071,
-          "x": 2182,
-          "y": 970
+          "x": 333,
+          "y": 791
         },
         "wxPanel_2wxStaticBox_0wxCheckBox_0": true,
         "wxPanel_2wxStaticBox_0wxCheckBox_1": true,
@@ -995,10 +995,10 @@
         "wxStaticBox_1wxCheckBox_7": true,
         "wxStaticBox_1wxCheckBox_8": true,
         "wxStaticBox_1wxCheckBox_9": true,
-        "wxTextCtrl_0": "R61",
-        "wxTextCtrl_1": "3k",
-        "wxTextCtrl_2": "nll-RCL:Rthickf_3k0_1%_0603",
-        "wxTextCtrl_3": "nll-RCL:Rthickf_18k_1%_0603"
+        "wxTextCtrl_0": "D1",
+        "wxTextCtrl_1": "LED gn",
+        "wxTextCtrl_2": "dtz_kicad_lib:LED",
+        "wxTextCtrl_3": "nll-opto:LED_GREEN_2mA_0603"
       },
       "Choose Power Symbol": {
         "__geometry": {
@@ -1018,14 +1018,14 @@
         "__geometry": {
           "h": 936,
           "w": 1404,
-          "x": 2053,
-          "y": 871
+          "x": 2637,
+          "y": 819
         },
         "wxCheckBox_0": false,
         "wxCheckBox_1": true,
         "wxPanel_0wxSplitterWindow_0": 1240,
         "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxHtmlWindow_0": 0,
-        "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxSearchCtrl_0": "nll-rc",
+        "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxSearchCtrl_0": "nll-",
         "wxPanel_0wxSplitterWindow_0wxPanel_1wxPanel_1wxOwnerDrawnComboBox_0": 0
       },
       "Circle Properties": {
@@ -1852,11 +1852,11 @@
         "__geometry": {
           "h": 291,
           "w": 709,
-          "x": 1403,
+          "x": 695,
           "y": 409
         },
         "wxCheckBox_0": false,
-        "wxCheckBox_1": true,
+        "wxCheckBox_1": false,
         "wxCheckBox_2": false,
         "wxCheckBox_3": true,
         "wxCheckBox_4": true,
@@ -2248,10 +2248,10 @@
       },
       "Library Symbol Properties": {
         "__geometry": {
-          "h": 612,
+          "h": 446,
           "w": 1204,
-          "x": 2953,
-          "y": 942
+          "x": 1403,
+          "y": 1025
         },
         "wxFrame_0wxPanel_1wxCheckBox_0": false,
         "wxFrame_0wxPanel_2wxSplitterWindow_0": 370,
@@ -2261,11 +2261,11 @@
         "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxCheckBox_1": true,
         "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxSearchCtrl_0": "",
         "wxNotebook_0": "General",
-        "wxNotebook_0wxPanel_0wxComboBox_0": "",
+        "wxNotebook_0wxPanel_0wxComboBox_0": "D_Silicon",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "nll-switch:Kaihl_CPG158301D04-A1+keycap_V5",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "nll-switch:Kaihl_CPG158301D04-A1+keycap_V5",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "UniqueSpecification",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "C14663",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "UniqueSpecification",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
@@ -2277,8 +2277,8 @@
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_2": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_3": false,
-        "wxNotebook_0wxPanel_0wxTextCtrl_0": "Kaihl_CPG158301D04-A1+keycap_V5",
-        "wxNotebook_0wxPanel_0wxTextCtrl_1": "",
+        "wxNotebook_0wxPanel_0wxTextCtrl_0": "1N4148WS",
+        "wxNotebook_0wxPanel_0wxTextCtrl_1": "diode",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxCheckBox_0": true,
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0": "0 1",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "",
@@ -3108,11 +3108,11 @@
         "__geometry": {
           "h": 412,
           "w": 632,
-          "x": 3216,
-          "y": 1040
+          "x": 3197,
+          "y": 1154
         },
         "wxCheckBox_0": false,
-        "wxTextCtrl_0": "Kaihl_CPG158301D04-A1+keycap_V5",
+        "wxTextCtrl_0": "RV112FF-40B1-15F-0B20K",
         "wxTextCtrl_1": ""
       },
       "Schematic Setup": {
@@ -3327,20 +3327,20 @@
         "__geometry": {
           "h": 557,
           "w": 1023,
-          "x": 2504,
-          "y": 805
+          "x": 1403,
+          "y": 701
         },
         "wxNotebook_0": "General",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "D33",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "BZX384B${VoltageID}-E3-08",
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "U6",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "C5446692",
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": true,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": true,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_0": -1,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_1": -1,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_2": 2,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_2": 0,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_3": 0,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_1": false,
@@ -3350,7 +3350,7 @@
         "wxNotebook_0wxPanel_1wxGrid_0": "0 1 2 3 4",
         "wxNotebook_0wxPanel_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_2wxGrid_0": "0 1",
-        "wxTextCtrl_0": "nll-diode:BZX384-B5V1"
+        "wxTextCtrl_0": "Driver_LED:WS2811"
       },
       "Symbol Properties - JLCPCB-Order Design Variant": {
         "__geometry": {
@@ -3586,7 +3586,7 @@
         "__geometry": {
           "h": 1257,
           "w": 1404,
-          "x": 0,
+          "x": 1403,
           "y": 377
         },
         "wxPanel_0wxStaticBox_0wxCheckBox_0": true,
@@ -3594,7 +3594,7 @@
         "wxPanel_0wxStaticBox_0wxCheckBox_2": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_3": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_4": true,
-        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 5,
+        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 209,
         "wxStaticBox_0wxCheckBox_0": false,
         "wxStaticBox_0wxCheckBox_1": false,
         "wxStaticBox_0wxCheckBox_2": false,
@@ -3795,6 +3795,6 @@
     "pdf_viewer_name": "",
     "text_editor": "/usr/bin/xed",
     "use_system_pdf_viewer": true,
-    "working_dir": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/play-panel/BenderLeverSpacer_1"
+    "working_dir": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/erp-panel/120139_C25_PCBA_ErpControl_4a"
   }
 }
