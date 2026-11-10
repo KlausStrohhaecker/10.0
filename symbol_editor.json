@@ -100,8 +100,7 @@
       "Description"
     ],
     "open_libs": [
-      "nll-diode",
-      "nll-opto"
+      "nll-RCL"
     ]
   },
   "library": {
