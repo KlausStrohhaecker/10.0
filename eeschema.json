@@ -76,7 +76,7 @@
     "remote_symbol_show": false,
     "schematic_hierarchy_float": false,
     "search_panel_dock_direction": 4,
-    "search_panel_height": 1002,
+    "search_panel_height": 1003,
     "search_panel_width": 2154,
     "show_net_nav_panel": false,
     "show_properties": true,
@@ -530,10 +530,10 @@
     "height": 936,
     "keep_symbol": false,
     "place_all_units": true,
-    "sash_pos_h": 1240,
+    "sash_pos_h": 1045,
     "sash_pos_v": 460,
     "sort_mode": 0,
-    "width": 1404
+    "width": 1080
   },
   "system": {
     "file_history": [

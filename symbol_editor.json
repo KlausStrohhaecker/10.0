@@ -100,7 +100,7 @@
       "Description"
     ],
     "open_libs": [
-      "nll-RCL"
+      "nll-mcu-stm32"
     ]
   },
   "library": {
