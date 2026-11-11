@@ -33,16 +33,16 @@
           "x": 2598,
           "y": 845
         },
-        "wxBitmapComboBox_0": "B.Silkscreen",
+        "wxBitmapComboBox_0": "F.Silkscreen",
         "wxCheckBox_0": false,
         "wxCheckBox_1": true,
         "wxCheckBox_2": true,
         "wxComboBox_0": "0",
         "wxRadioBox_0": 3,
         "wxRadioBox_1": 1,
-        "wxTextCtrl_0": "${BoardID1:VALUE}",
-        "wxTextCtrl_1": 4700000,
-        "wxTextCtrl_2": 95700000,
+        "wxTextCtrl_0": "${BoardID1:Value}",
+        "wxTextCtrl_1": 42400000,
+        "wxTextCtrl_2": 5997611,
         "wxTextCtrl_3": 10000000,
         "wxTextCtrl_4": 10000000,
         "wxTextCtrl_5": 2000000,
@@ -436,10 +436,10 @@
         "__geometry": {
           "h": 406,
           "w": 906,
-          "x": 498,
+          "x": 1403,
           "y": 385
         },
-        "wxTextCtrl_0": "Command line:\n\"/usr/bin/kicad-cli\" pcb export step --subst-models --no-components --include-silkscreen --drill-origin --min-distance='0.001mm' -f -o \"/home/ksl/DevLocal/C25-hardware/pcba/kicad/display-bracket/120139_C25_PCB_DisplayBracket_1/doc-output/120139_C25_PCB_DisplayBracket_1_3D.stp\" \"/home/ksl/DevLocal/C25-hardware/pcba/kicad/display-bracket/120139_C25_PCB_DisplayBracket_1/120139_C25_PCB_DisplayBracket_1.kicad_pcb\"\n\nSTEP file '/home/ksl/DevLocal/C25-hardware/pcba/kicad/display-bracket/120139_C25_PCB_DisplayBracket_1/doc-output/120139_C25_PCB_DisplayBracket_1_3D.stp' created.\n\nExport time 0.022 s\n\n*** Success ***\n"
+        "wxTextCtrl_0": "Command line:\n\"/usr/bin/kicad-cli\" pcb export step --subst-models --drill-origin --min-distance='0.001mm' -f -o \"/home/ksl/DevLocal/C25-hardware/pcba/kicad/play-panel/120141_C25_PCBA_BenderLeverSensor_4a/120107_C25_EhcMidi_1a.stp\" \"/home/ksl/DevLocal/C25-hardware/pcba/kicad/play-panel/120141_C25_PCBA_BenderLeverSensor_4a/120141_C25_BenderLeverSensor_4a.kicad_pcb\"\n\nSTEP file '/home/ksl/DevLocal/C25-hardware/pcba/kicad/play-panel/120141_C25_PCBA_BenderLeverSensor_4a/120107_C25_EhcMidi_1a.stp' created.\n\nExport time 0.493 s\n\n*** Success ***\n"
       },
       "Add Netclass Assignment": {
         "__geometry": {
@@ -1130,7 +1130,7 @@
         "wxCheckBox_1": true,
         "wxPanel_0wxSplitterWindow_0": 1240,
         "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxHtmlWindow_0": 0,
-        "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxSearchCtrl_0": "nll-mou",
+        "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxSearchCtrl_0": "nll-mis",
         "wxPanel_0wxSplitterWindow_0wxPanel_1wxPanel_1wxOwnerDrawnComboBox_0": 0
       },
       "Circle Properties": {
@@ -1588,12 +1588,12 @@
         "__geometry": {
           "h": 326,
           "w": 748,
-          "x": 656,
+          "x": 1403,
           "y": 1107
         },
         "wxCheckBox_0": true,
         "wxCheckBox_1": false,
-        "wxCheckBox_2": true,
+        "wxCheckBox_2": false,
         "wxCheckBox_3": false,
         "wxCheckBox_4": false,
         "wxChoice_0": -1,
@@ -1601,8 +1601,8 @@
         "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Default Font",
         "wxTextCtrl_0": "",
         "wxTextCtrl_1": 12700,
-        "wxTextCtrl_2": 2540,
-        "wxTextCtrl_3": 88900
+        "wxTextCtrl_2": 66040,
+        "wxTextCtrl_3": 711200
       },
       "Edit Footprint Field": {
         "__geometry": {
@@ -1741,20 +1741,20 @@
         "__geometry": {
           "h": 701,
           "w": 939,
-          "x": 465,
-          "y": 994
+          "x": 1959,
+          "y": 890
         },
         "wxChoice_0": 0,
         "wxChoice_1": 0,
-        "wxDialog_0wxTextCtrl_0": "Command line:\n\"/usr/bin/kicad-cli\" pcb export step --subst-models --no-components --include-silkscreen --drill-origin --min-distance='0.001mm' -f -o \"/home/ksl/DevLocal/C25-hardware/pcba/kicad/display-bracket/120139_C25_PCB_DisplayBracket_1/doc-output/120139_C25_PCB_DisplayBracket_1_3D.stp\" \"/home/ksl/DevLocal/C25-hardware/pcba/kicad/display-bracket/120139_C25_PCB_DisplayBracket_1/120139_C25_PCB_DisplayBracket_1.kicad_pcb\"\n\nSTEP file '/home/ksl/DevLocal/C25-hardware/pcba/kicad/display-bracket/120139_C25_PCB_DisplayBracket_1/doc-output/120139_C25_PCB_DisplayBracket_1_3D.stp' created.\n\nExport time 0.022 s\n\n*** Success ***\n",
+        "wxDialog_0wxTextCtrl_0": "Command line:\n\"/usr/bin/kicad-cli\" pcb export step --subst-models --drill-origin --min-distance='0.001mm' -f -o \"/home/ksl/DevLocal/C25-hardware/pcba/kicad/play-panel/120141_C25_PCBA_BenderLeverSensor_4a/120107_C25_EhcMidi_1a.stp\" \"/home/ksl/DevLocal/C25-hardware/pcba/kicad/play-panel/120141_C25_PCBA_BenderLeverSensor_4a/120141_C25_BenderLeverSensor_4a.kicad_pcb\"\n\nSTEP file '/home/ksl/DevLocal/C25-hardware/pcba/kicad/play-panel/120141_C25_PCBA_BenderLeverSensor_4a/120107_C25_EhcMidi_1a.stp' created.\n\nExport time 0.493 s\n\n*** Success ***\n",
         "wxDialog_1wxTextCtrl_0": "Command line:\n\"/usr/bin/kicad-cli\" pcb export step --subst-models --no-components --include-silkscreen --drill-origin --min-distance='0.001mm' -f -o \"/home/ksl/DevLocal/C25-hardware/pcba/kicad/display-bracket/120139_C25_PCB_DisplayBracket_1/doc-output/120139_C25_PCB_DisplayBracket_1_3D.stp\" \"/home/ksl/DevLocal/C25-hardware/pcba/kicad/display-bracket/120139_C25_PCB_DisplayBracket_1/120139_C25_PCB_DisplayBracket_1.kicad_pcb\"\n\nSTEP file '/home/ksl/DevLocal/C25-hardware/pcba/kicad/display-bracket/120139_C25_PCB_DisplayBracket_1/doc-output/120139_C25_PCB_DisplayBracket_1_3D.stp' created.\n\nExport time 0.012 s\n\n*** Success ***\n",
         "wxStaticBox_0wxCheckBox_0": false,
         "wxStaticBox_0wxCheckBox_1": true,
         "wxStaticBox_0wxCheckBox_2": false,
-        "wxStaticBox_0wxCheckBox_3": true,
+        "wxStaticBox_0wxCheckBox_3": false,
         "wxStaticBox_0wxCheckBox_4": false,
         "wxStaticBox_0wxCheckBox_5": false,
-        "wxStaticBox_0wxCheckBox_6": false,
+        "wxStaticBox_0wxCheckBox_6": true,
         "wxStaticBox_0wxRadioButton_0": true,
         "wxStaticBox_0wxRadioButton_1": false,
         "wxStaticBox_0wxRadioButton_2": false,
@@ -2048,10 +2048,10 @@
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "https://cdn-shop.adafruit.com/datasheets/WS2811.pdf",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "@{beforefirst(\"${PROJECTNAME}\", \"_\")}",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_0": 1,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxComboBox_0": "180",
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_0": 5050000,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_1": 91250000,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_0": 0,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxComboBox_0": "0",
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_0": 22250000,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_1": 13050000,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxTextCtrl_2": "SOT TO_SOT_SMD",
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_0": true,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_1": false,
@@ -2159,20 +2159,20 @@
           "x": 371,
           "y": 826
         },
-        "wxBitmapComboBox_0": "B.Silkscreen",
+        "wxBitmapComboBox_0": "F.Silkscreen",
         "wxCheckBox_0": false,
         "wxCheckBox_1": false,
         "wxCheckBox_2": false,
         "wxCheckBox_3": true,
-        "wxComboBox_0": "0",
+        "wxComboBox_0": "90",
         "wxOwnerDrawnComboBox_0": 0,
         "wxOwnerDrawnComboBox_0wxTextCtrl_0": "KiCad Font",
-        "wxTextCtrl_0": "120139",
+        "wxTextCtrl_0": "120141",
         "wxTextCtrl_1": 2000000,
         "wxTextCtrl_2": 2000000,
-        "wxTextCtrl_3": 550000,
-        "wxTextCtrl_4": -15550000,
-        "wxTextCtrl_5": 250000
+        "wxTextCtrl_3": 0,
+        "wxTextCtrl_4": 1000000,
+        "wxTextCtrl_5": 150000
       },
       "Generate Multichannel Rule Areas": {
         "__geometry": {
@@ -2486,8 +2486,8 @@
         },
         "wxCheckBox_0": false,
         "wxChoice_0": 0,
-        "wxTextCtrl_0": 17000000,
-        "wxTextCtrl_1": 0,
+        "wxTextCtrl_0": 0,
+        "wxTextCtrl_1": 2000000,
         "wxTextCtrl_2": "0"
       },
       "New Symbol": {
@@ -3159,24 +3159,24 @@
         "wxCheckBox_0": false,
         "wxCheckBox_1": false,
         "wxCheckBox_2": false,
-        "wxChoice_0": 1,
+        "wxChoice_0": 0,
         "wxComboCtrl_0": "<no net>",
         "wxComboCtrl_0wxPopupTransientWindow_0wxPanel_0wxTextCtrl_0": "",
         "wxNotebook_0": "By Corner and Size",
-        "wxNotebook_0wxPanel_0wxTextCtrl_0": 0,
-        "wxNotebook_0wxPanel_0wxTextCtrl_1": -10000000,
-        "wxNotebook_0wxPanel_0wxTextCtrl_2": 10000000,
-        "wxNotebook_0wxPanel_0wxTextCtrl_3": 0,
-        "wxNotebook_0wxPanel_1wxTextCtrl_0": 0,
-        "wxNotebook_0wxPanel_1wxTextCtrl_1": -10000000,
-        "wxNotebook_0wxPanel_1wxTextCtrl_2": 10000000,
-        "wxNotebook_0wxPanel_1wxTextCtrl_3": 10000000,
-        "wxNotebook_0wxPanel_2wxTextCtrl_0": 5000000,
-        "wxNotebook_0wxPanel_2wxTextCtrl_1": -5000000,
-        "wxNotebook_0wxPanel_2wxTextCtrl_2": 10000000,
-        "wxNotebook_0wxPanel_2wxTextCtrl_3": 10000000,
+        "wxNotebook_0wxPanel_0wxTextCtrl_0": -21000000,
+        "wxNotebook_0wxPanel_0wxTextCtrl_1": -8000000,
+        "wxNotebook_0wxPanel_0wxTextCtrl_2": 21000000,
+        "wxNotebook_0wxPanel_0wxTextCtrl_3": 12999999,
+        "wxNotebook_0wxPanel_1wxTextCtrl_0": -21000000,
+        "wxNotebook_0wxPanel_1wxTextCtrl_1": -8000000,
+        "wxNotebook_0wxPanel_1wxTextCtrl_2": 42000000,
+        "wxNotebook_0wxPanel_1wxTextCtrl_3": 20999999,
+        "wxNotebook_0wxPanel_2wxTextCtrl_0": 0,
+        "wxNotebook_0wxPanel_2wxTextCtrl_1": 2499999,
+        "wxNotebook_0wxPanel_2wxTextCtrl_2": 42000000,
+        "wxNotebook_0wxPanel_2wxTextCtrl_3": 20999999,
         "wxTextCtrl_0": 0,
-        "wxTextCtrl_1": 0,
+        "wxTextCtrl_1": 100000,
         "wxTextCtrl_2": 0
       },
       "Reference Image Properties": {
@@ -3559,7 +3559,7 @@
           "x": 182,
           "y": 1102
         },
-        "wxBitmapComboBox_0": "F.Cu",
+        "wxBitmapComboBox_0": "F.Mask",
         "wxCheckBox_0": false,
         "wxCheckBox_1": false,
         "wxCheckBox_2": false,
@@ -3568,10 +3568,10 @@
         "wxOwnerDrawnComboBox_0": 15,
         "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Consolas",
         "wxTextCtrl_0": "",
-        "wxTextCtrl_1": 2000000,
-        "wxTextCtrl_2": 2000000,
-        "wxTextCtrl_3": 69100000,
-        "wxTextCtrl_4": 142100000,
+        "wxTextCtrl_1": 1500000,
+        "wxTextCtrl_2": 1500000,
+        "wxTextCtrl_3": -6936773,
+        "wxTextCtrl_4": 11521364,
         "wxTextCtrl_5": 300000
       },
       "Text PropertiesLibeditFrame": {
@@ -3728,7 +3728,7 @@
         "__geometry": {
           "h": 1257,
           "w": 1404,
-          "x": 1403,
+          "x": 0,
           "y": 377
         },
         "wxPanel_0wxStaticBox_0wxCheckBox_0": true,
@@ -3736,7 +3736,7 @@
         "wxPanel_0wxStaticBox_0wxCheckBox_2": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_3": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_4": true,
-        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 234,
+        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 0,
         "wxStaticBox_0wxCheckBox_0": false,
         "wxStaticBox_0wxCheckBox_1": false,
         "wxStaticBox_0wxCheckBox_2": false,
@@ -3947,6 +3947,6 @@
     "pdf_viewer_name": "",
     "text_editor": "/usr/bin/xed",
     "use_system_pdf_viewer": true,
-    "working_dir": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/erp-panel/120139_C25_PCBA_ErpControl_4a"
+    "working_dir": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/play-panel/120141_C25_PCBA_BenderLeverSensor_4a"
   }
 }
