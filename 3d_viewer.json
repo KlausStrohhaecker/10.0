@@ -10,7 +10,7 @@
   "camera": {
     "animation_enabled": true,
     "moving_speed_multiplier": 3,
-    "projection_mode": 1,
+    "projection_mode": 0,
     "rotation_increment": 10.0
   },
   "color_picker": {
@@ -239,7 +239,7 @@
     "show_adhesive": false,
     "show_axis": true,
     "show_board_body": true,
-    "show_comments": false,
+    "show_comments": true,
     "show_copper_bottom": true,
     "show_copper_top": true,
     "show_drawings": true,

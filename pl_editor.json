@@ -19,7 +19,7 @@
     "height": -1,
     "keep_annotations": false,
     "lib_tree": {
-      "column_widths": null
+      "column_widths": {}
     },
     "place_as_group": true,
     "place_as_sheet": false,
@@ -48,7 +48,7 @@
   "last_paper_size": "A3",
   "last_was_portrait": false,
   "lib_tree": {
-    "column_widths": null,
+    "column_widths": {},
     "columns": [],
     "open_libs": []
   },

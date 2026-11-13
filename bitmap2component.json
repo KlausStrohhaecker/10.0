@@ -19,7 +19,7 @@
     "height": -1,
     "keep_annotations": false,
     "lib_tree": {
-      "column_widths": null
+      "column_widths": {}
     },
     "place_as_group": true,
     "place_as_sheet": false,
@@ -45,7 +45,7 @@
   "last_format": 2,
   "last_mod_layer": 1,
   "lib_tree": {
-    "column_widths": null,
+    "column_widths": {},
     "columns": [],
     "open_libs": []
   },
