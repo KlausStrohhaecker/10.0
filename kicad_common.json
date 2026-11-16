@@ -40,9 +40,9 @@
         "wxComboBox_0": "0",
         "wxRadioBox_0": 3,
         "wxRadioBox_1": 1,
-        "wxTextCtrl_0": "${BoardID1:Value}",
-        "wxTextCtrl_1": 42400000,
-        "wxTextCtrl_2": 5997611,
+        "wxTextCtrl_0": "${BoardId1:Value}",
+        "wxTextCtrl_1": 94140000,
+        "wxTextCtrl_2": 39690000,
         "wxTextCtrl_3": 10000000,
         "wxTextCtrl_4": 10000000,
         "wxTextCtrl_5": 2000000,
@@ -387,24 +387,24 @@
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "NetTie:NetTie-2_SMD_Pad0.5mm",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "NetTie:NetTie-2_SMD_Pad0.5mm",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "R16",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "BoardID1",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "1",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_2": "5V-IN",
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": true,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": true,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_0": -1,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_1": -1,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_2": 1,
-        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_3": 1,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_2": 0,
+        "wxNotebook_0wxPanel_0wxStaticBox_1wxChoice_3": 0,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_0": false,
-        "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_1": false,
+        "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_1": true,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_2": false,
-        "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_3": false,
+        "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_3": true,
         "wxNotebook_0wxPanel_0wxStaticBox_2wxCheckBox_4": false,
         "wxNotebook_0wxPanel_1wxGrid_0": "0 1 2 3 4",
         "wxNotebook_0wxPanel_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_2wxGrid_0": "0 1",
-        "wxTextCtrl_0": "nll-RCL:Rthickf_1k_1%_0603"
+        "wxTextCtrl_0": "nll-misc:BoardID"
       },
       "*Symbol Properties - JLCPCB-Order Design Variant": {
         "__geometry": {
@@ -1240,7 +1240,7 @@
         "wxCheckBox_1": true,
         "wxPanel_0wxSplitterWindow_0": 1240,
         "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxHtmlWindow_0": 0,
-        "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxSearchCtrl_0": "nll-mis",
+        "wxPanel_0wxSplitterWindow_0wxPanel_0wxPanel_0wxSearchCtrl_0": "board",
         "wxPanel_0wxSplitterWindow_0wxPanel_1wxPanel_1wxOwnerDrawnComboBox_0": 0
       },
       "Circle Properties": {
@@ -2062,19 +2062,19 @@
         "__geometry": {
           "h": 220,
           "w": 487,
-          "x": 2639,
+          "x": 917,
           "y": 667
         },
         "wxCheckBox_0": true,
         "wxCheckBox_1": false,
-        "wxCheckBox_2": true,
-        "wxCheckBox_3": true,
-        "wxCheckBox_4": true,
-        "wxCheckBox_5": true,
+        "wxCheckBox_2": false,
+        "wxCheckBox_3": false,
+        "wxCheckBox_4": false,
+        "wxCheckBox_5": false,
         "wxCheckBox_6": true,
-        "wxCheckBox_7": true,
-        "wxCheckBox_8": true,
-        "wxCheckBox_9": true
+        "wxCheckBox_7": false,
+        "wxCheckBox_8": false,
+        "wxCheckBox_9": false
       },
       "Find": {
         "__geometry": {
@@ -3620,7 +3620,7 @@
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "J9",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "J4",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "C14663",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": true,
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_1": false,
@@ -3636,7 +3636,7 @@
         "wxNotebook_0wxPanel_1wxGrid_0": "0 1 2 3 4",
         "wxNotebook_0wxPanel_2wxCheckBox_0": false,
         "wxNotebook_0wxPanel_2wxGrid_0": "0 1",
-        "wxTextCtrl_0": "Connector_Generic_MountingPin:Conn_01x12_MountingPin"
+        "wxTextCtrl_0": "Connector_Generic:Conn_01x06"
       },
       "Symbol Properties - JLCPCB-Order Design Variant": {
         "__geometry": {
@@ -3756,23 +3756,23 @@
         "__geometry": {
           "h": 910,
           "w": 1222,
-          "x": 182,
-          "y": 1102
+          "x": 2034,
+          "y": 1056
         },
-        "wxBitmapComboBox_0": "F.Mask",
+        "wxBitmapComboBox_0": "F.Silkscreen",
         "wxCheckBox_0": false,
-        "wxCheckBox_1": false,
+        "wxCheckBox_1": true,
         "wxCheckBox_2": false,
         "wxCheckBox_3": false,
         "wxComboBox_0": "0",
         "wxOwnerDrawnComboBox_0": 15,
         "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Consolas",
         "wxTextCtrl_0": "",
-        "wxTextCtrl_1": 1500000,
-        "wxTextCtrl_2": 1500000,
-        "wxTextCtrl_3": -6936773,
-        "wxTextCtrl_4": 11521364,
-        "wxTextCtrl_5": 300000
+        "wxTextCtrl_1": 3000000,
+        "wxTextCtrl_2": 3000000,
+        "wxTextCtrl_3": 163190000,
+        "wxTextCtrl_4": 27830000,
+        "wxTextCtrl_5": 600000
       },
       "Text PropertiesLibeditFrame": {
         "__geometry": {
@@ -3928,7 +3928,7 @@
         "__geometry": {
           "h": 1257,
           "w": 1404,
-          "x": 1403,
+          "x": 0,
           "y": 377
         },
         "wxPanel_0wxStaticBox_0wxCheckBox_0": true,
@@ -3936,7 +3936,7 @@
         "wxPanel_0wxStaticBox_0wxCheckBox_2": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_3": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_4": true,
-        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 220,
+        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 116,
         "wxStaticBox_0wxCheckBox_0": false,
         "wxStaticBox_0wxCheckBox_1": false,
         "wxStaticBox_0wxCheckBox_2": false,
@@ -4147,6 +4147,6 @@
     "pdf_viewer_name": "",
     "text_editor": "/usr/bin/xed",
     "use_system_pdf_viewer": true,
-    "working_dir": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/erp-panel/120139_C25_PCBA_ErpControl_4a"
+    "working_dir": "/home/ksl/DevLocal/C25-hardware/pcba/kicad/erp-panel/120112_C25_PCBA_ErpLED_1a"
   }
 }
