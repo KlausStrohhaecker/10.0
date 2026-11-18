@@ -100,9 +100,7 @@
       "Description"
     ],
     "open_libs": [
-      "nll-RCL",
-      "nll-regulator",
-      "nll-rotary"
+      "nll-RCL"
     ]
   },
   "library": {
