@@ -100,7 +100,13 @@
       "Description"
     ],
     "open_libs": [
-      "nll-RCL"
+      "nll-audio-codec",
+      "nll-diode",
+      "nll-misc-ic",
+      "nll-opamp",
+      "nll-opto",
+      "nll-regulator",
+      "nll-transistor"
     ]
   },
   "library": {
