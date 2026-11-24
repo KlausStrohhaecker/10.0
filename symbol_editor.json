@@ -100,13 +100,19 @@
       "Description"
     ],
     "open_libs": [
-      "nll-audio-codec",
-      "nll-diode",
-      "nll-misc-ic",
-      "nll-opamp",
-      "nll-opto",
-      "nll-regulator",
-      "nll-transistor"
+      "Analog_ADC",
+      "Auxiliary_Items",
+      "Converter_ACDC",
+      "Driver_LED",
+      "Driver_Motor",
+      "MCU_Module",
+      "Mechanical",
+      "nll-connector",
+      "nll-misc",
+      "nll-RCL",
+      "RF_Bluetooth",
+      "RF_Module",
+      "Sensor_Pressure"
     ]
   },
   "library": {

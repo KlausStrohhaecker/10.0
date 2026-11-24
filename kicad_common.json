@@ -1184,8 +1184,8 @@
         "__geometry": {
           "h": 996,
           "w": 1071,
-          "x": 1535,
-          "y": 898
+          "x": 2446,
+          "y": 901
         },
         "wxPanel_2wxStaticBox_0wxCheckBox_0": true,
         "wxPanel_2wxStaticBox_0wxCheckBox_1": true,
@@ -1198,7 +1198,7 @@
         "wxRadioButton_2": false,
         "wxRadioButton_3": false,
         "wxRadioButton_4": false,
-        "wxStaticBox_1wxCheckBox_0": false,
+        "wxStaticBox_1wxCheckBox_0": true,
         "wxStaticBox_1wxCheckBox_1": true,
         "wxStaticBox_1wxCheckBox_10": true,
         "wxStaticBox_1wxCheckBox_11": true,
@@ -1210,10 +1210,10 @@
         "wxStaticBox_1wxCheckBox_7": true,
         "wxStaticBox_1wxCheckBox_8": true,
         "wxStaticBox_1wxCheckBox_9": true,
-        "wxTextCtrl_0": "U2",
-        "wxTextCtrl_1": "STM32G491VETx",
-        "wxTextCtrl_2": "nll-mcu-stm32:STM32G491VETx",
-        "wxTextCtrl_3": "nll-sensor:DRV5055A2"
+        "wxTextCtrl_0": "R97",
+        "wxTextCtrl_1": "tbd",
+        "wxTextCtrl_2": "nll-RCL:Rprec_1.2k_1%_TC100_0603",
+        "wxTextCtrl_3": "nll-RCL:Rthickf_3k3_1%_0603"
       },
       "Choose Power Symbol": {
         "__geometry": {
@@ -3928,15 +3928,15 @@
         "__geometry": {
           "h": 1257,
           "w": 1404,
-          "x": 0,
-          "y": 377
+          "x": 2772,
+          "y": 637
         },
         "wxPanel_0wxStaticBox_0wxCheckBox_0": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_1": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_2": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_3": true,
         "wxPanel_0wxStaticBox_0wxCheckBox_4": true,
-        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 116,
+        "wxPanel_0wxStaticBox_0wxHtmlWindow_0": 892,
         "wxStaticBox_0wxCheckBox_0": false,
         "wxStaticBox_0wxCheckBox_1": false,
         "wxStaticBox_0wxCheckBox_2": false,
