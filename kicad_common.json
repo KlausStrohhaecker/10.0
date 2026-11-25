@@ -1786,7 +1786,7 @@
         "__geometry": {
           "h": 326,
           "w": 748,
-          "x": 656,
+          "x": 1403,
           "y": 406
         },
         "wxCheckBox_0": true,
@@ -1799,8 +1799,8 @@
         "wxOwnerDrawnComboBox_0wxTextCtrl_0": "Default Font",
         "wxTextCtrl_0": "",
         "wxTextCtrl_1": 12700,
-        "wxTextCtrl_2": 4800600,
-        "wxTextCtrl_3": 1955800
+        "wxTextCtrl_2": 1435100,
+        "wxTextCtrl_3": 1663700
       },
       "Electrical Rules Checker": {
         "__geometry": {
@@ -2511,10 +2511,10 @@
         "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxCheckBox_1": true,
         "wxFrame_0wxPanel_2wxSplitterWindow_0wxSplitterWindow_0wxPanel_0wxSearchCtrl_0": "",
         "wxNotebook_0": "General",
-        "wxNotebook_0wxPanel_0wxComboBox_0": "D_Zener",
+        "wxNotebook_0wxPanel_0wxComboBox_0": "Q_NPMOS_GSDD",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0": "0 1 2 3 4 5 6 7",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "https://www.onsemi.com/download/data-sheet/pdf/1sma5913bt3-d.pdf",
-        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "https://www.onsemi.com/download/data-sheet/pdf/1sma5913bt3-d.pdf",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0": "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/ut6me5tcr-e.pdf",
+        "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxComboCtrl_0wxTextCtrl_0": "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/ut6me5tcr-e.pdf",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "C6708087, C54563338, C2846216",
         "wxNotebook_0wxPanel_0wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_1": "UniqueSpecification",
         "wxNotebook_0wxPanel_0wxStaticBox_1wxCheckBox_0": false,
@@ -2527,12 +2527,12 @@
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_1": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_2": false,
         "wxNotebook_0wxPanel_0wxStaticBox_3wxCheckBox_3": false,
-        "wxNotebook_0wxPanel_0wxTextCtrl_0": "SMA59xxB",
-        "wxNotebook_0wxPanel_0wxTextCtrl_1": "diode",
-        "wxNotebook_0wxPanel_1wxStaticBox_0wxCheckBox_0": true,
+        "wxNotebook_0wxPanel_0wxTextCtrl_0": "UT6ME5",
+        "wxNotebook_0wxPanel_0wxTextCtrl_1": "transistor NMOS N-MOS N-MOSFET PMOS P-MOS P-MOSFET",
+        "wxNotebook_0wxPanel_1wxStaticBox_0wxCheckBox_0": false,
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0": "0 1",
         "wxNotebook_0wxPanel_1wxStaticBox_0wxGrid_0wxWindow_3wxTextCtrl_0": "",
-        "wxNotebook_0wxPanel_1wxStaticBox_0wxSpinCtrl_0": 1,
+        "wxNotebook_0wxPanel_1wxStaticBox_0wxSpinCtrl_0": 2,
         "wxNotebook_0wxPanel_1wxStaticBox_1wxGrid_0": "0",
         "wxNotebook_0wxPanel_1wxStaticBox_1wxRadioButton_0": true,
         "wxNotebook_0wxPanel_1wxStaticBox_1wxRadioButton_1": false,
